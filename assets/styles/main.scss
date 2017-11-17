@@ -1,0 +1,190 @@
+@import "common/variables";
+
+// Automatically injected Bower dependencies via wiredep (never manually edit this block)
+// bower:scss
+@import "../../bower_components/bootstrap/scss/bootstrap.scss";
+// endbower
+
+@import "common/global";
+@import "components/buttons";
+@import "components/comments";
+@import "components/forms";
+@import "components/grid";
+@import "components/wp-classes";
+@import "layouts/header";
+@import "layouts/sidebar";
+@import "layouts/footer";
+@import "layouts/pages";
+@import "layouts/posts";
+@import "layouts/tinymce";
+
+
+.content { padding-top: 20px;}
+
+.emm-header-form {margin-left: 11px;
+}
+.emm-w3m { background-color: red; background: url('../images/shield.png') no-repeat; width: 32px; height: 32px; margin-left: 20px; margin-top: -35px;
+}
+
+.emm-top-header {}
+
+
+// VARIABLES
+
+
+// HEADER
+.emm-top-header {
+	margin-bottom: 10px;
+}
+
+	.logo { max-width: 220px; max-height: 55px; }
+
+.banner {
+	padding-bottom: 0rem;
+	background-color: white;
+}
+.navbar-brand {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	
+	img {
+		max-width: 200px;
+	}
+}
+    .navbar-nav {  }
+.emm-social-top {
+}
+.emm-login {
+	margin-left: 18px;
+
+}
+.emm-slogan {
+	font-size: 13px;
+	color: #CCC;
+	font-weight: bold;
+}
+.emm-social-top .fa {
+	padding: 0px;
+	margin-left: 10px;
+	font-size: 30px;
+	font-style: normal;
+}
+
+
+.navbar-nav .nav-link { }
+// NAVIGATION
+
+	 .nav-link { 
+	  }
+
+
+.emm-premium {
+	margin-left: 20px;
+}
+.emm-top-ad {
+	border-bottom: 1px solid #f2f2f2; 
+	background-color: #f2f2f2; 
+	margin-bottom:20px; 
+	padding-bottom: 20px; 
+	margin-top: 0px;
+	padding-top: 20px;
+}
+.emm-top-ad img {
+	width: 728px;
+	height: 90px;
+}
+// MEDIA QUERIES
+
+@include media-breakpoint-down(md) 
+{
+	.emm-container-responsive { padding: 0;}
+    .emm-top-header { display: none; } 
+	.emm-header-form {padding-left: 0; margin-left: 0px;}
+    .navbar-nav { margin-top: 20px;}
+    .banner { margin-top: 0rem; margin-bottom: 0rem; padding-top: 0;}
+    .emm-premium {display: none;}
+    .emm-login { display: none; }
+        .emm-w3m { display: none; }
+        .emm-top-ad { display: none;}  
+        .emm-footer-newsletter { display: none;}
+        .emm-social-bottom { display: none;}
+        .emm-footer-links {margin-top: 30px; text-align: center;}
+        .emm-copyright { text-align: center;}
+
+     
+}
+@include media-breakpoint-up(md) 
+{
+	.emm-footer-col2 { text-align: right;}
+
+}
+@include media-breakpoint-only(md) 
+{
+
+}
+
+
+@include media-breakpoint-up(lg) 
+{
+	.menu-item { margin-right: 10px; }
+	 .navbar-brand { display: none; } 
+
+    
+}
+@include media-breakpoint-only(lg) 
+{ 
+	.emm-slogan { display: none; }
+	.emm-premium {display: none;}
+	.emm-login { display: none; }
+	.emm-w3m { display: none; }
+}
+
+
+#email-label2 {
+    position: relative; cursor: default;
+
+}
+
+#email-label2 .fa-search {
+    color: #CCC;
+    left: 9px;
+    position: absolute;
+    cursor: default;
+    font-size: 20px;
+    top: 9px;
+}
+
+.emm-header-form input {
+	padding-left: 35px;
+}
+.emm-premium a:hover { text-decoration: none;}
+
+
+
+
+
+
+// FOOTER
+.content-info { background-color: #E6E6E6; }
+.emm-footer-logo {  max-width: 220px; max-height: 55px; margin-bottom: 15px;}
+
+.emm-social-bottom .fa {
+	padding: 0px;
+	margin-left: 10px;
+	font-size: 30px;
+	font-style: normal;
+}
+.emm-social-bottom { 
+margin-bottom: 90px; }
+.emm-footer {
+	padding: 20px;
+	font-size: .8rem;
+}
+.emm-p-footer { margin: 0px;}
+.emm-footer-newsletter {
+	margin-top: 20px;
+}
+.emm-footer-links {}
+.emm-footer-links a { font-size: 16px; font-weight: bold; }
+.emm-copyright { margin-top: 20px; }
+.emm-copyright p { color: grey; }
