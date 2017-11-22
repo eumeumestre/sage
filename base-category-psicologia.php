@@ -1,4 +1,4 @@
-teste-psicologia deplyed<?php
+teste-psicologia deplye vaii<?php
 
 use Roots\Sage\Setup;
 use Roots\Sage\Wrapper;
