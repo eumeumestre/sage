@@ -1,4 +1,4 @@
-teste-psicologia<?php
+teste-psicologia DEPLOY FUNCIONOU<?php
 
 use Roots\Sage\Setup;
 use Roots\Sage\Wrapper;
