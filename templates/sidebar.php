@@ -1,1 +1,1 @@
-<div style="background-color: orange;"><?php dynamic_sidebar('sidebar-primary'); ?></div>
+<div><?php dynamic_sidebar('sidebar-primary'); ?></div>

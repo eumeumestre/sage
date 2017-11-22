@@ -1,4 +1,4 @@
-<?php
+teste-estilo de vida<?php
 
 use Roots\Sage\Setup;
 use Roots\Sage\Wrapper;
@@ -16,7 +16,7 @@ use Roots\Sage\Wrapper;
     <![endif]-->
     <?php
       do_action('get_header');
-      get_template_part('templates/header');  
+      get_template_part('templates/header', 'estilo-de-vida');  
     ?>
 
     <div class="wrap container" style="background-color: #fff; margin-top: -210px;" role="document">

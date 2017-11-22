@@ -1,4 +1,5 @@
 <?php while (have_posts()) : the_post(); ?>
+      <span>mostrar categoria do post aqui</span>
   <article <?php post_class(); ?>>
     <header>
       <h1 class="entry-title"><?php the_title(); ?></h1>

@@ -2,7 +2,7 @@
 
 <!--START FOOTER-->
 <div class="emm-top-ad text-center">
-	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.png">
+	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.gif">
 </div>
 
  	<div class="container-fluid">
@@ -32,7 +32,7 @@
 				<!--END COL 1-->
 
 				<!--START COL 2-->
-				<div class="col-xl-7 col-lg-7 col-md-12 emm-footer-col2">
+				<div class="col-xl-7 col-lg-7 col-md-12 emm-footer-col2"> 
 
 					<div class="emm-social-bottom">
 						<a><i class="fa fa-youtube"></i></a>
@@ -44,20 +44,20 @@
 
 					<div class="emm-footer-links">
 						<div class="mb-2">
-							<a href="#">Sobre nós</a>
+							<a href="http://localhost:8080/?page_id=15">Sobre nós</a>
 							<span>·</span>
-							<a href="#">Autores</a>
+							<a href="http://localhost:8080/?page_id=22">Autores</a>
 							<span>·</span>
-							<a href="#">Torne-se um autor</a>
+							<a href="http://localhost:8080/?page_id=38">Torne-se um autor</a>
 							<span>·</span>
-							<a href="#">Premium</a>
+							<a href="http://localhost:8080/?page_id=33">Premium</a>
 						</div>
 						<div>
-							<a href="#">Publicidade</a>
+							<a href="http://localhost:8080/?page_id=31">Publicidade</a>
 							<span>·</span>
-							<a href="#">Termos</a>
+							<a href="http://localhost:8080/?page_id=35">Termos</a>
 							<span>·</span>
-							<a href="#">Politica de privacidade</a>
+							<a href="http://localhost:8080/?page_id=41">Politica de privacidade</a>
 						</div>
 					</div>
 

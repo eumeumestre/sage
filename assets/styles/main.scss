@@ -18,8 +18,45 @@
 @import "layouts/posts";
 @import "layouts/tinymce";
 
+.comments {
+	display: none;
+}
+
+
+.sidebar {
+	h3 {
+		color: #515151;
+		font-size: 1.2rem;
+		margin-bottom: 15px;
+	}
+	.wpp-list {
+		margin: 0px;
+		padding: 0px;
+	}
+	.wpp-post-title {
+	
+	}
+	a:hover {
+		color: green;
+	}
+}
+.popular-posts {
+	margin-bottom: 20px;
+}
+
+
+
+
+
+.recent-posts-2 {
+	
+	ul{ list-style: none; padding: 0px;}
+
+}
+
 
 .content { padding-top: 20px;}
+
 
 .emm-header-form {margin-left: 11px;
 }
@@ -110,6 +147,7 @@
         .emm-social-bottom { display: none;}
         .emm-footer-links {margin-top: 30px; text-align: center;}
         .emm-copyright { text-align: center;}
+        .btn { display: none; }
 
      
 }

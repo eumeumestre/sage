@@ -3,7 +3,7 @@
 
 <!--START TOP HEADER-->
 <div class="emm-top-ad text-center">
-	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.png">
+	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.gif">
 </div>	
 
 <div class="emm-top-header container">
@@ -17,7 +17,7 @@
 		<div class="col emm-slogan align-self-center">
 			O maior portal sobre desenvolvimento pessoal do Brasil
 		</div>
-
+HEADER GERAL
 		<div class="col emm-social-top text-right">
 			<a><i class="fa fa-youtube"></i></a>
 			<a><i class="fa fa-instagram"></i></a>
@@ -96,3 +96,10 @@
 
 </div> 
 </header>
+
+
+
+      <div class="container-fluid" style="margin: 0px; padding: 0px; height: 500px; background-color: #ccc;">
+              <div class="text-center" style="padding-top: 20px;"><img class="" src="<?= get_template_directory_uri(); ?>/dist/images/970x250.gif"></div>
+      </div>
+
