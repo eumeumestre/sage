@@ -44,20 +44,20 @@
 
 					<div class="emm-footer-links">
 						<div class="mb-2">
-							<a href="http://localhost:8080/?page_id=15">Sobre nós</a>
+							<a href="../sobre-nos">Sobre nós</a>
 							<span>·</span>
-							<a href="http://localhost:8080/?page_id=22">Autores</a>
+							<a href="../autores">Autores</a>
 							<span>·</span>
-							<a href="http://localhost:8080/?page_id=38">Torne-se um autor</a>
+							<a href="../torne-se-um-autor">Torne-se um autor</a>
 							<span>·</span>
-							<a href="http://localhost:8080/?page_id=33">Premium</a>
+							<a href="../premium">Premium</a>
 						</div>
 						<div>
-							<a href="http://localhost:8080/?page_id=31">Publicidade</a>
+							<a href="../anuncie">Anuncie</a>
 							<span>·</span>
-							<a href="http://localhost:8080/?page_id=35">Termos</a>
+							<a href="../termos">Termos</a>
 							<span>·</span>
-							<a href="http://localhost:8080/?page_id=41">Politica de privacidade</a>
+							<a href="../politica-de-privacidade">Politica de privacidade</a>
 						</div>
 					</div>
 
