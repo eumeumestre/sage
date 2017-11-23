@@ -44,20 +44,20 @@
 
 					<div class="emm-footer-links">
 						<div class="mb-2">
-							<a href="../sobre-nos">Sobre nós</a>
+							<a href="/sobre-nos">Sobre nós</a>
 							<span>·</span>
-							<a href="../autores">Autores</a>
+							<a href="/autores">Autores</a>
 							<span>·</span>
-							<a href="../torne-se-um-autor">Torne-se um autor</a>
+							<a href="/torne-se-um-autor">Torne-se um autor</a>
 							<span>·</span>
-							<a href="../premium">Premium</a>
+							<a href="/premium">Premium</a>
 						</div>
 						<div>
-							<a href="../anuncie">Anuncie</a>
+							<a href="/anuncie">Anuncie</a>
 							<span>·</span>
-							<a href="../termos">Termos</a>
+							<a href="/termos">Termos</a>
 							<span>·</span>
-							<a href="../politica-de-privacidade">Politica de privacidade</a>
+							<a href="/politica-de-privacidade">Politica de privacidade</a>
 						</div>
 					</div>
 

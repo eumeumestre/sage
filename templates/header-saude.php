@@ -17,7 +17,7 @@
     <div class="col emm-slogan align-self-center">
       O maior portal sobre desenvolvimento pessoal do Brasil
     </div>
-HEADER SAUDE
+
     <div class="col emm-social-top text-right">
       <a><i class="fa fa-youtube"></i></a>
       <a><i class="fa fa-instagram"></i></a>
