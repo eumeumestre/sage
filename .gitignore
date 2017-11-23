@@ -16,6 +16,7 @@ ruleset.xml
 screenshot.png
 node_modules
 vendor
+*.map
 
 dist/scripts/customizer.js.map
 dist/scripts/jquery.js.map
