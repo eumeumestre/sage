@@ -1,4 +1,5 @@
-teste-psicologia deplye agoraa vaii ou ja er!!!!!!<?php
+<p>OK</p>
+teste-psicologia<?php
 
 use Roots\Sage\Setup;
 use Roots\Sage\Wrapper;
