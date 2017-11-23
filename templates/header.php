@@ -2,7 +2,7 @@
 <div class="emm-container-responsive" style="border-bottom: 6px solid #296DE1;">
 
 <!--START TOP HEADER-->
-<div class="emm-top-ad text-center">
+<div class="emm-top-ad text-center" style="display: none;">
 	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.gif">
 </div>	
 
@@ -99,7 +99,5 @@ HEADER GERAL
 
 
 
-      <div class="container-fluid" style="margin: 0px; padding: 0px; height: 500px; background-color: #ccc;">
-              <div class="text-center" style="padding-top: 20px;"><img class="" src="<?= get_template_directory_uri(); ?>/dist/images/970x250.gif"></div>
-      </div>
+
 

@@ -1,4 +1,4 @@
-teste-estilo de vida<?php
+<?php
 
 use Roots\Sage\Setup;
 use Roots\Sage\Wrapper;

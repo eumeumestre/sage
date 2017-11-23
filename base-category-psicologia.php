@@ -1,5 +1,4 @@
-<p>FINALLY</p>
-teste-psicologia<?php
+<?php
 
 use Roots\Sage\Setup;
 use Roots\Sage\Wrapper;
