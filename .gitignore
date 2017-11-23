@@ -16,5 +16,12 @@ ruleset.xml
 screenshot.png
 node_modules
 vendor
+
+/dist/scripts/customizer.js.map
+/dist/scripts/jquery.js.map
+/dist/scripts/main.js.map
+/dist/styles/main.css.map
+
+
 npm-debug.log
 yarn-error.log
