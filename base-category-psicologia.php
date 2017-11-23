@@ -1,4 +1,4 @@
-<p>OK</p>
+<p>VAI MANOOO</p>
 teste-psicologia<?php
 
 use Roots\Sage\Setup;
