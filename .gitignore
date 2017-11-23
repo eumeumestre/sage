@@ -17,11 +17,10 @@ screenshot.png
 node_modules
 vendor
 
-
-customizer.js.map
-jquery.js.map
-main.js.map
-main.css.map
+**/dist/scripts/*.js.map
+**/dist/scripts/*.js.map
+**/dist/scripts/*.js.map
+**/dist/styles/*.css.map
 
 
 npm-debug.log
