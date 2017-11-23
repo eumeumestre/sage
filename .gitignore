@@ -16,11 +16,7 @@ ruleset.xml
 screenshot.png
 node_modules
 vendor
-
-**/dist/scripts/*.js.map
-**/dist/scripts/*.js.map
-**/dist/scripts/*.js.map
-**/dist/styles/*.css.map
+*.map
 
 
 npm-debug.log
