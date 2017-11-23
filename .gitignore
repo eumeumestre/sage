@@ -17,6 +17,7 @@ screenshot.png
 node_modules
 vendor
 *.map
+._*
 
 
 npm-debug.log
