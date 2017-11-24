@@ -99,7 +99,7 @@
 
 
 
-      <div class="container-fluid" style="margin: 0px; padding: 0px; height: 450px; background-image: url('<?= get_template_directory_uri(); ?>/dist/images/image-fluid.jpg')">
+      <div class="container-fluid" style="margin: 0px; padding: 0px; height: 430px; background-image: url('<?= get_template_directory_uri(); ?>/dist/images/image-fluid.jpg')">
               <div class="text-center" style="padding-top: 20px;">
                             <div class="page-header">
               <h1 style="margin-bottom: 30px; margin-top: 75px; color: white;">Finanças</h1>
