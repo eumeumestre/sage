@@ -15,7 +15,7 @@
 		</div>
 
 		<div class="col emm-slogan align-self-center">
-			O maior portal sobre desenvolvimento pessoal do Brasil
+			O MAIOR PORTAL SOBRE DESENVOLVIMENTO PESSSOAL DO BRASIL, PARA VOCE E SUA FAMILIA
 		</div>
 
 		<div class="col emm-social-top text-right">
@@ -96,6 +96,15 @@
 
 </div> 
 </header>
+
+
+      <div class="container-fluid" style="margin: 0px; padding: 0px; height: 430px; background-color: #80aaff">
+              <div class="text-center" style="padding-top: 35px;">
+                            <div class="page-header">
+              <h1 style="margin-bottom: 30px; margin-top: 55px; color: white;">Estilo de Vida</h1>
+              </div></div>
+
+      </div>
 
 
 
