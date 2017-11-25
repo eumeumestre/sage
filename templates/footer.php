@@ -14,8 +14,8 @@
 				<!--START COL 1-->
 				<div class="col-xl-5 col-lg-5 col-md-12 emm-footer-col1">
 					<img class="emm-footer-logo" src="<?= get_template_directory_uri(); ?>/dist/images/logo-footer.png">
-					<p class="emm-p-footer"><strong>Lifehack: Fresh Perspective on Life</strong></p>
-					<p class="emm-p-footer">Get refreshing ideas to end negativity, get things done fast, and achieve bigger goals.</p>
+					<p class="emm-p-footer"><strong>Lorem ipsum dolor sit amet, no detraxit.</strong></p>
+					<p class="emm-p-footer">Lorem ipsum dolor sit amet, no detraxit referrentur adversarium sea.</p>
 
 					<div class="emm-footer-newsletter"><p>Get the most interesting ideas of Lifehack in your inbox for free!</p>
 
@@ -62,7 +62,7 @@
 					</div>
 
 					<div class="emm-copyright">
-						<p>© 2018 - 2018 Lifehack · All Rights Reserved.</p>
+						<p>© 2018 - 2018 Eu, Meu Mestre · All Rights Reserved.</p>
 					</div>
 
 				</div>

@@ -14,8 +14,8 @@
 			<a href="<?= esc_url(home_url('/')); ?>"><img class="img-fluid logo" src="<?= get_template_directory_uri(); ?>/dist/images/logo.png"></a>
 		</div>
 
-		<div class="col emm-slogan align-self-center">
-			O MAIOR PORTAL SOBRE DESENVOLVIMENTO PESSSOAL DO BRASIL, PARA VOCE E SUA FAMILIA
+		<div class="col emm-slogan align-self-center" style="text-transform: uppercase;">
+			Lorem ipsum dolor sit amet, no detraxit referrentur adversarium sea.
 		</div>
 
 		<div class="col emm-social-top text-right">
