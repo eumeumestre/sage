@@ -103,7 +103,7 @@
 <div class="text-center">                                
               	
 
-	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.jpg" style="margin-top: 20px; margin-bottom: 20px;">
+	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.jpg" style="margin-top: 22px; margin-bottom: 20px;">
 
 
 </div>
