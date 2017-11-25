@@ -99,7 +99,7 @@
 
 
 
-      <div class="container-fluid" style="margin: 0px; padding: 0px; height: 430px; background-image: url('<?= get_template_directory_uri(); ?>/dist/images/saulo-mohana.jpg')">
+      <div class="container-fluid" style="margin: 0px; padding: 0px; height: 430px; background-image: url('<?= get_template_directory_uri(); ?>/dist/images/stefan-stefancik.jpg')">
               <div class="text-center" style="padding-top: 35px;">
                             <div class="page-header">
               <h1 style="margin-bottom: 30px; margin-top: 55px; color: white;">Carreira</h1>
