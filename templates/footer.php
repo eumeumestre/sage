@@ -17,7 +17,7 @@
 					<p class="emm-p-footer"><strong>Lorem ipsum dolor sit amet, no detraxit.</strong></p>
 					<p class="emm-p-footer">Lorem ipsum dolor sit amet, no detraxit referrentur adversarium sea.</p>
 
-					<div class="emm-footer-newsletter"><p>Get the most interesting ideas of Lifehack in your inbox for free!</p>
+					<div class="emm-footer-newsletter"><p>Lorem ipsum dolor sit amet, no detraxit referrentur adversarium sea.</p>
 
 						<form class="form-inline">
 						    <input type="password" id="inputPassword6" class="form-control mr-2" aria-describedby="passwordHelpInline" placeholder="Insira seu e-mail">
@@ -62,7 +62,7 @@
 					</div>
 
 					<div class="emm-copyright">
-						<p>© 2018 - 2018 Eu, Meu Mestre · All Rights Reserved.</p>
+						<p>© 2018 - 2018 Lorem ipsum dolor sit amet, no detraxit referrentur.</p>
 					</div>
 
 				</div>
