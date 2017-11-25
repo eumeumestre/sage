@@ -1,5 +1,5 @@
 <header class="banner">
-<div class="emm-container-responsive" style="border-bottom: 6px solid #296DE1;">
+<div class="emm-container-responsive" style="border-bottom: 6px solid #007ac3;">
 
 <!--START TOP HEADER-->
 <div class="emm-top-ad text-center" style="display: none;">
@@ -98,15 +98,16 @@
 </header>
 
 
-      <div class="container-fluid" style="margin: 0px; padding: 0px; height: 430px; background-color: #80aaff">
-              <div class="text-center" style="padding-top: 35px;">
-                            <div class="page-header">
-              <h1 style="margin-bottom: 30px; margin-top: 55px; color: white;">Estilo de Vida</h1>
-              </div></div>
+<div class="container-fluid" style="margin: 0px; padding: 0px; height: 426px; background-color: #008fd5;">
 
-      </div>
+<div class="text-center">                                
+              	
 
+	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.jpg" style="margin-top: 20px; margin-bottom: 20px;">
 
 
+</div>
+
+</div>
 
 

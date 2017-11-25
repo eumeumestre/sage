@@ -1,5 +1,5 @@
 <header class="banner">
-<div class="emm-container-responsive" style="border-bottom: 6px solid #296DE1;">
+<div class="emm-container-responsive" style="border-bottom: 6px solid #007ac3;">
 
 <!--START TOP HEADER-->
 <div class="emm-top-ad text-center" style="display: none;">

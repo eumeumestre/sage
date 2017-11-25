@@ -1,7 +1,3 @@
-<div class="emm-top-ad">
-  <small>Publicidade</small>
-  <img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.gif">
-</div>  
 <?php while (have_posts()) : the_post(); ?>
 
         <span style="margin-bottom: 10px;" class="badge badge-pill badge-primary">
