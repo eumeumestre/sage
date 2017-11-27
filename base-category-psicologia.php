@@ -32,6 +32,12 @@ use Roots\Sage\Wrapper;
       </div><!-- /.content -->
     </div><!-- /.wrap -->
 
+<?php get_template_part('templates/content', 'newsletter-jumbo'); ?>
+
+<!--START AQUI VAI O TEMPLATE DE LAST/TOP POSTS DA CATEGORIA-->
+<div style="text-align: center;"><strong class="text-center">Últimos artigos / Artigos mais lidos</strong></div><br><br><br><br><br>
+<!--END AQUI VAI O TEMPLATE DE LAST/TOP POSTS DA CATEGORIA-->
+
     <?php
       do_action('get_footer');
       get_template_part('templates/footer');

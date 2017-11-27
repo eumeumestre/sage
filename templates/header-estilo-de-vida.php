@@ -102,7 +102,7 @@
 
   <div class="text-center" style="padding-top: 35px;">
     <div class="page-header">
-      <h1 style="margin-bottom: 30px; margin-top: 55px; color: white;">ESTILO DE VIDA</h1>
+      <h1 style="margin-bottom: 30px; margin-top: 55px; color: white;">Estilo de Vida</h1>
     </div>
   </div>
 
