@@ -2,7 +2,7 @@
 
 <!--START FOOTER-->
 
-<div class="emm-top-ad text-center">
+<div class="emm-bottom-ad text-center">
 	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.jpg">
 </div>
 
