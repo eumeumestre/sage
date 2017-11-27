@@ -97,17 +97,14 @@
 </div> 
 </header>
 
-
+<!--START PAGE HEADER (DEFAULT FOR PAGES AND POSTS)-->
 <div class="container-fluid" style="margin: 0px; padding: 0px; height: 426px; background-color: #008fd5;">
 
-<div class="text-center">                                
-              	
-
-	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.jpg" style="margin-top: 22px; margin-bottom: 20px;">
-
+	<div class="text-center">                                       	
+		<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.jpg" style="margin-top: 22px; margin-bottom: 20px;">
+	</div>
 
 </div>
-
-</div>
+<!--END PAGE HEADER (DEFAULT FOR PAGES AND POSTS)-->
 
 

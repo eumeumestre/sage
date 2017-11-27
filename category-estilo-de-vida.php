@@ -1,5 +1,5 @@
 <?php get_template_part('templates/page', 'header'); ?>
-TESTE TEMPLATE ESTILO DE VIDA
+
 <?php if (!have_posts()) : ?>
   <div class="alert alert-warning">
     <?php _e('Sorry, no results were found.', 'sage'); ?>
@@ -7,8 +7,8 @@ TESTE TEMPLATE ESTILO DE VIDA
   <?php get_search_form(); ?>
 <?php endif; ?>
 
-<?php while (have_posts()) : the_post(); ?>
-  <?php get_template_part('templates/content', get_post_type() != 'post' ? get_post_type() : get_post_format()); ?>
-<?php endwhile; ?>
+<!--START ESTILO DE VIDA CONTENT-->
+
+<!--END ESTILO DE VIDA CONTENT-->
 
 <?php the_posts_navigation(); ?>

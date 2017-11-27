@@ -7,16 +7,8 @@
   <?php get_search_form(); ?>
 <?php endif; ?>
 
-<?php while (have_posts()) : the_post(); ?>
+<!--START PSICOLOGIA CONTENT-->
 
-	<div class="row">
-
-      <div class="col-4"><?php get_template_part('templates/content', get_post_type() != 'post' ? get_post_type() : get_post_format()); ?></div>
-    <div class="col-4"><?php get_template_part('templates/content', get_post_type() != 'post' ? get_post_type() : get_post_format()); ?></div>
-      <div class="col-4"><?php get_template_part('templates/content', get_post_type() != 'post' ? get_post_type() : get_post_format()); ?></div>
-      
-	</div>
-
-<?php endwhile; ?>
+<!--END PSICOLOGIA CONTENT-->
 
 <?php the_posts_navigation(); ?>

@@ -97,13 +97,15 @@
 </div> 
 </header>
 
+<!--START PAGE HEADER-->
+<div class="container-fluid" style="margin: 0px; padding: 0px; height: 426px; background-image: url('<?= get_template_directory_uri(); ?>/dist/images/header-image-psicologia.jpg')">
 
+  <div class="text-center" style="padding-top: 35px;">
+    <div class="page-header">
+      <h1 style="margin-bottom: 30px; margin-top: 55px; color: white;">Psicologia</h1>
+    </div>
+  </div>
 
-      <div class="container-fluid" style="margin: 0px; padding: 0px; height: 426px; background-image: url('<?= get_template_directory_uri(); ?>/dist/images/paul-gilmore.jpg')">
-              <div class="text-center" style="padding-top: 35px;">
-                            <div class="page-header">
-              <h1 style="margin-bottom: 30px; margin-top: 55px; color: white;">Psicologia</h1>
-              </div></div>
-
-      </div>
+</div>
+<!--END PAGE HEADER-->
 

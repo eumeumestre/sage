@@ -1,6 +1,7 @@
 <footer class="content-info">
 
 <!--START FOOTER-->
+
 <div class="emm-top-ad text-center">
 	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.gif">
 </div>
@@ -75,4 +76,5 @@
 	</div>
 
 <!--END FOOTER-->
+
 </footer>
