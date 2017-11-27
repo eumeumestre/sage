@@ -9,6 +9,6 @@
 
 <!--START FINANCAS CONTENT-->
 
-<!--END FINANCASs CONTENT-->
+<!--END FINANCAS CONTENT-->
 
 <?php the_posts_navigation(); ?>

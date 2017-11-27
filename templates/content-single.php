@@ -1,13 +1,14 @@
 <?php while (have_posts()) : the_post(); ?>
 
-        <span style="margin-bottom: 10px;" class="badge badge-pill badge-primary">
-          <?php
-        foreach((get_the_category()) as $category) { 
-        echo $category->cat_name . ' '; 
-        } 
-?>
+<!--CATEGORY NAME BADGE START-->
+<span style="margin-bottom: 10px;" class="badge badge-pill badge-primary">
+  <?php
+    foreach((get_the_category()) as $category) { 
+    echo $category->cat_name . ' '; 
+    } 
+  ?>
 </span>
-
+<!--CATEGORY NAME BADGE END-->
 
   <article <?php post_class(); ?>>
     <header>
