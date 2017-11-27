@@ -3,7 +3,7 @@
 <!--START FOOTER-->
 
 <div class="emm-top-ad text-center">
-	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.gif">
+	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.jpg">
 </div>
 
  	<div class="container-fluid">
