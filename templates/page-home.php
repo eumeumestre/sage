@@ -1,10 +1,10 @@
 <div class="jumbotron">
-  <h1 class="display-3">Hello, world!</h1>
-  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <h1 class="display-3">Lorem Ipsum is simply dummy text of the printing</h1>
+  <p class="lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s.</p>
   <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.</p>
   <p class="lead">
-    <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+    <a class="btn btn-primary btn-lg" href="#" role="button">Lorem</a>
   </p>
 </div>
 
@@ -65,7 +65,7 @@
 
 <hr>
 
-<p>Destaque em</p>
+<div class="row"><div class="col col-8"><p>Destaque em</p></div><div class="col col-4 text-right"><p>Ver todos em</p></div></div>
 <div class="row">
    <div class="col-8">
       <div>
@@ -95,7 +95,8 @@
 </div>
 
 <hr>
-<p>Destaque em</p>
+
+<div class="row"><div class="col col-8"><p>Destaque em</p></div><div class="col col-4 text-right"><p>Ver todos em</p></div></div>
 <div class="row">
    <div class="col-8">
       <div>
@@ -125,7 +126,8 @@
 </div>
 
 <hr>
-<p>Destaque em</p>
+
+<div class="row"><div class="col col-8"><p>Destaque em</p></div><div class="col col-4 text-right"><p>Ver todos em</p></div></div>
 <div class="row">
    <div class="col-8">
       <div>
@@ -155,7 +157,8 @@
 </div>
 
 <hr>
-<p>Destaque em</p>
+
+<div class="row"><div class="col col-8"><p>Destaque em</p></div><div class="col col-4 text-right"><p>Ver todos em</p></div></div>
 <div class="row">
    <div class="col-8">
       <div>
@@ -185,7 +188,8 @@
 </div>
 
 <hr>
-<p>Destaque em</p>
+
+<div class="row"><div class="col col-8"><p>Destaque em</p></div><div class="col col-4 text-right"><p>Ver todos em</p></div></div>
 <div class="row">
    <div class="col-8">
       <div>
@@ -215,7 +219,8 @@
 </div>
 
 <hr>
-<p>Destaque em</p>
+
+<div class="row"><div class="col col-8"><p>Destaque em</p></div><div class="col col-4 text-right"><p>Ver todos em</p></div></div>
 <div class="row">
    <div class="col-8">
       <div>
