@@ -34,9 +34,7 @@ use Roots\Sage\Wrapper;
 
 <?php get_template_part('templates/content', 'newsletter-jumbo'); ?>
 
-<!--START AQUI VAI O TEMPLATE DE LAST/TOP POSTS DA CATEGORIA-->
-<div style="text-align: center;"><strong class="text-center">Últimos artigos / Artigos mais lidos</strong></div><br><br><br><br><br>
-<!--END AQUI VAI O TEMPLATE DE LAST/TOP POSTS DA CATEGORIA-->
+<div class="container"><?php dynamic_sidebar('super-post'); ?></div>
 
     <?php
       do_action('get_footer');
