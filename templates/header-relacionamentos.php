@@ -102,7 +102,7 @@
 
   <div class="text-center" style="padding-top: 35px;">
     <div class="page-header">
-      <h1 style="margin-bottom: 30px; margin-top: 55px; color: white;">Relacionamentos</h1>
+      <h1 style="margin-bottom: 30px; margin-top: 55px; color: white; text-shadow: 0 1px 0 #103f71;">Relacionamentos</h1>
     </div>
   </div>
 
