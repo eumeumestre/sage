@@ -1,14 +1,10 @@
 <div class="jumbotron">
+  <span style="margin-bottom: 10px;" class="badge badge-pill badge-primary">
+  Psicologia </span>
    <h1 class="display-3">Lorem Ipsum is simply dummy text of the printing</h1>
 
 
    <p class="lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s.</p>
-
-   <hr class="my-4">
-
-
-   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.</p>
-
 
    <p class="lead"><a class="btn btn-primary btn-lg" href="#" role="button">Lorem</a>
    </p>
@@ -18,16 +14,16 @@
 
 
       <div class="row">
-        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum</a></div>
-        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum</a></div>
-        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum</a></div>
+        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum lorem</a></div>
+        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum lorem</a></div>
+        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum lorem</a></div>
       </div>
 
 
       <div class="row">
-        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum</a></div>
-        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum</a></div>
-        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum</a></div>
+        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum lorem</a></div>
+        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum lorem</a></div>
+        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum lorem</a></div>
       </div>
 
 
@@ -36,8 +32,8 @@
 
 
      <div class="row">
-       <div class="col-md-8"><span>Destaque em</span></div>
-       <div class="col-md-4"><span>Ver todos em</span></div>
+       <div class="col-md-8"><span style="text-transform: uppercase;">Psicologia</span><small style="margin-left: 12px;">Lorem lorem ipsum lorem.</small></div>
+       <div class="col-md-4" style="text-align: right;"><a>Mais em Psicologia</a></div>
      </div>
       <div class="row">
 
