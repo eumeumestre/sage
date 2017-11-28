@@ -72,8 +72,8 @@
 					</form>
 				</div>
 
-				<div class="emm-login">
-					<a href="http://google.com">
+				<div class="emm-login" style="width: 62px;">
+					<a href="http://google.com" style="display: none;">
 						<i style="font-size: 15px; cursor: pointer; margin-right: 5px;" class="fa fa-sign-in" aria-hidden="true"></i><b>Login</b>
 					</a>
 				</div>

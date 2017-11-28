@@ -36,11 +36,11 @@
 				<div class="col-xl-7 col-lg-7 col-md-12 emm-footer-col2"> 
 
 					<div class="emm-social-bottom">
-						<a><i class="fa fa-youtube"></i></a>
-						<a><i class="fa fa-instagram"></i></a>
-						<a><i class="fa fa-facebook-official"></i></a>
-						<a><i class="fa fa-twitter"></i> </a>
-						<a><i class="fa fa-pinterest-p"></i></a>
+						<a href="#"><i class="fa fa-youtube"></i></a>
+						<a href="#"><i class="fa fa-instagram"></i></a>
+						<a href="#"><i class="fa fa-facebook-official"></i></a>
+						<a href="#"><i class="fa fa-twitter"></i></a>
+						<a href="#"><i class="fa fa-pinterest-p"></i></a>
 					</div>
 
 					<div class="emm-footer-links">
