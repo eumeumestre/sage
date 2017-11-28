@@ -1,8 +1,6 @@
 <?php get_template_part('templates/page', 'header'); ?>
 
 <!--START CARREIRA CONTENT-->
-<span>Destaque em</span>
-
       <div class="row">
 
         <div class="col-md-8">

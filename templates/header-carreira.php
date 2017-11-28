@@ -19,11 +19,11 @@
     </div>
 
     <div class="col emm-social-top text-right">
-      <a><i class="fa fa-youtube"></i></a>
-      <a><i class="fa fa-instagram"></i></a>
-      <a><i class="fa fa-facebook-official"></i></a>
-      <a><i class="fa fa-twitter"></i> </a>
-      <a><i class="fa fa-pinterest-p"></i></a>
+      <a href="#"><i class="fa fa-youtube"></i></a>
+      <a href="#"><i class="fa fa-instagram"></i></a>
+      <a href="#"><i class="fa fa-facebook-official"></i></a>
+      <a href="#"><i class="fa fa-twitter"></i></a>
+      <a href="#"><i class="fa fa-pinterest-p"></i></a>
     </div>
 
   </div>
