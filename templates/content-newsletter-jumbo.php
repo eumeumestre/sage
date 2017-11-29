@@ -1,4 +1,4 @@
-<div class="emm-bottom-ad text-left" style="padding-top: 30px; padding-bottom: 30px;">
+<div class="emm-bottom-ad text-left" style="padding-top: 60px; padding-bottom: 60px;">
 	<div class="container">
 <div class="row">
 	<div class="col-md-8">
