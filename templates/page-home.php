@@ -14,16 +14,16 @@
 
 
       <div class="row">
-        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum lorem</a></div>
-        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum lorem</a></div>
-        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum lorem</a></div>
+        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"><a>Ut enim ad minima veniam, quis nostrum exercitationem lorem</a></div>
+        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"><a>Ullamco laboris nisi ut aliquip ex ea</a></div>
+        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"><a>Lorem ipsum lorem</a></div>
       </div>
 
 
       <div class="row">
-        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum lorem</a></div>
-        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum lorem</a></div>
-        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"> <a>Lorem ipsum lorem</a></div>
+        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"><a>Ullamco laboris nisi ut aliquip ex ea</a></div>
+        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"><a>Ut enim ad minima veniam, quis nostrum exercitationem</a></div>
+        <div class="col-md-4"><img src="http://via.placeholder.com/350x150" class="img-fluid"><a>Ut enim ad minima veniam, quis nostrum exercitationem</a></div>
       </div>
 
 
@@ -45,7 +45,7 @@
 
         <div class="col-md-4">
            <img src="http://via.placeholder.com/350x150">
-           <a>Lorem ipsum</a>
+           <a>Ut enim ad minima veniam, quis nostrum exercitationem</a>
            <img src="http://via.placeholder.com/350x150">
            <a>Lorem ipsum</a>
          </div>
