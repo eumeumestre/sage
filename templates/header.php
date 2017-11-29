@@ -66,13 +66,13 @@
 					<form class="form-inline my-2 my-lg-0">
 						<label id="email-label2">
 							<i class="fa fa-search"></i>
-							<input class="form-control mr-2" style="width: 165px;" placeholder="Pesquisar por">
+							<input class="form-control mr-2" style="width: 195px;" placeholder="Pesquisar por">
 							<button type="submit" class="btn btn-primary">Ir</button>
 						</label>
 					</form>
 				</div>
 
-				<div class="emm-login" style="width: 62px;">
+				<div class="emm-login" style="width: 32px;">
 					<a href="http://google.com" style="display: none;">
 						<i style="font-size: 15px; cursor: pointer; margin-right: 5px;" class="fa fa-sign-in" aria-hidden="true"></i><b>Login</b>
 					</a>
