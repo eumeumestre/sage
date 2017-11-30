@@ -68,54 +68,6 @@ function widgets_init() {
     'after_title'   => '</h3>'
   ]);
   register_sidebar([
-    'name'          => __('LastTopPosts Psicologia', 'sage'),
-    'id'            => 'last-top-posts-psicologia',
-    'before_widget' => '<section class="last-top-posts">',
-    'after_widget'  => '</section>',
-    'before_title'  => '<h3>',
-    'after_title'   => '</h3>'
-  ]);
-  register_sidebar([
-    'name'          => __('LastTopPosts Financas', 'sage'),
-    'id'            => 'last-top-posts-financas',
-    'before_widget' => '<section class="last-top-posts">',
-    'after_widget'  => '</section>',
-    'before_title'  => '<h3>',
-    'after_title'   => '</h3>'
-  ]);
-  register_sidebar([
-    'name'          => __('LastTopPosts Saude', 'sage'),
-    'id'            => 'last-top-posts-saude',
-    'before_widget' => '<section class="last-top-posts">',
-    'after_widget'  => '</section>',
-    'before_title'  => '<h3>',
-    'after_title'   => '</h3>'
-  ]);
-  register_sidebar([
-    'name'          => __('LastTopPosts Relacionamentos', 'sage'),
-    'id'            => 'last-top-posts-relacionamentos',
-    'before_widget' => '<section class="last-top-posts">',
-    'after_widget'  => '</section>',
-    'before_title'  => '<h3>',
-    'after_title'   => '</h3>'
-  ]);
-    register_sidebar([
-    'name'          => __('LastTopPosts Carreira', 'sage'),
-    'id'            => 'last-top-posts-carreira',
-    'before_widget' => '<section class="last-top-posts">',
-    'after_widget'  => '</section>',
-    'before_title'  => '<h3>',
-    'after_title'   => '</h3>'
-  ]);
-  register_sidebar([
-    'name'          => __('LastTopPosts Estilo de Vida', 'sage'),
-    'id'            => 'last-top-posts-estilo-de-vidas',
-    'before_widget' => '<section class="last-top-posts">',
-    'after_widget'  => '</section>',
-    'before_title'  => '<h3>',
-    'after_title'   => '</h3>'
-  ]);
-  register_sidebar([
     'name'          => __('Footer', 'sage'),
     'id'            => 'sidebar-footer',
     'before_widget' => '<section class="widget %1$s %2$s">',
@@ -165,38 +117,7 @@ add_action('wp_enqueue_scripts', __NAMESPACE__ . '\\assets', 100);
 
 
 
-function wpb_postsbycategory() {
-// the query
-$the_query = new WP_Query( array( 'psicologia' => 'announcements', 'posts_per_page' => 10 ) ); 
- 
-// The Loop
-if ( $the_query->have_posts() ) {
-    $string .= '<ul class="postsbycategory widget_recent_entries">';
-    while ( $the_query->have_posts() ) {
-        $the_query->the_post();
-            if ( has_post_thumbnail() ) {
-            $string .= '<li>';
-            $string .= '<a href="' . get_the_permalink() .'" rel="bookmark">' . get_the_post_thumbnail($post_id, array( 50, 50) ) . get_the_title() .'</a></li>';
-            } else { 
-            // if no featured image is found
-            $string .= '<li><a href="' . get_the_permalink() .'" rel="bookmark">' . get_the_title() .'</a></li>';
-            }
-            }
-    } else {
-    // no posts found
-}
-$string .= '</ul>';
- 
-return $string;
- 
-/* Restore original Post Data */
-wp_reset_postdata();
-}
-// Add a shortcode
-add_shortcode('categoryposts', 'wpb_postsbycategory');
- 
-// Enable shortcodes in text widgets
-add_filter('widget_text', 'do_shortcode');
+
 
 
 

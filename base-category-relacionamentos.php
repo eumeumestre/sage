@@ -34,7 +34,27 @@ use Roots\Sage\Wrapper;
 
 <?php get_template_part('templates/content', 'newsletter-jumbo'); ?>
 
-<div class="container"><?php dynamic_sidebar('last-top-posts-relacionamentos'); ?></div>
+<!-- LAST TOP ARTICLES START -->
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <h3 style="margin-bottom: 15px;">Ultimos artigos</h3>
+                <ul style="list-style: none; padding: 0;">
+          <?php $the_query = new WP_Query( array( 'category_name' => 'relacionamentos', 'posts_per_page' => 10 ) );  ?>
+          <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
+          <li style="margin-bottom: 10px;"><i style="color: #fbab19; margin-right: 5px;" class="fa fa-circle-o" aria-hidden="true"></i><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></li>
+          <?php 
+          endwhile;
+          wp_reset_postdata();
+          ?>
+          </ul>
+    </div>
+    <div class="col-md-6">
+      <h3>Top artigos</h3>
+    </div>
+  </div>
+</div>
+  <!-- LAST TOP ARTICLES END -->
 
     <?php
       do_action('get_footer');
