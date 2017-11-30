@@ -34,7 +34,7 @@ use Roots\Sage\Wrapper;
 
 <?php get_template_part('templates/content', 'newsletter-jumbo'); ?>
 
-<div class="container"><?php dynamic_sidebar('super-post'); ?></div>
+<div class="container"><?php dynamic_sidebar('last-top-posts-saude'); ?></div>
 
     <?php
       do_action('get_footer');

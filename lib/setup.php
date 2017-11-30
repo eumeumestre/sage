@@ -68,9 +68,49 @@ function widgets_init() {
     'after_title'   => '</h3>'
   ]);
   register_sidebar([
-    'name'          => __('Superposts', 'sage'),
-    'id'            => 'super-post',
-    'before_widget' => '<section class="widget %1$s %2$s">',
+    'name'          => __('LastTopPosts Psicologia', 'sage'),
+    'id'            => 'last-top-posts-psicologia',
+    'before_widget' => '<section class="last-top-posts">',
+    'after_widget'  => '</section>',
+    'before_title'  => '<h3>',
+    'after_title'   => '</h3>'
+  ]);
+  register_sidebar([
+    'name'          => __('LastTopPosts Financas', 'sage'),
+    'id'            => 'last-top-posts-financas',
+    'before_widget' => '<section class="last-top-posts">',
+    'after_widget'  => '</section>',
+    'before_title'  => '<h3>',
+    'after_title'   => '</h3>'
+  ]);
+  register_sidebar([
+    'name'          => __('LastTopPosts Saude', 'sage'),
+    'id'            => 'last-top-posts-saude',
+    'before_widget' => '<section class="last-top-posts">',
+    'after_widget'  => '</section>',
+    'before_title'  => '<h3>',
+    'after_title'   => '</h3>'
+  ]);
+  register_sidebar([
+    'name'          => __('LastTopPosts Relacionamentos', 'sage'),
+    'id'            => 'last-top-posts-relacionamentos',
+    'before_widget' => '<section class="last-top-posts">',
+    'after_widget'  => '</section>',
+    'before_title'  => '<h3>',
+    'after_title'   => '</h3>'
+  ]);
+    register_sidebar([
+    'name'          => __('LastTopPosts Carreira', 'sage'),
+    'id'            => 'last-top-posts-carreira',
+    'before_widget' => '<section class="last-top-posts">',
+    'after_widget'  => '</section>',
+    'before_title'  => '<h3>',
+    'after_title'   => '</h3>'
+  ]);
+  register_sidebar([
+    'name'          => __('LastTopPosts Estilo de Vida', 'sage'),
+    'id'            => 'last-top-posts-estilo-de-vidas',
+    'before_widget' => '<section class="last-top-posts">',
     'after_widget'  => '</section>',
     'before_title'  => '<h3>',
     'after_title'   => '</h3>'
