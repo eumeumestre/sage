@@ -1,4 +1,4 @@
-<div class="emm-bottom-ad" style="padding-top: 60px; padding-bottom: 60px;">
+<div class="newsletter-horizontal-box">
 	<div class="container">
 <div class="row">
 	<div class="col-md-6">
@@ -19,3 +19,4 @@
 </div>
 </div>
 </div>
+<br>

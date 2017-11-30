@@ -1,6 +1,7 @@
 <?php get_template_part('templates/page', 'header'); ?>
 
 <!--START SAUDE CONTENT-->
+      <div class="artigos-destaque-cat">
       <div class="row">
 
         <div class="col-md-8 featured-big">
@@ -17,18 +18,23 @@
            <a href="#">Lorem ipsum</a>
          </div>
       </div>
+    </div>
 
      <br>
+
+     <div class="artigos-escolha-editor">
      <div class="row">
        <div class="col-md-8"><span style="text-transform: uppercase; color: #262626; font-weight: 800; text-transform: uppercase;">Escolhas do editor</span></div>
       
      </div>
+
      <br>
 
       <div class="row">
         <div class="col-md-4 featured-small"><img src="http://via.placeholder.com/350x150" class="img-fluid"><a href="#">Ullamco laboris nisi ut aliquip ex ea</a></div>
         <div class="col-md-4 featured-small"><img src="http://via.placeholder.com/350x150" class="img-fluid"><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem</a></div>
         <div class="col-md-4 featured-small"><img src="http://via.placeholder.com/350x150" class="img-fluid"><a href="#">Ut enim ad minima veniam, quis nostrum exercitationem</a></div>
+      </div>
       </div>
 <!--END SAUDE CONTENT-->
 
