@@ -34,7 +34,7 @@ use Roots\Sage\Wrapper;
 
 <?php get_template_part('templates/content', 'newsletter-jumbo'); ?>
 
-<div class="container"><?php dynamic_sidebar('last-top-posts-psicologia'); ?></div>
+<?php wpb_postsbycategory() ?>
 
     <?php
       do_action('get_footer');
