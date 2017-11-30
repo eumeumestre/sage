@@ -39,7 +39,7 @@ use Roots\Sage\Wrapper;
   <div class="ultimos-top-artigos">
   <div class="row">
     <div class="col-md-6">
-      <h3 style="margin-bottom: 15px;">Ultimos artigos</h3>
+      <h3>Ultimos artigos</h3>
                 <ul style="list-style: none; padding: 0;">
           <?php $the_query = new WP_Query( array( 'category_name' => 'carreira', 'posts_per_page' => 10 ) );  ?>
           <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
