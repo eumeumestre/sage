@@ -18,7 +18,12 @@
          </div>
       </div>
 
-<hr>
+     <br>
+     <div class="row">
+       <div class="col-md-8"><span style="text-transform: uppercase; color: #262626; font-weight: 800; text-transform: uppercase;">Escolhas do editor</span></div>
+      
+     </div>
+     <br>
 
       <div class="row">
         <div class="col-md-4 featured-small"><img src="http://via.placeholder.com/350x150" class="img-fluid"><a href="#">Ullamco laboris nisi ut aliquip ex ea</a></div>
