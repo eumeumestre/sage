@@ -1,8 +1,8 @@
 <header class="banner">
-<div class="emm-container-responsive" style="border-bottom: 6px solid #007ac3;">
+<div class="emm-container-responsive">
 
 <!--START TOP HEADER-->
-<div class="emm-top-ad text-center" style="display: none;">
+<div class="emm-top-ad">
 	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.gif">
 </div>	
 
@@ -14,7 +14,7 @@
 			<a href="<?= esc_url(home_url('/')); ?>"><img class="img-fluid logo" src="<?= get_template_directory_uri(); ?>/dist/images/logo.png"></a>
 		</div>
 
-		<div class="col emm-slogan align-self-center" style="text-transform: uppercase;">
+		<div class="col emm-slogan align-self-center">
 			Lorem ipsum dolor sit amet, no detraxit referrentur adversarium sea.
 		</div>
 
@@ -66,15 +66,15 @@
 					<?php get_search_form(); ?>
 				</div>
 
-				<div class="emm-login" style="width: 32px;">
-					<a href="http://google.com" style="display: none;">
-						<i style="font-size: 15px; cursor: pointer; margin-right: 5px;" class="fa fa-sign-in" aria-hidden="true"></i><b>Login</b>
+				<div class="emm-login">
+					<a href="http://google.com">
+						<i class="fa fa-sign-in" aria-hidden="true"></i><b>Login</b>
 					</a>
 				</div>
 
 				<div class="emm-premium">
 					<a href="http://google.com">
-						<i style="font-size: 15px; cursor: pointer; margin-right: 5px;" class="fa fa-star" aria-hidden="true"></i><b>PREMIUM</b>
+						<i class="fa fa-star" aria-hidden="true"></i><b>PREMIUM</b>
 					</a>
 				</div>
 
@@ -92,7 +92,7 @@
 </header>
 
 <!--START PAGE HEADER (DEFAULT FOR PAGES AND POSTS)-->
-<div class="container-fluid" style="margin: 0px; padding: 0px; height: 310px; background-color: #008fd5;">
+<div class="container-fluid home-fluid-header">
 </div>
 <!--END PAGE HEADER (DEFAULT FOR PAGES AND POSTS)-->
 

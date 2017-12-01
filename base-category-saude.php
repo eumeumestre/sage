@@ -19,7 +19,7 @@ use Roots\Sage\Wrapper;
       get_template_part('templates/header', 'saude');  
     ?>
 
-    <div class="wrap container" style="background-color: #fff; margin-top: -210px;" role="document">
+    <div class="wrap container" role="document">
       <div class="content row"">
         <main class="main">
           <?php include Wrapper\template_path(); ?>
@@ -40,10 +40,10 @@ use Roots\Sage\Wrapper;
   <div class="row">
     <div class="col-md-6">
       <h3>Ultimos artigos</h3>
-                <ul style="list-style: none; padding: 0;">
+                <ul>
           <?php $the_query = new WP_Query( array( 'category_name' => 'saude', 'posts_per_page' => 10 ) );  ?>
           <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
-          <li style="margin-bottom: 10px;"><i style="color: #fbab19; margin-right: 5px;" class="fa fa-circle-o" aria-hidden="true"></i><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></li>
+          <li><i class="fa fa-circle-o" aria-hidden="true"></i><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></li>
           <?php 
           endwhile;
           wp_reset_postdata();

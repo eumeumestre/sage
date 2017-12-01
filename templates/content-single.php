@@ -1,7 +1,7 @@
 <?php while (have_posts()) : the_post(); ?>
 
 <!--CATEGORY NAME BADGE START-->
-<span style="margin-bottom: 10px;" class="badge badge-pill badge-primary">
+<span class="badge badge-pill badge-primary">
   <?php
     foreach((get_the_category()) as $category) { 
     echo $category->cat_name . ' '; 
