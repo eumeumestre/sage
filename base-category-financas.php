@@ -36,7 +36,7 @@ use Roots\Sage\Wrapper;
 
 <!-- LAST TOP ARTICLES START -->
 <div class="container">
-  <div class="ultimos-top-artigos">
+  <div class="ultimos-top-artigos content">
   <div class="row">
     <div class="col-md-6">
       <h3>Ultimos artigos</h3>
