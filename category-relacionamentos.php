@@ -1,5 +1,3 @@
-<?php get_template_part('templates/page', 'header'); ?>
-
 <!--START RELACIONAMENTOS CONTENT-->
       <div class="artigos-destaque-cat">
       <div class="row">
@@ -13,7 +11,6 @@
         <div class="col-md-4 featured-small">
            <img src="http://via.placeholder.com/350x150">
            <a href="#">Ut enim ad minima veniam, quis nostrum exercitationem</a>
-           <br>
            <img src="http://via.placeholder.com/350x150">
            <a href="#">Lorem ipsum</a>
          </div>

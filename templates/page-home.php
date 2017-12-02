@@ -54,7 +54,6 @@
   </div>
   <div class="col-md-4 featured-small">
     <img class="img-fluid" src="http://via.placeholder.com/350x150"> <a href="#">Ut enim ad minima veniam, quis nostrum exercitationem</a>
-    <br>
     <img class="img-fluid" src="http://via.placeholder.com/350x150"> <a href="#">Lorem ipsum</a>
   </div>
 </div>
