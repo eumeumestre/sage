@@ -92,7 +92,7 @@
 </header>
 
 <!--START PAGE HEADER-->
-<div class="container-fluid container-fluid-cat-carreira">
+<div class="container-fluid-cat-carreira">
 
       <h1>Carreira</h1>
 

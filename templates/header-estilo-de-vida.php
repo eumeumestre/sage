@@ -92,7 +92,7 @@
 </header>
 
 <!--START PAGE HEADER-->
-<div class="container-fluid container-fluid-cat-estilo-de-vida">
+<div class="container-fluid-cat-estilo-de-vida">
 
       <h1>Estilo de Vida</h1>
 

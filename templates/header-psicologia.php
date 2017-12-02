@@ -92,7 +92,7 @@
 </header>
 
 <!--START PAGE HEADER-->
-<div class="container-fluid container-fluid-cat-psicologia">
+<div class="container-fluid-cat-psicologia">
 
       <h1>Psicologia</h1>
 

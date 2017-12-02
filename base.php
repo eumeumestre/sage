@@ -19,7 +19,7 @@ use Roots\Sage\Wrapper;
       get_template_part('templates/header');  
     ?>
 
-    <div class="wrap container wrap-home" role="document">
+    <div class="wrap-main container" role="document">
       <div class="content row"">
         <main class="main">
           <?php include Wrapper\template_path(); ?>
