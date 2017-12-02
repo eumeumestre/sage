@@ -94,9 +94,7 @@
 <!--START PAGE HEADER-->
 <div class="container-fluid container-fluid-cat-relacionamentos">
 
-    <div class="page-header">
       <h1>Relacionamentos</h1>
-    </div>
 
 </div>
 <!--END PAGE HEADER-->

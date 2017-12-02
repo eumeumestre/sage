@@ -94,9 +94,7 @@
 <!--START PAGE HEADER-->
 <div class="container-fluid container-fluid-cat-psicologia">
 
-    <div class="page-header">
       <h1>Psicologia</h1>
-    </div>
 
 </div>
 <!--END PAGE HEADER-->

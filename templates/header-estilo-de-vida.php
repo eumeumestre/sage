@@ -94,9 +94,7 @@
 <!--START PAGE HEADER-->
 <div class="container-fluid container-fluid-cat-estilo-de-vida">
 
-    <div class="page-header">
       <h1>Estilo de Vida</h1>
-    </div>
 
 </div>
 <!--END PAGE HEADER-->
