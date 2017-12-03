@@ -19,7 +19,7 @@ use Roots\Sage\Wrapper;
       get_template_part('templates/header', 'estilo-de-vida');  
     ?>
 
-    <div class="wrap container" role="document">
+    <div class="wrap container rounded-right rounded-left" role="document">
       <div class="content row"">
         <main class="main">
           <?php include Wrapper\template_path(); ?>
