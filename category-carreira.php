@@ -19,7 +19,7 @@
 
      <div class="artigos-escolha-editor">
      <div class="row">
-       <div class="col-md-8"><span>Escolhas do editor</span></div>
+       <div class="col-md-12"><h3>Escolhas do editor</h3><hr></div>
      </div>
 
       <div class="row">

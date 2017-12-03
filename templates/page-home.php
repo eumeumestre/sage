@@ -7,7 +7,8 @@
 <div class="artigos-destaque-home">
 <div class="row">
   <div class="col-md-12">
-    <span>Artigos em Destaque</span>
+    <h3>Artigos em Destaque</h3>
+    <hr>
   </div>
 </div>
 
@@ -39,10 +40,10 @@
 <div class="mais-em-cat">
 <div class="row">
   <div class="col-md-8">
-    <span>Psicologia</span> <small>Lorem lorem ipsum lorem ipsum lorem.</small>
+    <h3>Destaque em Psicologia</h3> <small>Lorem lorem ipsum lorem ipsum lorem.</small><hr>
   </div>
   <div class="col-md-4 mais-em">
-    <a href="#">Mais em Psicologia <i aria-hidden="true" class="fa fa-long-arrow-right"></i></a>
+    <a href="#">Mais em Psicologia <i aria-hidden="true" class="fa fa-long-arrow-right"></i></a><hr>
   </div>
 </div>
 

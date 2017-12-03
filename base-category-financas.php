@@ -40,6 +40,7 @@ use Roots\Sage\Wrapper;
   <div class="row">
     <div class="col-md-6">
       <h3>Ultimos artigos</h3>
+      <hr>
                 <ul>
           <?php $the_query = new WP_Query( array( 'category_name' => 'financas', 'posts_per_page' => 10 ) );  ?>
           <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
@@ -52,6 +53,7 @@ use Roots\Sage\Wrapper;
     </div>
     <div class="col-md-6">
       <h3>Top artigos</h3>
+      <hr>
     </div>
   </div>
 </div>
