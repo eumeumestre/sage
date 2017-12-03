@@ -52,6 +52,14 @@ use Roots\Sage\Wrapper;
     </div>
     <div class="col-md-6">
       <h3>Top artigos</h3>
+      <?php
+$args = array(
+    'post_html' => '<li><i class="fa fa-circle-o" aria-hidden="true"></i><a href="{url}">{text_title}</a></li>'
+);
+
+wpp_get_mostpopular( $args );
+?>
+
     </div>
   </div>
 </div>
