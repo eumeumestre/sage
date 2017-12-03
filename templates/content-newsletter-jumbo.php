@@ -15,6 +15,7 @@
 						    </small>
 						    <button type="submit" class="btn btn-primary">Inserir-me</button>
 						</form>
+							<?php echo do_shortcode("[gem id=1237789]"); ?>
 	</div>
 </div>
 </div>

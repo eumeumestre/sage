@@ -58,7 +58,7 @@
 							<span>·</span>
 							<a href="/termos">Termos</a>
 							<span>·</span>
-							<a href="/politica-de-privacidade">Politica de privacidade</a>
+							<a href="/politica-de-privacidade">Privacidade</a>
 						</div>
 					</div>
 
