@@ -9,10 +9,7 @@
         </div>
 
         <div class="col-md-4 featured-small">
-           <img src="http://via.placeholder.com/350x150" class="img-fluid">
-           <a href="#">Ut enim ad minima veniam, quis nostrum exercitationem</a>
-           <img src="http://via.placeholder.com/350x150" class="img-fluid">
-           <a href="#">Lorem ipsum</a>
+    <img class="img-fluid" src="http://via.placeholder.com/350x150"> <a href="#">Ut enim ad minima veniam, quis nostrum exercitationem</a><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
          </div>
       </div>
     </div>
