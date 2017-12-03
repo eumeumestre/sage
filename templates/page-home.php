@@ -10,7 +10,7 @@
     <span>Artigos em Destaque</span>
   </div>
 </div>
-<br>
+
 <div class="row">
   <div class="col-md-4 featured-small">
     <span class="badge badge-pill badge-primary">Psicologia</span> <img class="img-fluid" src="http://via.placeholder.com/350x150"> <a href="#">Ut enim ad minima veniam, quis nostrum exercitationem lorem</a>
@@ -22,8 +22,7 @@
     <span class="badge badge-pill badge-primary">Carreira</span> <img class="img-fluid" src="http://via.placeholder.com/350x150"> <a href="#">Lorem ipsum lorem</a>
   </div>
 </div>
-<br>
-<br>
+
 <div class="row">
   <div class="col-md-4 featured-small">
     <span class="badge badge-pill badge-primary">Saúde</span> <img class="img-fluid" src="http://via.placeholder.com/350x150"> <a href="#">Ullamco laboris nisi ut aliquip ex ea ipsum</a>
@@ -36,7 +35,7 @@
   </div>
 </div>
 </div>
-<hr>
+
 <div class="mais-em-cat">
 <div class="row">
   <div class="col-md-8">
@@ -46,7 +45,7 @@
     <a href="#">Mais em Psicologia <i aria-hidden="true" class="fa fa-long-arrow-right"></i></a>
   </div>
 </div>
-<br>
+
 <div class="row">
   <div class="col-md-8 featured-big">
     <img class="img-fluid" src="http://via.placeholder.com/750x350"> <a href="#">Lorem ipsum</a>
