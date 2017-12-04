@@ -42,7 +42,7 @@ use Roots\Sage\Wrapper;
 
 <div class="container">
 
-  <div class="ultimos-top-artigos content">
+  <div class="ultimos-top-artigos">
 
     <div class="row">
       <div class="col-md-6">
