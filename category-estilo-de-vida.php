@@ -5,11 +5,11 @@
     <div class="row">
         <div class="col-md-8 featured-big">
             <a href="#"><img src="http://via.placeholder.com/750x350" class="img-fluid">
-            Lorem ipsum</a>
+            <p>Lorem ipsum</p></a>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
         </div>
         <div class="col-md-4 featured-small">
-            <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x150">Ut enim ad minima veniam, quis nostrum exercitationem</a>
+            <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x150"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
         </div>
     </div>
@@ -32,9 +32,9 @@
   </div><hr>
 
     <div class="row">
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x150" class="img-fluid">Ullamco laboris nisi u</a></div>
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x150" class="img-fluid">Ut enim ad minima veniam, quis nostrum exercitationem</a></div>
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x150" class="img-fluid">Ut enim ad minima veniam, quis nostrum exercitationem</a></div>
+        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x150" class="img-fluid"><p>Ullamco laboris nisi u</p></a></div>
+        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x150" class="img-fluid"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a></div>
+        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x150" class="img-fluid"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a></div>
     </div>
 
 <!-- END Artigos Escolha Editor -->
