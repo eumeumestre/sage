@@ -14,18 +14,6 @@
 					<img class="emm-footer-logo" src="<?= get_template_directory_uri(); ?>/dist/images/logo-footer.png">
 					<p class="emm-p-footer"><strong>Lorem ipsum dolor sit amet, no detraxit.</strong></p>
 					<p class="emm-p-footer">Lorem ipsum dolor sit amet, no detraxit referrentur adversarium sea.</p>
-
-					<div class="emm-footer-newsletter"><p>Lorem ipsum dolor sit amet, no detraxit referrentur adversarium sea.</p>
-
-						<form class="form-inline">
-						    <input type="password" id="inputPassword6" class="form-control mr-2" aria-describedby="passwordHelpInline" placeholder="Insira seu e-mail">
-						    <small id="passwordHelpInline" class="text-muted">
-						    </small>
-						    <button type="submit" class="btn btn-primary">Inserir-me</button>
-						</form>
-
-					</div>
-
 				</div>
 
 				<!-- START Footer Col 1 -->
