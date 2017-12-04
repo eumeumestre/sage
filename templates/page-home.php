@@ -27,11 +27,11 @@
 
   <div class="row">
     <div class="col-md-8 featured-big">
-      <img class="img-fluid" src="http://via.placeholder.com/750x350"> <a href="#">Lorem ipsum</a>
+      <a href="#"><img class="img-fluid" src="http://via.placeholder.com/750x350">Lorem ipsum</a>
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
     </div>
     <div class="col-md-4 featured-small">
-      <img class="img-fluid" src="http://via.placeholder.com/350x150"> <a href="#">Ut enim ad minima veniam, quis nostrum exercitationem</a><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
+      <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x150">Ut enim ad minima veniam, quis nostrum exercitationem</a><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
     </div>
   </div>
 </div>
