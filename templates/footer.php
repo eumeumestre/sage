@@ -1,6 +1,7 @@
-<footer class="content-info">
-
 <div class="emm-bottom-ad"><img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.jpg"></div>
+
+
+<footer class="content-info">
 
  	<div class="container-fluid">
 
