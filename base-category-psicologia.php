@@ -1,8 +1,6 @@
 <?php
-
 use Roots\Sage\Setup;
 use Roots\Sage\Wrapper;
-
 ?>
 
 <!doctype html>
@@ -32,46 +30,51 @@ use Roots\Sage\Wrapper;
       </div><!-- /.content -->
     </div><!-- /.wrap -->
 
+
+<!-- START Newsletter Box -->
+
 <?php get_template_part('templates/content', 'newsletter-jumbo'); ?>
 
-<!-- LAST TOP ARTICLES START -->
+<!-- END Newsletter Box -->
+
+
+<!-- START Ultimos Top Artigos -->
+
 <div class="container">
+
   <div class="ultimos-top-artigos content">
-  <div class="row">
-    <div class="col-md-6">
-      <h3>Ultimos artigos</h3>
-      <hr>
-                <ul>
-          <?php $the_query = new WP_Query( array( 'category_name' => 'psicologia', 'posts_per_page' => 10 ) );  ?>
-          <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
-          <li><i class="fa fa-circle-o" aria-hidden="true"></i><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></li>
-          <?php 
-          endwhile;
-          wp_reset_postdata();
-          ?>
-          </ul>
-    </div>
-    <div class="col-md-6">
-      <h3>Top artigos</h3>
-      <hr>
-      <?php
-$args = array(
-    'post_html' => '<li><i class="fa fa-circle-o" aria-hidden="true"></i><a href="{url}">{text_title}</a></li>'
-);
 
-wpp_get_mostpopular( $args );
-?>
-
+    <div class="row">
+      <div class="col-md-6">
+        <h3>Ultimos artigos</h3><hr>
+            <ul>
+            <?php $the_query = new WP_Query( array( 'category_name' => 'psicologia', 'posts_per_page' => 10 ) );  ?>
+            <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
+            <li>
+              <i class="fa fa-circle-o" aria-hidden="true"></i><a href="<?php the_permalink() ?>"><?php the_title(); ?></a>
+            </li>
+              <?php 
+              endwhile;
+              wp_reset_postdata();
+              ?>
+            </ul>
+      </div>
+      <div class="col-md-6">
+        <h3>Top artigos</h3><hr>
+      </div>
     </div>
+
   </div>
-</div>
-</div>
-  <!-- LAST TOP ARTICLES END -->
 
-    <?php
-      do_action('get_footer');
-      get_template_part('templates/footer');
-      wp_footer();
-    ?>
+</div>
+
+<!-- END Ultimos Top Artigos -->
+
+
+              <?php
+                do_action('get_footer');
+                get_template_part('templates/footer');
+                wp_footer();
+              ?>
   </body>
 </html>

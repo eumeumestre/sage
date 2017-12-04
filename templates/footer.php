@@ -1,10 +1,6 @@
 <footer class="content-info">
 
-<!--START FOOTER-->
-
-<div class="emm-bottom-ad text-center">
-	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.jpg">
-</div>
+<div class="emm-bottom-ad"><img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.jpg"></div>
 
  	<div class="container-fluid">
 
@@ -12,7 +8,8 @@
 
 			<div class="row">
 
-				<!--START COL 1-->
+				<!-- START Footer Col 1 -->
+
 				<div class="col-xl-5 col-lg-5 col-md-12 emm-footer-col1">
 					<img class="emm-footer-logo" src="<?= get_template_directory_uri(); ?>/dist/images/logo-footer.png">
 					<p class="emm-p-footer"><strong>Lorem ipsum dolor sit amet, no detraxit.</strong></p>
@@ -30,9 +27,11 @@
 					</div>
 
 				</div>
-				<!--END COL 1-->
 
-				<!--START COL 2-->
+				<!-- START Footer Col 1 -->
+
+
+				<!-- START Footer Col 2 -->
 				<div class="col-xl-7 col-lg-7 col-md-12 emm-footer-col2"> 
 
 					<div class="emm-social-bottom">
@@ -67,14 +66,13 @@
 					</div>
 
 				</div>
-				<!--END COL 2-->
+
+				<!-- END Footer Col 2 -->
 
 			</div>
 
 		</div>
 
 	</div>
-
-<!--END FOOTER-->
 
 </footer>

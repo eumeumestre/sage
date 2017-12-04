@@ -1,7 +1,9 @@
 <header class="banner">
 <div class="emm-container-responsive">
 
+
 <!--START TOP HEADER-->
+
 <div class="emm-top-ad">
   <img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.gif">
 </div>  
@@ -30,10 +32,12 @@
   </div>
 
 </div>
+
 <!--END TOP HEADER-->
 
 
 <!--START NAVBAR-->
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 
   <div class="container">
@@ -79,23 +83,23 @@
           </a>
         </div>
 
-        <div class="emm-w3m">
-        </div>
+        <div class="emm-w3m"></div>
 
     </div>
 
   </div>
 
 </nav>
+
 <!--END NAVBAR-->
+
 
 </div> 
 </header>
 
+
 <!--START PAGE HEADER-->
-<div class="container-fluid-cat-estilo-de-vida">
 
-      <h1>Estilo de Vida</h1>
+<div class="container-fluid-cat-estilo-de-vida"><h1>Estilo de Vida</h1></div>
 
-</div>
 <!--END PAGE HEADER-->
