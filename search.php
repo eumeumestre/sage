@@ -1,8 +1,8 @@
-<?php get_template_part('templates/page', 'header'); ?>
+<h1>Resultado da pesquisa</h1>
 
 <?php if (!have_posts()) : ?>
   <div class="alert alert-warning">
-    <?php _e('teste', 'sage'); ?>
+    Nenhum resultado encontrado.
   </div>
   
 <?php endif; ?>
