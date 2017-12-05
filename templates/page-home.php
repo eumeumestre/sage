@@ -19,7 +19,7 @@
 <div class="mais-em-cat">
     <div class="row">
       <div class="col-md-8">
-        <h3>Destaque em Psicologia</h3> <small>Conceitos modernos da psicologia para exercitar saúde mental.</small>
+        <h3>Destaque em Psicologia</h3> <small>Conceitos modernos da psicologia para exercitar a sua saúde mental.</small>
       </div>
       <div class="col-md-4 mais-em">
         <a href="#">Mais em Psicologia <i aria-hidden="true" class="fa fa-long-arrow-right"></i></a>
