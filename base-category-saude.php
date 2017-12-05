@@ -46,7 +46,7 @@ use Roots\Sage\Wrapper;
 
     <div class="row">
       <div class="col-md-6">
-        <h3>Ultimos artigos</h3><hr>
+        <h3>Mais Recentes</h3><hr>
             <ul>
             <?php $the_query = new WP_Query( array( 'category_name' => 'saude', 'posts_per_page' => 10 ) );  ?>
             <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
@@ -60,7 +60,7 @@ use Roots\Sage\Wrapper;
             </ul>
       </div>
       <div class="col-md-6">
-        <h3>Top artigos</h3><hr>
+        <h3>Mais Visualizados</h3><hr>
             <?php
             $args = array(
                 'post_html' => '<li><i class="fa fa-circle-o" aria-hidden="true"></i><a href="{url}">{text_title}</a></li>'
