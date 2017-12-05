@@ -17,7 +17,7 @@
     </div>
 
     <div class="col emm-slogan align-self-center">
-      Lorem ipsum dolor sit amet, no detraxit referrentur adversarium sea.
+      Lorem ipsum ipsum.<br>O ponto de partida para o seu desenvolvimento pessoal.
     </div>
 
     <div class="col emm-social-top text-right">

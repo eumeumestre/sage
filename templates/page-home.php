@@ -1,4 +1,4 @@
-<div class="jumbotron"><div class="featured-label">Featured</div>
+<div class="jumbotron"><div class="featured-label">Destaque</div>
   <h1 class="display-5"><a href="#">Lorem Ipsum is simply dummy text of the printing</a></h1>
   <p class="lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s.</p>
   <p class="lead"><a class="btn btn-primary btn-lg" href="#" role="button">Lorem</a></p>
@@ -6,11 +6,11 @@
 
 <div class="artigos-destaque-home">
   <div class="row">
-    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x150"><div class="featured-label">Featured</div><p>Ullamco laboris nisi ut aliquip ex ea ipsum</p></a>
+    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x150"><div class="featured-label">Destaque</div><p>Ullamco laboris nisi ut aliquip ex ea ipsum</p></a>
     </div>
-    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x150"><div class="featured-label">Featured</div><p>Ullamco laboris nisi ut aliquip ex ea ipsum</p></a>
+    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x150"><div class="featured-label">Destaque</div><p>Ullamco laboris nisi ut aliquip ex ea ipsum</p></a>
     </div>
-    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x150"><div class="featured-label">Featured</div><p>Ullamco laboris nisi ut aliquip ex ea ipsum</p></a>
+    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x150"><div class="featured-label">Destaque</div><p>Ullamco laboris nisi ut aliquip ex ea ipsum</p></a>
     </div>
   </div>
 </div>
