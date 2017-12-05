@@ -1,7 +1,7 @@
 <div class="jumbotron"><div class="featured-label">Destaque</div>
   <h1 class="display-5"><a href="#">Lorem Ipsum is simply dummy text of the printing</a></h1>
   <p class="lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s.</p>
-  <p class="lead"><a class="btn btn-primary btn-lg" href="#" role="button">Lorem</a></p>
+  <p class="lead"><a class="btn btn-primary btn-lg" href="#" role="button">Leia mais<i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a></p>
 </div>
 
 <div class="artigos-destaque-home">
