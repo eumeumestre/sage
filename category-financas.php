@@ -24,7 +24,7 @@
 <div class="mais-em-cat">
   <div class="row">
     <div class="col-md-8">
-      <h3>Escolha do Editor</h3> <small>Seleção com os melhores artigos escolhidos a dedo por nós.</small>
+      <h3>Escolha do Editor</h3> <small>Seleção com os melhores artigos escolhidos a dedo.</small>
     </div>
     <div class="col-md-4 mais-em">
       
