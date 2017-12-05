@@ -51,7 +51,7 @@
 					</div>
 
 					<div class="emm-copyright">
-						<p>© 2018 Eu, meu mestre <span>·</span> Todos os direitos reservados.</p>
+						<p>© 2018 Eu, Meu Mestre <span>·</span> Todos os direitos reservados.</p>
 					</div>
 
 				</div>

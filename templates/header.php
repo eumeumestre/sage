@@ -15,7 +15,7 @@
 		</div>
 
 		<div class="col emm-slogan align-self-center">
-			Lorem ipsum ipsum.<br>O ponto de partida para o seu desenvolvimento pessoal.
+			O ponto de partida para seu desenvolvimento pessoal
 		</div>
 
 		<div class="col emm-social-top text-right">
@@ -74,7 +74,7 @@
 				</div>
 
 				<div class="emm-premium">
-					<a href="http://google.com">
+					<a href="/premium">
 						<i class="fa fa-star" aria-hidden="true"></i><b>PREMIUM</b>
 					</a>
 				</div>
