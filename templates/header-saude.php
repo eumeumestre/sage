@@ -22,11 +22,11 @@
 
     <div class="col emm-social-top text-right">
       <span>Nossas redes sociais</span>
-      <a href="#"><i class="fa fa-youtube"></i></a>
-      <a href="#"><i class="fa fa-instagram"></i></a>
-      <a href="#"><i class="fa fa-facebook-official"></i></a>
-      <a href="#"><i class="fa fa-twitter"></i></a>
-      <a href="#"><i class="fa fa-pinterest-p"></i></a>
+            <a href="https://www.youtube.com/channel/UCQhv8p10VABcpHkkpnSZYyg" target="_blank"><i class="fa fa-youtube"></i></a>
+            <a href="https://www.instagram.com/meumestre.eu/" target="_blank"><i class="fa fa-instagram"></i></a>
+            <a href="https://www.facebook.com/eumeumestre/"><i class="fa fa-facebook-official" target="_blank"></i></a>
+            <a href="https://twitter.com/eumeumestre" target="_blank"><i class="fa fa-twitter"></i></a>
+            <a href="https://br.pinterest.com/eumeumestre/pins/" target="_blank"><i class="fa fa-pinterest-p"></i></a>
     </div>
 
   </div>
