@@ -1,4 +1,4 @@
-<div class="emm-bottom-ad"><img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.jpg"></div>
+<div class="emm-bottom-ad"><div><small>Publicidade</small></div><img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.jpg"></div>
 
 
 <footer class="content-info">
