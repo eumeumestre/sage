@@ -13,7 +13,7 @@
 
 				<div class="col-xl-5 col-lg-5 col-md-12 emm-footer-col1">
 					<img class="emm-footer-logo" src="<?= get_template_directory_uri(); ?>/dist/images/logo-footer.png">
-					<p class="emm-p-footer"><strong>Lorem ipsum ipsum.</strong></p>
+					<p class="emm-p-footer"><strong>Eu, meu mestre</strong></p>
 					<p class="emm-p-footer">O ponto de partida para o seu desenvolvimento pessoal.</p>
 				</div>
 
@@ -51,7 +51,7 @@
 					</div>
 
 					<div class="emm-copyright">
-						<p>© 2018 Eu, Meu Mestre <span>·</span> Todos os direitos reservados.</p>
+						<p>© 2018 Eu, meu mestre <span>·</span> Todos os direitos reservados.</p>
 					</div>
 
 				</div>
