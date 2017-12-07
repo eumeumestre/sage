@@ -14,7 +14,7 @@
 				<div class="col-xl-5 col-lg-5 col-md-12 emm-footer-col1">
 					<img class="emm-footer-logo" src="<?= get_template_directory_uri(); ?>/dist/images/logo-footer.png">
 					<p class="emm-p-footer"><strong>Eu, meu mestre</strong></p>
-					<p class="emm-p-footer">O ponto de partida para o seu desenvolvimento pessoal.</p>
+					<p class="emm-p-footer-slogan">O ponto de partida para o seu desenvolvimento pessoal.</p>
 				</div>
 
 				<!-- START Footer Col 1 -->
