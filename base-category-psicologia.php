@@ -45,7 +45,7 @@ use Roots\Sage\Wrapper;
   <div class="ultimos-top-artigos">
 
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-6 space">
         <h3>Mais Recentes</h3><hr>
             <ul>
             <?php $the_query = new WP_Query( array( 'category_name' => 'psicologia', 'posts_per_page' => 10 ) );  ?>
