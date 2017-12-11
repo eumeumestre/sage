@@ -1,7 +1,6 @@
 <?php while (have_posts()) : the_post(); ?>
 
-<span>Publicado em: </span>
-<span class="badge badge-pill badge-primary">
+<span class="post-label">
   <?php
     foreach((get_the_category()) as $category) { 
     echo $category->cat_name . ' '; 
