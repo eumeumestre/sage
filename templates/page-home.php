@@ -1,6 +1,8 @@
 <div class="jumbotron"><div class="featured-label">Destaque</div>
-  <h1 class="display-5"><a href="#">Lorem Ipsum is simply dummy text of the printing</a></h1>
-  <p class="lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s.</p>
+  <h1 class="display-5"><a href="#">O que fazer quando a paixão pelo trabalho não é o suficiente</a></h1>
+  <p class="lead">Se chama trabalho por um motivo, e mesmo que você tenha sorte, estará sujeito a
+dias ruins. Essas dicas são para você que anda desmotivado ou pensando se é
+hora de mudar os ares.</p>
   <p class="lead"><a class="btn btn-primary btn-lg" href="#" role="button">Leia mais<i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a></p>
 </div>
 
