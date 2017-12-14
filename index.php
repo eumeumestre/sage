@@ -6,5 +6,3 @@
 <?php endif; ?>
 
 <?php get_template_part('templates/page', 'home'); ?>
-
-<?php the_posts_navigation(); ?>
