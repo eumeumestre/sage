@@ -8,11 +8,11 @@ hora de mudar de ares.</p>
 
 <div class="artigos-destaque-home">
   <div class="row">
-    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><div class="featured-label">Destaque</div><p>Ullamco laboris nisi ut aliquip ex ea ipsum</p></a>
+    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-1.jpg"><div class="featured-label">Destaque</div><p>Ullamco laboris nisi ut aliquip ex ea ipsum</p></a>
     </div>
-    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><div class="featured-label">Destaque</div><p>Ullamco laboris nisi ut aliquip ex ea ipsum</p></a>
+    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-2.jpg"><div class="featured-label">Destaque</div><p>Ullamco laboris nisi ut aliquip ex ea ipsum</p></a>
     </div>
-    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><div class="featured-label">Destaque</div><p>Ullamco laboris nisi ut aliquip ex ea ipsum</p></a>
+    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-3.jpg"><div class="featured-label">Destaque</div><p>Ullamco laboris nisi ut aliquip ex ea ipsum</p></a>
     </div>
   </div>
 </div>
@@ -30,11 +30,11 @@ hora de mudar de ares.</p>
 
   <div class="row">
     <div class="col-md-8 featured-big">
-      <a href="#"><img class="img-fluid" src="http://via.placeholder.com/750x364"><p>Lorem ipsum</p></a>
+      <a href="#"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-1.jpg"><p>Lorem ipsum</p></a>
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
     </div>
     <div class="col-md-4 featured-small">
-      <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><p>Lorem ipsum</p></a>
+      <a href="#"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-4.jpg"><p>Lorem ipsum</p></a>
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
     </div>
   </div>
@@ -53,11 +53,11 @@ hora de mudar de ares.</p>
 
   <div class="row">
     <div class="col-md-8 featured-big">
-      <a href="#"><img class="img-fluid" src="http://via.placeholder.com/750x364"><p>Lorem ipsum</p></a>
+      <a href="#"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-2.jpg"><p>Lorem ipsum</p></a>
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
     </div>
     <div class="col-md-4 featured-small">
-      <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><p>Lorem ipsum</p></a>
+      <a href="#"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-5.jpg"><p>Lorem ipsum</p></a>
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
     </div>
   </div>
