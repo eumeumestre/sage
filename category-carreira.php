@@ -5,12 +5,12 @@
     <div class="row">
         <div class="col-md-8 featured-big">
             <a href="#"><img src="http://via.placeholder.com/750x364" class="img-fluid">
-            <p>Lorem ipsum</p></a>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
+            <p>Ser produtivo vs ocupado</p></a>
+            <p>Nunca foi tão evidente a mudança dos paradigmas em relação ao tempo de trabalho para as novas gerações. Afinal, quais as diferenças entre pessoas ocupadas e produtivas?</p>
         </div>
         <div class="col-md-4 featured-small">
-            <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
+            <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><p>O que fazer quando a paixão pelo trabalho não é o suficiente</p></a>
+            <p>Se chama trabalho por um motivo, e mesmo que você tenha sorte, estará sujeito a dias ruins. Essas dicas são para você que anda desmotivado ou pensando se é hora de mudar de ares.</p>
         </div>
     </div>
 
@@ -32,7 +32,7 @@
   </div><hr>
 
     <div class="row">
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ullamco laboris nisi u</p></a></div>
+        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Dicas para vencer o cansaço no trabalho</p></a></div>
         <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a></div>
         <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a></div>
     </div>

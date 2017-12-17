@@ -5,12 +5,12 @@
     <div class="row">
         <div class="col-md-8 featured-big">
             <a href="#"><img src="http://via.placeholder.com/750x364" class="img-fluid">
-            <p>Lorem ipsum</p></a>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
+            <p>Inteligência Emocional: o verdadeiro sucesso</p></a>
+            <p>Durante anos, o teste de QI era o único instrumento de medição da inteligência com base em desempenho cognitivo. Entretanto, seria injusto se não considerássemos outras habilidades na balança final.</p>
         </div>
         <div class="col-md-4 featured-small">
-            <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
+            <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><p>Os hábitos da felicidade</p></a>
+            <p>Manter o sentimento de felicidade não é fácil, mas investir nos hábitos certos é recompensador. Adotá-los fará uma grande diferença no seu humor e o aproximará de pessoas com a mesma mentalidade.</p>
         </div>
     </div>
 
@@ -32,9 +32,9 @@
   </div><hr>
 
     <div class="row">
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ullamco laboris nisi u</p></a></div>
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a></div>
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a></div>
+        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>A importância de dizer ‘não’</p></a></div>
+        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Pare de se comparar com outras pessoas</p></a></div>
+        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Como superar o medo</p></a></div>
     </div>
 
 <!-- END Artigos Escolha Editor -->

@@ -5,8 +5,8 @@
     <div class="row">
         <div class="col-md-8 featured-big">
             <a href="#"><img src="http://via.placeholder.com/750x364" class="img-fluid">
-            <p>Lorem ipsum</p></a>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
+            <p>Abraçando a simplicidade</p></a>
+            <p>Definição de simplicidade no dicionário: a ausência de complicação. Como ter uma vida reduzida direcionada em busca de qualidade e não quantidade.</p>
         </div>
         <div class="col-md-4 featured-small">
             <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a>

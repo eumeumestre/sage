@@ -3,7 +3,7 @@
   <p class="lead">Se chama trabalho por um motivo, e mesmo que você tenha sorte, estará sujeito a
 dias ruins. Essas dicas são para você que anda desmotivado ou pensando se é
 hora de mudar de ares.</p>
-  <p class="lead"><a class="btn btn-primary btn-lg" href="#" role="button">Leia mais<i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a></p>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Leia mais<i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a></p>
 </div>
 
 <div class="artigos-destaque-home">
