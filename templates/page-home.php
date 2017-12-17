@@ -1,5 +1,5 @@
 <div class="jumbotron"><div class="featured-label">Escolha do Editor</div>
-  <h1 class="display-5"><a href="#">O que fazer quando a paixão pelo trabalho não é o suficiente</a></h1>
+  <h1 class="display-5"><a href="/carreira/o-que-fazer-quando-paixao-pelo-trabalho-nao-e-o-suficiente/">O que fazer quando a paixão pelo trabalho não é o suficiente</a></h1>
   <p class="lead">Se chama trabalho por um motivo, e mesmo que você tenha sorte, estará sujeito a
 dias ruins. Essas dicas são para você que anda desmotivado ou pensando se é
 hora de mudar de ares.</p>
@@ -8,7 +8,7 @@ hora de mudar de ares.</p>
 
 <div class="artigos-destaque-home">
   <div class="row">
-    <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-1.jpg"><div class="featured-label">Destaque</div><p>Pare de se comparar com outras pessoas</p></a>
+    <div class="col-md-4 featured-small"><a href="/psicologia/pare-de-se-compa…m-outras-pessoas/"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-1.jpg"><div class="featured-label">Destaque</div><p>Pare de se comparar com outras pessoas</p></a>
     </div>
     <div class="col-md-4 featured-small"><a href="#"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-2.jpg"><div class="featured-label">Destaque</div><p>Ser produtivo vs ocupado</p></a>
     </div>
