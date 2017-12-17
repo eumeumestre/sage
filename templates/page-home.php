@@ -8,11 +8,11 @@ hora de mudar de ares.</p>
 
 <div class="artigos-destaque-home">
   <div class="row">
-    <div class="col-md-4 featured-small"><a href="/psicologia/pare-de-se-comparar-com-outras-pessoas"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-1.jpg"><div class="featured-label">Destaque</div><p>Pare de se comparar com outras pessoas</p></a>
+    <div class="col-md-4 featured-small"><a href="/psicologia/pare-de-se-comparar-com-outras-pessoas"><img class="img-fluid" src="http://via.placeholder.com/350x170"><div class="featured-label">Destaque</div><p>Pare de se comparar com outras pessoas</p></a>
     </div>
-    <div class="col-md-4 featured-small"><a href="/carreira/ser-produtivo-vs-ocupado/"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-2.jpg"><div class="featured-label">Destaque</div><p>Ser produtivo vs ocupado</p></a>
+    <div class="col-md-4 featured-small"><a href="/estilo-de-vida/abracando-a-simplicidade"><img class="img-fluid" src="http://via.placeholder.com/350x170"><div class="featured-label">Destaque</div><p>Abraçando a simplicidade</p></a>
     </div>
-    <div class="col-md-4 featured-small"><a href="/psicologia/inteligencia-emocional-o-verdadeiro-sucesso/"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-3.jpg"><div class="featured-label">Destaque</div><p>Inteligência Emocional: o verdadeiro sucesso</p></a>
+    <div class="col-md-4 featured-small"><a href="/financas/os-principios-basicos-do-dinheiro"><img class="img-fluid" src="http://via.placeholder.com/350x170"><div class="featured-label">Destaque</div><p>Os princípios básicos do dinheiro</p></a>
     </div>
   </div>
 </div>
@@ -30,13 +30,13 @@ hora de mudar de ares.</p>
 
   <div class="row">
     <div class="col-md-8 featured-big">
-      <a href="/psicologia/os-habitos-da-felicidade"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-1.jpg"><p>Os hábitos da felicidade</p></a>
+      <a href="/psicologia/os-habitos-da-felicidade"><img src="http://via.placeholder.com/750x364" class="img-fluid"><p>Os hábitos da felicidade</p></a>
       <p>Manter o sentimento de felicidade não é fácil, mas investir nos hábitos certos é
 recompensador. Adotá-los fará uma grande diferença no seu humor e o
 aproximará de pessoas com a mesma mentalidade.</p>
     </div>
     <div class="col-md-4 featured-small">
-      <a href="/psicologia/inteligencia-emocional-o-verdadeiro-sucesso"><p>Inteligência Emocional: o verdadeiro sucesso</p></a>
+      <a href="/psicologia/inteligencia-emocional-o-verdadeiro-sucesso"><img class="img-fluid" src="http://via.placeholder.com/350x170"><p>Inteligência Emocional: o verdadeiro sucesso</p></a>
       <p>Durante anos, o teste de QI era o único instrumento de medição da inteligência com base em desempenho cognitivo. Entretanto, seria injusto se não considerássemos outras habilidades na balança final.</p>
     </div>
   </div>
@@ -55,12 +55,12 @@ aproximará de pessoas com a mesma mentalidade.</p>
 
   <div class="row">
     <div class="col-md-8 featured-big">
-      <a href="/carreira/ser-produtivo-vs-ocupado"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-2.jpg"><p>Ser produtivo vs ocupado</p></a>
+      <a href="/carreira/ser-produtivo-vs-ocupado"><img src="http://via.placeholder.com/750x364" class="img-fluid"><p>Ser produtivo vs ocupado</p></a>
       <p>Nunca foi tão evidente a mudança dos paradigmas em relação ao tempo de trabalho para as novas gerações. Afinal, quais as diferenças entre pessoas ocupadas e produtivas?</p>
     </div>
     <div class="col-md-4 featured-small">
-      <a href="/carreira/dicas-para-vencer-o-cansaco-no-trabalho"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-5.jpg"><p>Dicas para vencer o cansaço no trabalho</p></a>
-      <p>...</p>
+      <a href="/carreira/dicas-para-vencer-o-cansaco-no-trabalho"><img class="img-fluid" src="http://via.placeholder.com/350x170"><p>Dicas para vencer o cansaço no trabalho</p></a>
+      <p>Muitas pessoas experimentam a fadiga ao longo do dia, e não importa o quão motivado ou envolvido você esteja, dormir determinadas horas por dia e fazer as pausas recomendadas podem não ser suficientes.</p>
     </div>
   </div>
 </div>
