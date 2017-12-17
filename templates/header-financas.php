@@ -79,7 +79,7 @@
 
         <div class="emm-premium">
           <a href="/premium">
-            <i class="fa fa-star" aria-hidden="true"></i><b>PREMIUM</b>
+            <i class="fa fa-envelope-o" aria-hidden="true"></i><b>Newsletter</b>
           </a>
         </div>
 
