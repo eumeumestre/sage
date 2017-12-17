@@ -4,7 +4,7 @@
 
     <div class="row">
         <div class="col-md-8 featured-big">
-            <a href="#"><img src="http://via.placeholder.com/750x364" class="img-fluid">
+            <a href="/estilo-de-vida/abracando-a-simplicidade/"><img src="http://via.placeholder.com/750x364" class="img-fluid">
             <p>Abraçando a simplicidade</p></a>
             <p>Definição de simplicidade no dicionário: a ausência de complicação. Como ter uma vida reduzida direcionada em busca de qualidade e não quantidade.</p>
         </div>

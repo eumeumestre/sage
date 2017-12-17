@@ -4,7 +4,7 @@
 
     <div class="row">
         <div class="col-md-8 featured-big">
-            <a href="#"><img src="http://via.placeholder.com/750x364" class="img-fluid">
+            <a href="/saude/7-habitos-para-dias-mais-leves"><img src="http://via.placeholder.com/750x364" class="img-fluid">
             <p>7 hábitos para dias mais leves</p></a>
             <p>Você pode começar o dia apertando a soneca e arrastando-se para fora da cama ou então iniciá-lo com o pé direito.</p>
         </div>
