@@ -63,6 +63,7 @@ use Roots\Sage\Wrapper;
         <h3>Mais Visualizados</h3><hr>
             <?php
             $args = array(
+                'cat' => '7',
                 'post_html' => '<li><i class="fa fa-circle-o" aria-hidden="true"></i><a href="{url}">{text_title}</a></li>'
             );
             wpp_get_mostpopular( $args );

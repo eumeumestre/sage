@@ -24,7 +24,7 @@ hora de mudar de ares.</p>
         <h3>Destaque em Psicologia</h3> <small>Conceitos modernos da psicologia para exercitar a sua saúde mental.</small>
       </div>
       <div class="col-md-4 mais-em">
-        <a href="#">Mais em Psicologia <i aria-hidden="true" class="fa fa-long-arrow-right"></i></a>
+        <a href="/psicologia">Mais em Psicologia <i aria-hidden="true" class="fa fa-long-arrow-right"></i></a>
       </div>
     </div><hr>
 
@@ -49,7 +49,7 @@ aproximará de pessoas com a mesma mentalidade.</p>
         <h3>Destaque em Carreira</h3> <small>Idéias e aprendizados para maximizar sua performance profissional.</small>
       </div>
       <div class="col-md-4 mais-em">
-        <a href="#">Mais em Psicologia <i aria-hidden="true" class="fa fa-long-arrow-right"></i></a>
+        <a href="/carreira">Mais em Carreira<i aria-hidden="true" class="fa fa-long-arrow-right"></i></a>
       </div>
     </div><hr>
 
