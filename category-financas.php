@@ -5,11 +5,11 @@
     <div class="row">
         <div class="col-md-8 featured-big">
             <a href="/financas/os-principios-basicos-do-dinheiro"><img src="http://via.placeholder.com/750x364" class="img-fluid">
-            <p>Os princípios básicos do dinheiro</p></a>
+            <h2>Os princípios básicos do dinheiro</h2></a>
             <p>Devemos lembrar que a grande maioria das pessoas acreditam que ele irá resolver os eventuais problemas que surgirem. Mas para que você o tenha sob controle e não o contrário, deve-se ter em mente as melhores perspectivas sobre ele.</p>
         </div>
         <div class="col-md-4 featured-small d-none">
-            <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a>
+            <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
         </div>
     </div>
@@ -32,9 +32,9 @@
   </div><hr>
 
     <div class="row">
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ullamco laboris nisi u</p></a></div>
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a></div>
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a></div>
+        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ullamco laboris nisi u</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
     </div>
 
 <!-- END Artigos Escolha Editor -->
