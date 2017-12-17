@@ -8,7 +8,7 @@
             <p>7 hábitos para dias mais leves</p></a>
             <p>Você pode começar o dia apertando a soneca e arrastando-se para fora da cama ou então iniciá-lo com o pé direito.</p>
         </div>
-        <div class="col-md-4 featured-small">
+        <div class="col-md-4 featured-small d-none">
             <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
         </div>
@@ -21,7 +21,7 @@
 
 <!-- START Artigos Escolha Editor -->
 
-<div class="mais-em-cat">
+<div class="mais-em-cat d-none">
   <div class="row">
     <div class="col-md-8">
       <h3>Escolha do Editor</h3> <small>Seleção com os melhores artigos escolhidos a dedo.</small>

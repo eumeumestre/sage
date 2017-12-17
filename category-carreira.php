@@ -33,8 +33,8 @@
 
     <div class="row">
         <div class="col-md-4 featured-small"><a href="/carreira/dicas-para-vencer-o-cansaco-no-trabalho"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Dicas para vencer o cansaço no trabalho</p></a></div>
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a></div>
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a></div>
+        <div class="col-md-4 featured-small d-none"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a></div>
+        <div class="col-md-4 featured-small d-none"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><p>Ut enim ad minima veniam, quis nostrum exercitationem</p></a></div>
     </div>
 
 <!-- END Artigos Escolha Editor -->
