@@ -74,7 +74,7 @@
 				</div>
 
 				<div class="emm-premium">
-					<a href="/premium">
+					<a href="/newsletter">
 						<i class="fa fa-envelope-o" aria-hidden="true"></i><b>Newsletter</b>
 					</a>
 				</div>
