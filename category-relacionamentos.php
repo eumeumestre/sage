@@ -4,7 +4,7 @@
 
     <div class="row">
         <div class="col-md-8 featured-big">
-            <a href="/relacionamentos/os-pilares-de-um-relacionamento-saudavel"><img src="http://via.placeholder.com/750x364" class="img-fluid">
+            <a href="/relacionamentos/os-pilares-de-um-relacionamento-saudavel"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-relacionamentos.jpg" class="img-fluid">
             <h2>Os pilares de um relacionamento saudável</h2></a>
             <p>Todos nós desejamos um relacionamento que envolva alegria, cumplicidade e afeto mútuo. Mas já dizia William Shakespeare, famoso escritor inglês: o percurso do amor verdadeiro nunca foi tranquilo.</p>
         </div>

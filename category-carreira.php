@@ -4,12 +4,12 @@
 
     <div class="row">
         <div class="col-md-8 featured-big">
-            <a href="/carreira/ser-produtivo-vs-ocupado"><img src="http://via.placeholder.com/750x364" class="img-fluid">
+            <a href="/carreira/ser-produtivo-vs-ocupado"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-carreira.jpg" class="img-fluid">
             <h2>Ser produtivo vs ocupado</h2></a>
             <p>Nunca foi tão evidente a mudança dos paradigmas em relação ao tempo de trabalho para as novas gerações. Afinal, quais as diferenças entre pessoas ocupadas e produtivas?</p>
         </div>
         <div class="col-md-4 featured-small">
-            <a href="/carreira/o-que-fazer-quando-paixao-pelo-trabalho-nao-e-o-suficiente"><img class="img-fluid" src="http://via.placeholder.com/350x170"><h2>O que fazer quando a paixão pelo trabalho não é o suficiente</h2></a>
+            <a href="/carreira/o-que-fazer-quando-paixao-pelo-trabalho-nao-e-o-suficiente"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-carreira-2.jpg"><h2>O que fazer quando a paixão pelo trabalho não é o suficiente</h2></a>
             <p>Se chama trabalho por um motivo, e mesmo que você tenha sorte, estará sujeito a dias ruins. Essas dicas são para você que anda desmotivado ou pensando se é hora de mudar de ares.</p>
         </div>
     </div>
@@ -32,7 +32,7 @@
   </div><hr>
 
     <div class="row">
-        <div class="col-md-4 featured-small"><a href="/carreira/dicas-para-vencer-o-cansaco-no-trabalho"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Dicas para vencer o cansaço no trabalho</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="/carreira/dicas-para-vencer-o-cansaco-no-trabalho"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-carreira-3.jpg" class="img-fluid"><h2>Dicas para vencer o cansaço no trabalho</h2></a></div>
         <div class="col-md-4 featured-small d-none"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
         <div class="col-md-4 featured-small d-none"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
     </div>

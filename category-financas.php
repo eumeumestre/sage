@@ -4,7 +4,7 @@
 
     <div class="row">
         <div class="col-md-8 featured-big">
-            <a href="/financas/os-principios-basicos-do-dinheiro"><img src="http://via.placeholder.com/750x364" class="img-fluid">
+            <a href="/financas/os-principios-basicos-do-dinheiro"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-financas.jpg" class="img-fluid">
             <h2>Os princípios básicos do dinheiro</h2></a>
             <p>Devemos lembrar que a grande maioria das pessoas acreditam que ele irá resolver os eventuais problemas que surgirem. Mas para que você o tenha sob controle e não o contrário, deve-se ter em mente as melhores perspectivas sobre ele.</p>
         </div>
