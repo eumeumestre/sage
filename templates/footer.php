@@ -12,9 +12,14 @@
 				<!-- START Footer Col 1 -->
 
 				<div class="col-xl-5 col-lg-5 col-md-12 emm-footer-col1">
-					<img class="emm-footer-logo" src="<?= get_template_directory_uri(); ?>/dist/images/logo-footer.png">
-					<p class="emm-p-footer"><strong>Eu, meu mestre</strong></p>
-					<p class="emm-p-footer-slogan">O ponto de partida para o seu desenvolvimento pessoal.</p>
+					<div>
+						<img class="emm-footer-logo" src="<?= get_template_directory_uri(); ?>/dist/images/logo-footer.png">
+						<p class="emm-p-footer"><strong>Eu, meu mestre</strong></p>
+						<p class="emm-p-footer-slogan">O ponto de partida para o seu desenvolvimento pessoal.</p>
+					</div>
+					<div class="madeby">
+						<i class="fa fa-wordpress" aria-hidden="true"></i><small>Feito orgulhosamente com Wordpress.</small>
+					</div>
 				</div>
 
 				<!-- START Footer Col 1 -->
@@ -34,12 +39,12 @@
 					<div class="emm-footer-links">
 						<div class="mb-2">
 							<a href="/sobre-nos">Sobre nós</a>
-							<span>·</span>
-							<a href="/autores">Autores</a>
-							<span>·</span>
-							<a href="/torne-se-um-autor">Torne-se um autor</a>
-							<span>·</span>
-							<a href="/premium">Premium</a>
+							<span class="d-none">·</span>
+							<a class="d-none" href="/autores">Autores</a>
+							<span class="d-none">·</span>
+							<a class="d-none" href="/torne-se-um-autor">Torne-se um autor</a>
+							<span class="d-none">·</span>
+							<a class="d-none" href="/premium">Premium</a>
 						</div>
 						<div>
 							<a href="/anuncie">Anuncie</a>
