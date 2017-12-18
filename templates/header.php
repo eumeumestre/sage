@@ -75,7 +75,7 @@
 
 				<div class="emm-premium">
 					<a href="/newsletter">
-						<i class="fa fa-envelope-o" aria-hidden="true"></i><b>Newsletter</b>
+						<i class="fa fa-envelope-o" aria-hidden="true"></i><b>Assine a newsletter</b>
 					</a>
 				</div>
 
