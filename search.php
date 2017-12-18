@@ -1,7 +1,7 @@
 <h1>Resultado da pesquisa</h1>
 
 <?php if (!have_posts()) : ?>
-    <div style="margin-bottom: 10rem;" class="alert alert-warning">
+    <div class="alert alert-warning">
         Nenhum resultado encontrado.
     </div>
 
