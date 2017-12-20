@@ -1,7 +1,7 @@
-<span>Escrito em</span><time class="updated" datetime="<?= get_post_time('c', true); ?>">
+<small><span>Escrito em</span><time class="updated" datetime="<?= get_post_time('c', true); ?>">
 	<?= get_the_date(); ?>
-</time>
+</time></small>
 
 <p class="byline author vcard">
-	Por <span class="fn"><?= get_the_author(); ?></span>
+	<small>Por <span class="fn"><?= get_the_author(); ?></span></small>
 </p>

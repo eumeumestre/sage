@@ -49,8 +49,6 @@
 						<div>
 							<a href="/anuncie">Anuncie</a>
 							<span>·</span>
-							<a href="/termos">Termos</a>
-							<span>·</span>
 							<a href="/politica-de-privacidade">Privacidade</a>
 						</div>
 					</div>
