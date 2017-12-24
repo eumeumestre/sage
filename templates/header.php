@@ -1,7 +1,9 @@
 <header class="banner">
 <div class="emm-container-responsive">
 
+
 <!--START TOP HEADER-->
+
 <div class="emm-top-ad">
 	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.gif">
 </div>	
@@ -20,7 +22,7 @@
 
 		<div class="col emm-social-top text-right">
 			<span>Nossas redes sociais</span>
-            <a href="https://www.youtube.com/channel/UCQhv8p10VABcpHkkpnSZYyg" target="_blank"><i class="fa fa-youtube"></i></a>
+            <a href="https://www.youtube.com/channel/UCQhv8p10VABcpHkkpnSZYyg" target="_blank" class="d-none"><i class="fa fa-youtube"></i></a>
             <a href="https://www.instagram.com/meumestre.eu/" target="_blank"><i class="fa fa-instagram"></i></a>
             <a href="https://www.facebook.com/eumeumestre/" target="_blank"<i class="fa fa-facebook-official"></i></a>
             <a href="https://twitter.com/eumeumestre" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -30,6 +32,7 @@
 	</div>
 
 </div>
+
 <!--END TOP HEADER-->
 
 

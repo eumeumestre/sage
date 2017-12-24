@@ -29,7 +29,7 @@
 				<div class="col-xl-7 col-lg-7 col-md-12 emm-footer-col2"> 
 
 					<div class="emm-social-bottom">
-						<a href="https://www.youtube.com/channel/UCQhv8p10VABcpHkkpnSZYyg" target="_blank"><i class="fa fa-youtube"></i></a>
+						<a href="https://www.youtube.com/channel/UCQhv8p10VABcpHkkpnSZYyg" target="_blank" class="d-none"><i class="fa fa-youtube"></i></a>
 						<a href="https://www.instagram.com/meumestre.eu/" target="_blank"><i class="fa fa-instagram"></i></a>
 						<a href="https://www.facebook.com/eumeumestre/" target="_blank"><i class="fa fa-facebook-official"></i></a>
 						<a href="https://twitter.com/eumeumestre" target="_blank"><i class="fa fa-twitter"></i></a>
