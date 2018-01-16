@@ -22,4 +22,7 @@
     <?php comments_template('/templates/comments.php'); ?>
   </article>
   
+<p>Today's Mood: <?php echo get_post_meta($post->ID, 'Autor', true); ?></p>
+
+
 <?php endwhile; ?>
