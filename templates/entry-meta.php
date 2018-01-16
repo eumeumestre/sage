@@ -6,3 +6,4 @@
 	<small>Por <span class="fn"><?= get_the_author(); ?></span></small>
 </p>
 
+<p>Autor original: <?php echo get_post_meta($post->ID, 'Autor', true); ?></p>

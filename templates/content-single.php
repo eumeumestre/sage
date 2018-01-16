@@ -13,6 +13,7 @@
       <h1 class="entry-title"><?php the_title(); ?></h1>
       <?php get_template_part('templates/entry-meta'); ?>
     </header>
+    
     <div class="entry-content">
       <?php the_content(); ?>
     </div>
@@ -21,8 +22,5 @@
     </footer>
     <?php comments_template('/templates/comments.php'); ?>
   </article>
-  
-<p>Today's Mood: <?php echo get_post_meta($post->ID, 'Autor', true); ?></p>
-
 
 <?php endwhile; ?>
