@@ -5,3 +5,4 @@
 <p class="byline author vcard">
 	<small>Por <span class="fn"><?= get_the_author(); ?></span></small>
 </p>
+
