@@ -7,3 +7,4 @@
 </p>
 
 <p>Autor original: <?php echo get_post_meta($post->ID, 'Autor', true); ?></p>
+<p>Fonte original: <?php echo get_post_meta($post->ID, 'Fonte', true); ?></p>
