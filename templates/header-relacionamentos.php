@@ -26,7 +26,6 @@
             <a href="https://www.instagram.com/meumestre.eu/" target="_blank"><i class="fa fa-instagram"></i></a>
             <a href="https://www.facebook.com/eumeumestre/" target="_blank"<i class="fa fa-facebook-official"></i></a>
             <a href="https://twitter.com/eumeumestre" target="_blank"><i class="fa fa-twitter"></i></a>
-            <a href="https://br.pinterest.com/eumeumestre/pins/" target="_blank"><i class="fa fa-pinterest-p"></i></a>
     </div>
 
   </div>
