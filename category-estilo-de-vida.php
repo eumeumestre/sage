@@ -8,9 +8,9 @@
             <h2>Abraçando a simplicidade</h2></a>
             <p>Definição de simplicidade no dicionário: a ausência de complicação. Como ter uma vida reduzida direcionada em busca de qualidade e não quantidade.</p>
         </div>
-        <div class="col-md-4 featured-small d-none">
-            <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
+        <div class="col-md-4 featured-small">
+            <a href="/estilo-de-vida/coisas-sobre-viagens-que-gostaria-de-ter-aprendido-mais-cedo"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-estilo-de-vida-2.jpg" class="img-fluid"><h2>Coisas sobre viagens que gostaria de ter aprendido mais cedo</h2></a>
+            <p>Vá para a faculdade, tenha um emprego, economize para a aposentadoria. Como muitos de vocês, escutei um conselho parecido de meus pais sobre ter uma vida segura. Quando se tratava de viajar, não tanto…</p>
         </div>
     </div>
 

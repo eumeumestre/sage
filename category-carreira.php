@@ -33,7 +33,7 @@
 
     <div class="row">
         <div class="col-md-4 featured-small"><a href="/carreira/dicas-para-vencer-o-cansaco-no-trabalho"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-carreira-3.jpg" class="img-fluid"><h2>Dicas para vencer o cansaço no trabalho</h2></a></div>
-        <div class="col-md-4 featured-small d-none"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="/carreira/8-razoes-pelas-quais-voce-nunca-deve-ter-um-emprego"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-carreira-4.jpg" class="img-fluid"><h2>8 razões pelas quais você nunca deve ter um emprego</h2></a></div>
         <div class="col-md-4 featured-small d-none"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
     </div>
 
