@@ -17,7 +17,7 @@
     </div>
 
     <div class="col emm-slogan align-self-center">
-      O ponto de partida para seu desenvolvimento pessoal.
+      O ponto de partida para seu desenvolvimento pessoal
     </div>
 
     <div class="col emm-social-top text-right">
