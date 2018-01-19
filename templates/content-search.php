@@ -7,7 +7,7 @@
     } 
   ?>
 </p>
-    <?php if (get_post_type() === 'post') { get_template_part('templates/entry-meta'); } ?>
+    <?php if (get_post_type() === 'post') { get_template_part('templates/entry-meta-search'); } ?>
   </header>
 
   <div class="entry-summary">
