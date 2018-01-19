@@ -1,7 +1,7 @@
 <article <?php post_class(); ?>>
   <header>
     <h2 class="entry-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
-    <span class="featured-label">
+    <span class="search-label">
   <?php
     foreach((get_the_category()) as $category) { 
     echo $category->cat_name . ' '; 
