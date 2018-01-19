@@ -1,4 +1,4 @@
-<div style="margin-bottom: 20px; color: darkgrey;">
+<div style="margin-bottom: 5px; color: darkgrey;">
 <small><span>Publicado em</span><time class="updated" datetime="<?= get_post_time('c', true); ?>">
 	<?= get_the_date(); ?>
 </time></small>
