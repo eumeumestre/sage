@@ -42,6 +42,28 @@ aproximará de pessoas com a mesma mentalidade.</p>
   </div>
 </div>
 
+<div class="mais-em-cat">
+    <div class="row">
+      <div class="col-md-8">
+        <h3>Destaque em Saúde</h3> <small></small>
+      </div>
+      <div class="col-md-4 mais-em">
+        <a href="/saude">Mais em Saúde <i aria-hidden="true" class="fa fa-long-arrow-right"></i></a>
+      </div>
+    </div><hr>
+
+  <div class="row">
+    <div class="col-md-8 featured-big">
+      <a href="/saude/7-habitos-para-dias-mais-leves""><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-saude.jpg" class="img-fluid"><h2>7 hábitos para dias mais leves</h2></a>
+      <p>Você pode começar o dia apertando a soneca e arrastando-se para fora da cama ou então iniciá-lo com o pé direito.</p>
+    </div>
+    <div class="col-md-4 featured-small">
+      <a href="/saude/8-beneficios-inesperados-da-sauna/"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-saude-2.jpg"><h2>8 benefícios inesperados da sauna</h2></a>
+      <p>As saunas são basicamente pequenas salas aquecidas, que podem ser secas ou molhadas. Neste artigo, analisamos alguns dos benefícios inesperados da sauna.</p>
+    </div>
+  </div>
+</div>
+
 
   <div class="mais-em-cat">
     <div class="row">

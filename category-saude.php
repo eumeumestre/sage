@@ -9,7 +9,7 @@
             <p>Você pode começar o dia apertando a soneca e arrastando-se para fora da cama ou então iniciá-lo com o pé direito.</p>
         </div>
         <div class="col-md-4 featured-small">
-            <a href="http://meumestre.eu/saude/8-beneficios-inesperados-da-sauna/"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-saude-2.jpg"><h2>8 benefícios inesperados da sauna</h2></a>
+            <a href="/saude/8-beneficios-inesperados-da-sauna/"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-saude-2.jpg"><h2>8 benefícios inesperados da sauna</h2></a>
             <p>As saunas são basicamente pequenas salas aquecidas, que podem ser secas ou molhadas. Neste artigo, analisamos alguns dos benefícios inesperados da sauna.</p>
         </div>
     </div>
