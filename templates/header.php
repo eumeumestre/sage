@@ -4,10 +4,6 @@
 
 <!--START TOP HEADER-->
 
-<div class="emm-top-ad">
-	<img src="<?= get_template_directory_uri(); ?>/dist/images/728x90.gif">
-</div>	
-
 <div class="emm-top-header container">
 
 	<div class="row">
