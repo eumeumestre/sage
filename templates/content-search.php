@@ -1,5 +1,6 @@
 <article <?php post_class(); ?>>
   <header>
+    <h2 class="entry-title"><a href="<?php the_permalink(); ?>">
     <span style="margin-right: 15px; margin-top: 5px; float: left;">
                     <?php
                     if ( has_post_thumbnail() ) { // check if the post Thumbnail
@@ -9,7 +10,7 @@
                     }
                     ?>
                   </span>
-    <h2 class="entry-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
+      <?php the_title(); ?></a></h2>
     <span class="search-label d-none">
   <?php
     foreach((get_the_category()) as $category) { 
