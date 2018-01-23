@@ -8,9 +8,9 @@
             <h2>7 hábitos para dias mais leves</h2></a>
             <p>Você pode começar o dia apertando a soneca e arrastando-se para fora da cama ou então iniciá-lo com o pé direito.</p>
         </div>
-        <div class="col-md-4 featured-small d-none">
-            <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
+        <div class="col-md-4 featured-small">
+            <a href="http://meumestre.eu/saude/8-beneficios-inesperados-da-sauna/"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-saude-2.jpg"><h2>8 benefícios inesperados da sauna</h2></a>
+            <p>As saunas são basicamente pequenas salas aquecidas, que podem ser secas ou molhadas. Neste artigo, analisamos alguns dos benefícios inesperados da sauna.</p>
         </div>
     </div>
 
@@ -21,7 +21,7 @@
 
 <!-- START Artigos Escolha Editor -->
 
-<div class="mais-em-cat d-none">
+<div class="mais-em-cat">
   <div class="row">
     <div class="col-md-8">
       <h3>Escolha do Editor</h3> <small>Seleção com os melhores artigos escolhidos a dedo.</small>
@@ -32,9 +32,9 @@
   </div><hr>
 
     <div class="row">
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ullamco laboris nisi u</h2></a></div>
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="http://meumestre.eu/saude/8-dicas-para-ser-mais-paciente-e-menos-estressado/"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-saude-3.jpg" class="img-fluid"><h2>8 dicas para ser mais paciente e menos estressado</h2></a></div>
+        <div class="d-none col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
+        <div class="d-none col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
     </div>
 
 <!-- END Artigos Escolha Editor -->
