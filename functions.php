@@ -38,4 +38,22 @@ return $query;
 add_filter('pre_get_posts','wpb_search_filter');
 }
 
-add_image_size( 'search-thumbnail', 110, 50, true ); // 220 pixels wide by 180 pixels tall, hard
+add_image_size( 'search-thumbnail', 100, 50, false); // 220 pixels wide by 180 pixels tall, hard
+add_image_size ('search-thumbnail-2', 200, 200, array( 'center', 'top' ));
+
+
+
+// Add other useful image sizes for use through Add Media modal
+add_image_size( 'medium-width', 480 );
+add_image_size( 'medium-height', 9999, 480 );
+add_image_size( 'medium-something', 480, 480 );
+
+// Register the three useful image sizes for use in Add Media modal
+add_filter( 'image_size_names_choose', 'wpshout_custom_sizes' );
+function wpshout_custom_sizes( $sizes ) {
+    return array_merge( $sizes, array(
+        'medium-width' => __( 'Medium Width' ),
+        'medium-height' => __( 'Medium Height' ),
+        'medium-something' => __( 'Medium Something' ),
+    ) );
+}
