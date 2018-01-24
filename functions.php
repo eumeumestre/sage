@@ -38,4 +38,4 @@ return $query;
 add_filter('pre_get_posts','wpb_search_filter');
 }
 
-add_image_size( 'search-thumbnail', 110, 110, true ); // 220 pixels wide by 180 pixels tall, hard
+add_image_size( 'search-thumbnail', 110, 50, true ); // 220 pixels wide by 180 pixels tall, hard
