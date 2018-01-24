@@ -4,9 +4,9 @@
     <span style="margin-right: 15px; margin-top: 5px; float: left;">
                     <?php
                     if ( has_post_thumbnail() ) { // check if the post Thumbnail
-                        the_post_thumbnail('thumbnail');
+                        the_post_thumbnail('search-thumbnail');
                     } else {
-                        //your default img
+                        //your default img here
                     }
                     ?>
                   </span>
