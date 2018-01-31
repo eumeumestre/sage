@@ -17,6 +17,8 @@ hora de mudar de ares.</p>
   </div>
 </div>
 
+<div class="d-none" id="msgid">
+</div><a class="d-none" href="#" data-toggle="tooltip" title="Hooray!">Hover over me</a>
 
 <div class="mais-em-cat">
     <div class="row">
