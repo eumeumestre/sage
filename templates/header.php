@@ -73,7 +73,7 @@
 
         <div class="emm-premium">
           <a href="http://eepurl.com/dfd6t9" target="_blank">
-           <b>Premium</b>
+           <i class="fa fa-dot-circle-o" aria-hidden="true"></i><b>Premium</b>
           </a>
         </div>
 
