@@ -72,9 +72,9 @@
           </a>
         </div>
 
-        <div class="emm-premium d-none">
+        <div class="emm-premium">
           <a href="http://eepurl.com/dfd6t9" target="_blank">
-            <i class="fa fa-envelope-o" aria-hidden="true"></i><b>Assine a newsletter</b>
+           <b>Premium</b>
           </a>
         </div>
 
