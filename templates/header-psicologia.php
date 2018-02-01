@@ -66,19 +66,6 @@
           <?php get_search_form(); ?>
         </div>
 
-        <div class="emm-login">
-          <a href="http://google.com">
-            <i class="fa fa-sign-in" aria-hidden="true"></i><b>Login</b>
-          </a>
-        </div>
-
-        <div class="emm-premium">
-          <a href="http://eepurl.com/dfd6t9" target="_blank">
-           <i class="fa fa-dot-circle-o" aria-hidden="true"></i><b>Premium</b>
-          </a>
-        </div>
-
-        <div class="emm-w3m"></div>
 
     </div>
 
