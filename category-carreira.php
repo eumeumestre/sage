@@ -34,7 +34,7 @@
     <div class="row">
         <div class="col-md-4 featured-small"><a href="/carreira/dicas-para-vencer-o-cansaco-no-trabalho"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-carreira-3.jpg" class="img-fluid"><h2>Dicas para vencer o cansaço no trabalho</h2></a></div>
         <div class="col-md-4 featured-small"><a href="/carreira/8-razoes-pelas-quais-voce-nunca-deve-ter-um-emprego"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-carreira-4.jpg" class="img-fluid"><h2>8 razões pelas quais você nunca deve ter um emprego</h2></a></div>
-        <div class="col-md-4 featured-small"><a href="http://meumestre.eu/carreira/a-todos-os-criticos-amo-voces/#.Wni3m1PwZQI"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-carreira-5.jpg" class="img-fluid"><h2>A todos os críticos: amo vocês!</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="http://meumestre.eu/carreira/a-todos-os-criticos-amo-voces/"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-carreira-5.jpg" class="img-fluid"><h2>A todos os críticos: amo vocês!</h2></a></div>
     </div>
 
 <!-- END Artigos Escolha Editor -->

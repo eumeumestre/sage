@@ -8,9 +8,9 @@
             <h2>Os princípios básicos do dinheiro</h2></a>
             <p>Devemos lembrar que a grande maioria das pessoas acreditam que ele irá resolver os eventuais problemas que surgirem. Mas para que você o tenha sob controle e não o contrário, deve-se ter em mente as melhores perspectivas sobre ele.</p>
         </div>
-        <div class="col-md-4 featured-small d-none">
-            <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
+        <div class="col-md-4 featured-small">
+            <a href="financas/5-licoes-que-podemos-aprender-com-vida-de-warren-buffett/"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-financas-2.jpg"><h2>5 lições que podemos aprender com a vida de Warren Buffett</h2></a>
+            <p>Ele não é só engraçado e afiado, Buffet também é muito inteligente. Ele lê muito e, acima de tudo isso, sabe curtir a vida com a sua famosa dieta fast-food e vive na mesma casa desde 1958.</p>
         </div>
     </div>
 
