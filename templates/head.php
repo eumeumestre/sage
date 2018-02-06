@@ -5,10 +5,14 @@
   <?php wp_head(); ?>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script> (adsbygoogle = window.adsbygoogle || []).push({
-google_ad_client: "ca-pub-3870151252326045",
-enable_page_level_ads: true
-});
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3870151252326045"
+     data-ad-slot="8146926831"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 </head>
