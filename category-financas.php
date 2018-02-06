@@ -21,7 +21,7 @@
 
 <!-- START Artigos Escolha Editor -->
 
-<div class="mais-em-cat d-none">
+<div class="mais-em-cat">
   <div class="row">
     <div class="col-md-8">
       <h3>Escolha do Editor</h3> <small>Seleção com os melhores artigos escolhidos a dedo.</small>
@@ -32,9 +32,10 @@
   </div><hr>
 
     <div class="row">
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ullamco laboris nisi u</h2></a></div>
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
-        <div class="col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="financas/4-licoes-para-aprender-com-sam-walton-fundador-do-walmart"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-financas-3.jpg" class="img-fluid"><h2>
+4 lições para aprender com Sam Walton, fundador do Walmart</h2></a></div>
+        <div class="col-md-4 d-none featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
+        <div class="col-md-4 d-none featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
     </div>
 
 <!-- END Artigos Escolha Editor -->
