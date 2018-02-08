@@ -79,7 +79,6 @@
 
 <!--START PAGE HEADER (DEFAULT FOR PAGES AND POSTS)-->
 <div class="container-fluid-main">
-	ad
 </div>
 <!--END PAGE HEADER (DEFAULT FOR PAGES AND POSTS)-->
 
