@@ -34,7 +34,8 @@
     <div class="row">
         <div class="col-md-4 featured-small"><a href="financas/4-licoes-para-aprender-com-sam-walton-fundador-do-walmart"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-financas-3.jpg" class="img-fluid"><h2>
 4 lições para aprender com Sam Walton, fundador do Walmart</h2></a></div>
-        <div class="col-md-4 d-none featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="http://meumestre.eu/financas/truques-financeiros-para-economizar-para-o-seu-sonho"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-financas-4.jpg" class="img-fluid"><h2>Truques financeiros para economizar para o seu sonho
+</h2></a></div>
         <div class="col-md-4 d-none featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
     </div>
 
