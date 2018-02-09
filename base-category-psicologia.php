@@ -77,14 +77,14 @@ use Roots\Sage\Wrapper;
             </ul>
       </div>
 <div class="col-md-4 space">
-        <h3>Destaques</h3><hr>
+        <h3>Em Destaques</h3><hr>
             
             <ul>
             <li>
-              <a href="<?php echo get_the_permalink( 148 ); ?>"><?php echo get_the_post_thumbnail(284, 'custom-size-1'); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 148 ); ?></p></a>
+              <a href="<?php echo get_the_permalink( 148 ); ?>"><?php echo get_the_post_thumbnail(148, 'custom-size-1'); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 148 ); ?></p></a>
             </li>
                         <li>
-              <a href="<?php echo get_the_permalink( 499 ); ?>"><?php echo get_the_post_thumbnail(499, 'custom-size-1'); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 499 ); ?></p></a>
+              <a href="<?php echo get_the_permalink( 248 ); ?>"><?php echo get_the_post_thumbnail(499, 'custom-size-1'); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 248 ); ?></p></a>
             </li>
                                     <li>
               <a href="<?php echo get_the_permalink( 135 ); ?>"><?php echo get_the_post_thumbnail(135, 'custom-size-1'); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 135 ); ?></p></a>
