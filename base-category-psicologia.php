@@ -81,7 +81,7 @@ use Roots\Sage\Wrapper;
             
             <ul>
             <li>
-              <a href="<?php echo get_the_permalink( 69 ); ?>"><?php echo get_the_post_thumbnail(69, 'custom-size-1', array( 'class' => 'img-fluid' )); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 69 ); ?></p></a>
+              <a href="<?php echo get_the_permalink( 146 ); ?>"><?php echo get_the_post_thumbnail(146, 'custom-size-1', array( 'class' => 'img-fluid' )); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 146 ); ?></p></a>
             </li>
             <li>
               <a href="<?php echo get_the_permalink( 284 ); ?>"><?php echo get_the_post_thumbnail(284, 'custom-size-1', array( 'class' => 'img-fluid' )); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 284 ); ?></p></a>
@@ -89,7 +89,6 @@ use Roots\Sage\Wrapper;
             <li>
               <a href="<?php echo get_the_permalink( 135 ); ?>"><?php echo get_the_post_thumbnail(135, 'custom-size-1', array( 'class' => 'img-fluid' )); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 135 ); ?></p></a>
             </li>
-
             </ul>
       </div>
     </div>
