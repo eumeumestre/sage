@@ -52,7 +52,7 @@ use Roots\Sage\Wrapper;
             <?php $the_query = new WP_Query( array( 'category_name' => 'psicologia', 'posts_per_page' => 3 ) );  ?>
             <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
             <li>
-              <a href="<?php the_permalink() ?>"><?php the_post_thumbnail( 'custom-size-1' );  ?><p style="margin-top: 5px;"><?php the_title(); ?></p></a>
+              <a href="<?php the_permalink() ?>"><?php the_post_thumbnail( 'custom-size-1',array( 'class' => 'img-fluid' ));  ?><p style="margin-top: 5px;"><?php the_title(); ?></p></a>
             </li>
               <?php 
               endwhile;
@@ -65,13 +65,13 @@ use Roots\Sage\Wrapper;
         <h3>Mais Visualizados</h3><hr>
             <ul>
             <li>
-              <a href="<?php echo get_the_permalink( 148 ); ?>"><?php echo get_the_post_thumbnail(148, 'custom-size-1'); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 148 ); ?></p></a>
+              <a href="<?php echo get_the_permalink( 148 ); ?>"><?php echo get_the_post_thumbnail(148, 'custom-size-1', array( 'class' => 'img-fluid' )); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 148 ); ?></p></a>
             </li>
-                        <li>
-              <a href="<?php echo get_the_permalink( 476 ); ?>"><?php echo get_the_post_thumbnail(476, 'custom-size-1'); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 476 ); ?></p></a>
+            <li>
+              <a href="<?php echo get_the_permalink( 476 ); ?>"><?php echo get_the_post_thumbnail(476, 'custom-size-1', array( 'class' => 'img-fluid' )); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 476 ); ?></p></a>
             </li>
-                                    <li>
-              <a href="<?php echo get_the_permalink( 124 ); ?>"><?php echo get_the_post_thumbnail(124, 'custom-size-1'); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 124 ); ?></p></a>
+            <li>
+              <a href="<?php echo get_the_permalink( 124 ); ?>"><?php echo get_the_post_thumbnail(124, 'custom-size-1', array( 'class' => 'img-fluid' )); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 124 ); ?></p></a>
             </li>
         
             </ul>
@@ -81,15 +81,15 @@ use Roots\Sage\Wrapper;
             
             <ul>
             <li>
-              <a href="<?php echo get_the_permalink( 148 ); ?>"><?php echo get_the_post_thumbnail(148, 'custom-size-1'); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 148 ); ?></p></a>
+              <a href="<?php echo get_the_permalink( 69 ); ?>"><?php echo get_the_post_thumbnail(69, 'custom-size-1', array( 'class' => 'img-fluid' )); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 69 ); ?></p></a>
             </li>
-                        <li>
-              <a href="<?php echo get_the_permalink( 284 ); ?>"><?php echo get_the_post_thumbnail(284, 'custom-size-1'); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 284 ); ?></p></a>
+            <li>
+              <a href="<?php echo get_the_permalink( 284 ); ?>"><?php echo get_the_post_thumbnail(284, 'custom-size-1', array( 'class' => 'img-fluid' )); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 284 ); ?></p></a>
             </li>
-                                    <li>
-              <a href="<?php echo get_the_permalink( 135 ); ?>"><?php echo get_the_post_thumbnail(135, 'custom-size-1'); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 135 ); ?></p></a>
+            <li>
+              <a href="<?php echo get_the_permalink( 135 ); ?>"><?php echo get_the_post_thumbnail(135, 'custom-size-1', array( 'class' => 'img-fluid' )); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 135 ); ?></p></a>
             </li>
-        
+
             </ul>
       </div>
     </div>
