@@ -1,4 +1,4 @@
-<div style="margin-bottom: 20px; color: darkgrey;">
+<div style="margin-bottom: 20px; color: darkgrey; display: none;">
 <small><i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 4px;"></i><span>Publicado em</span><time class="updated" datetime="<?= get_post_time('c', true); ?>">
 	<?= get_the_date(); ?>
 </time></small>
