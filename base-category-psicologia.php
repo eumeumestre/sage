@@ -104,12 +104,13 @@ use Roots\Sage\Wrapper;
     <div class="row">
       <div class="col-md-12">
         <div><small>Publicidade</small></div>
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Category Page -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Bottom Responsive -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:970px;height:250px"
+     style="display:block"
      data-ad-client="ca-pub-3870151252326045"
-     data-ad-slot="4881575023"></ins>
+     data-ad-slot="8593836740"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
