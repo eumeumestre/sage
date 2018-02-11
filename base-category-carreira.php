@@ -45,13 +45,13 @@ use Roots\Sage\Wrapper;
   <div class="ultimos-top-artigos">
 
     <div class="row">
-      <div class="col-md-6 space">
+      <div class="col-md-4 space">
         <h3>Mais Recentes</h3><hr>
             <ul>
-            <?php $the_query = new WP_Query( array( 'category_name' => 'carreira', 'posts_per_page' => 10 ) );  ?>
+            <?php $the_query = new WP_Query( array( 'category_name' => 'carreira', 'posts_per_page' => 3 ) );  ?>
             <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
             <li>
-              <i class="fa fa-circle-o" aria-hidden="true"></i><a href="<?php the_permalink() ?>"><?php the_title(); ?></a>
+              <a href="<?php the_permalink() ?>"><?php the_post_thumbnail( 'custom-size-1',array( 'class' => 'img-fluid' ));  ?><p style="margin-top: 5px;"><?php the_title(); ?></p></a>
             </li>
               <?php 
               endwhile;
@@ -59,7 +59,7 @@ use Roots\Sage\Wrapper;
               ?>
             </ul>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-8">
         <h3>Mais Visualizados</h3><hr>
             <?php
             $args = array(

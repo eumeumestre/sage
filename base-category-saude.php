@@ -59,7 +59,7 @@ use Roots\Sage\Wrapper;
               ?>
             </ul>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-8">
         <h3>Mais Visualizados</h3><hr>
             <?php
             $args = array(
