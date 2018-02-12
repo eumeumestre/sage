@@ -10,7 +10,6 @@
         </div>
         <div class="col-md-4 featured-small">
             <a href="/carreira/o-que-fazer-quando-paixao-pelo-trabalho-nao-e-o-suficiente"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-carreira-2.jpg"><h2>O que fazer quando a paixão pelo trabalho não é o suficiente</h2></a>
-            <p>Se chama trabalho por um motivo, e mesmo que você tenha sorte, estará sujeito a dias ruins. Essas dicas são para você que anda desmotivado ou pensando se é hora de mudar de ares.</p>
         </div>
     </div>
 

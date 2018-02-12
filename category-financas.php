@@ -10,7 +10,6 @@
         </div>
         <div class="col-md-4 featured-small">
             <a href="financas/5-licoes-que-podemos-aprender-com-vida-de-warren-buffett/"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-financas-2.jpg"><h2>5 lições que podemos aprender com a vida de Warren Buffett</h2></a>
-            <p>Ele não é só engraçado e afiado, Buffet também é muito inteligente. Ele lê muito e, acima de tudo isso, sabe curtir a vida com a sua famosa dieta fast-food e vive na mesma casa desde 1958.</p>
         </div>
     </div>
 
