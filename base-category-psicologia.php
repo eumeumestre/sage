@@ -62,7 +62,7 @@ use Roots\Sage\Wrapper;
 
       </div>
       <div class="col-md-4 space">
-        <h3></i>Mais Visualizados</h3><hr>
+        <h3>Mais Visualizados</h3><hr>
             <ul>
             <li>
               <a href="<?php echo get_the_permalink( 148 ); ?>"><?php echo get_the_post_thumbnail(148, 'custom-size-1', array( 'class' => 'img-fluid' )); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 148 ); ?></p></a>
