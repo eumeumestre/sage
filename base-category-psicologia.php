@@ -30,7 +30,6 @@ use Roots\Sage\Wrapper;
       </div><!-- /.content -->
     </div><!-- /.wrap -->
 
-
 <!-- START Newsletter Box -->
 
 <?php get_template_part('templates/content', 'newsletter-jumbo'); ?>
