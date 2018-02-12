@@ -46,7 +46,7 @@ use Roots\Sage\Wrapper;
 
     <div class="row">
       <div class="col-md-4 space">
-        <h3><i class="fa fa-clock-o" aria-hidden="true"></i>Mais Recentes</h3><hr>
+        <h3>Mais Recentes</h3><hr>
 
             <ul>
             <?php $the_query = new WP_Query( array( 'category_name' => 'psicologia', 'posts_per_page' => 3 ) );  ?>
@@ -62,7 +62,7 @@ use Roots\Sage\Wrapper;
 
       </div>
       <div class="col-md-4 space">
-        <h3><i class="fa fa-eye" aria-hidden="true"></i>Mais Visualizados</h3><hr>
+        <h3></i>Mais Visualizados</h3><hr>
             <ul>
             <li>
               <a href="<?php echo get_the_permalink( 148 ); ?>"><?php echo get_the_post_thumbnail(148, 'custom-size-1', array( 'class' => 'img-fluid' )); ?> <p style="margin-top: 5px;"><?php echo get_the_title( 148 ); ?></p></a>
@@ -77,7 +77,7 @@ use Roots\Sage\Wrapper;
             </ul>
       </div>
 <div class="col-md-4 space">
-        <h3><i class="fa fa-star" aria-hidden="true"></i>Em Destaques</h3><hr>
+        <h3>Em Destaques</h3><hr>
             
             <ul>
             <li>
