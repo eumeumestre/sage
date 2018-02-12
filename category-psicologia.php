@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-4 featured-small">
             <a href="/psicologia/os-habitos-da-felicidade"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-psicologia-2.jpg"><h2>Os hábitos da felicidade</h2></a>
-            <p>Manter o sentimento de felicidade não é fácil, mas investir nos hábitos certos é recompensador. Adotá-los fará uma grande diferença no seu humor e o aproximará de pessoas com a mesma mentalidade.</p>
+            <a href="/psicologia/10-dicas-basicas-para-automotivacao/"><img width="350" height="170" src="http://www.meumestre.eu/wp-content/uploads/2018/02/japheth-mast-329255-350x170.jpg" class="img-fluid wp-post-image" alt=""><h2>10 dicas básicas para automotivação</h2></a>
         </div>
     </div>
 
