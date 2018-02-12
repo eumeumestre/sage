@@ -7,7 +7,7 @@
   <?php get_template_part('templates/content', 'page'); ?>
   
 
-<div class="jumbotron"><div class="featured-label">Escolha do Editor</div>
+<div class="jumbotron"><div class="featured-label">Artigo em Destaque</div>
   <h2 class="display-5"><a href="/carreira/o-que-fazer-quando-paixao-pelo-trabalho-nao-e-o-suficiente/">O que fazer quando a paixão pelo trabalho<br> não é o suficiente</a></h2>
   <p class="lead">Se chama trabalho por um motivo, e mesmo que você tenha sorte, estará sujeito a
 dias ruins. Essas dicas são para você que anda desmotivado ou pensando se é
