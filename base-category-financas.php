@@ -47,7 +47,13 @@ use Roots\Sage\Wrapper;
     <div class="row">
       <div class="col-md-4 space">
         <h3></i>Mais Recentes</h3><hr>
-...
+            <?php
+            $args = array(
+                'cat' => '4',
+                'post_html' => '<li><i class="fa fa-circle-o" aria-hidden="true"></i><a href="{url}">{text_title}</a></li>'
+            );
+            wpp_get_mostpopular( $args );
+            ?>
       </div>
       <div class="col-md-4 d-none">
         <h3>Mais Visualizados</h3><hr>
