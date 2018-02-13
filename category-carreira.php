@@ -9,7 +9,8 @@
             <p>Nunca foi tão evidente a mudança dos paradigmas em relação ao tempo de trabalho para as novas gerações. Afinal, quais as diferenças entre pessoas ocupadas e produtivas?</p>
         </div>
         <div class="col-md-4 featured-small">
-            <a href="/carreira/o-que-fazer-quando-paixao-pelo-trabalho-nao-e-o-suficiente"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-carreira-2.jpg"><h2>O que fazer quando a paixão pelo trabalho não é o suficiente</h2></a>
+            <a style="margin-bottom: 2rem;" href="/carreira/o-que-fazer-quando-paixao-pelo-trabalho-nao-e-o-suficiente"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-carreira-2.jpg"><h2>O que fazer quando a paixão pelo trabalho não é o suficiente</h2></a>
+            <a href="http://meumestre.eu/carreira/5-mitos-comuns-ao-iniciar-um-negocio"><img width="350" height="170" src="http://www.meumestre.eu/wp-content/uploads/2018/02/nik-macmillan-280300-350x170.jpg" class="img-fluid wp-post-image" alt=""><h2>5 mitos comuns ao iniciar um negócio</h2></a>
         </div>
     </div>
 
