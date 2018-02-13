@@ -14,6 +14,8 @@ dias ruins. Essas dicas são para você que anda desmotivado ou pensando se é
 hora de mudar de ares.</p>
   <p><a class="btn btn-primary btn-lg" href="/carreira/o-que-fazer-quando-paixao-pelo-trabalho-nao-e-o-suficiente/" role="button">Leia mais<i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a></p>
 </div>
+
+
 <div class="artigos-destaque-home">
   <div class="row">
     <div class="col-md-4 featured-small"><a href="/psicologia/pare-de-se-comparar-com-outras-pessoas"><img class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-1.jpg"><div class="featured-label">Destaque</div><h2>Pare de se comparar com outras pessoas</h2></a>
@@ -24,8 +26,10 @@ hora de mudar de ares.</p>
     </div>
   </div>
 </div>
+
 <div class="d-none" id="msgid">
 </div><a class="d-none" href="#" data-toggle="tooltip" title="Hooray!">Hover over me</a>
+
 <div class="mais-em-cat">
     <div class="row">
       <div class="col-md-8">
