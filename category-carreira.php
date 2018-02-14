@@ -4,7 +4,7 @@
 
     <div class="row">
         <div class="col-md-8 featured-big">
-            <a href="/carreira/ser-produtivo-vs-ocupado"><img alt="Ser produtivo vs ocupado"> src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-carreira.jpg" class="img-fluid">
+            <a href="/carreira/ser-produtivo-vs-ocupado"><img alt="Ser produtivo vs ocupado" src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-carreira.jpg" class="img-fluid">
             <h2>Ser produtivo vs ocupado</h2></a>
             <p>Nunca foi tão evidente a mudança dos paradigmas em relação ao tempo de trabalho para as novas gerações. Afinal, quais as diferenças entre pessoas ocupadas e produtivas?</p>
         </div>

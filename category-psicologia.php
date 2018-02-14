@@ -4,7 +4,7 @@
 
     <div class="row">
         <div class="col-md-8 featured-big">
-            <a href="/psicologia/inteligencia-emocional-o-verdadeiro-sucesso"><img alt="Inteligência Emocional: o verdadeiro sucesso"> src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-psicologia.jpg" class="img-fluid">
+            <a href="/psicologia/inteligencia-emocional-o-verdadeiro-sucesso"><img alt="Inteligência Emocional: o verdadeiro sucesso" src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-psicologia.jpg" class="img-fluid">
             <h2>Inteligência Emocional: o verdadeiro sucesso</h2></a>
             <p>Durante anos, o teste de QI era o único instrumento de medição da inteligência com base em desempenho cognitivo. Entretanto, seria injusto se não considerássemos outras habilidades na balança final.</p>
         </div>
