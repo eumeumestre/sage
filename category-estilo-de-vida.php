@@ -4,12 +4,12 @@
 
     <div class="row">
         <div class="col-md-8 featured-big">
-            <a href="/estilo-de-vida/abracando-a-simplicidade/"><img alt="Abraçando a simplicidade"> src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-estilo-de-vida.jpg" class="img-fluid">
+            <a href="/estilo-de-vida/abracando-a-simplicidade/"><img alt="Abraçando a simplicidade" src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-estilo-de-vida.jpg" class="img-fluid">
             <h2>Abraçando a simplicidade</h2></a>
             <p>Definição de simplicidade no dicionário: a ausência de complicação. Como ter uma vida reduzida direcionada em busca de qualidade e não quantidade.</p>
         </div>
         <div class="col-md-4 featured-small">
-            <a  style="margin-bottom: 2rem;"href="/estilo-de-vida/coisas-sobre-viagens-que-gostaria-de-ter-aprendido-mais-cedo"><img alt="Coisas sobre viagens que gostaria de ter aprendido mais cedo"> src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-estilo-de-vida-2.jpg" class="img-fluid"><h2>Coisas sobre viagens que gostaria de ter aprendido mais cedo</h2></a>
+            <a  style="margin-bottom: 2rem;"href="/estilo-de-vida/coisas-sobre-viagens-que-gostaria-de-ter-aprendido-mais-cedo"><img alt="Coisas sobre viagens que gostaria de ter aprendido mais cedo" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-estilo-de-vida-2.jpg" class="img-fluid"><h2>Coisas sobre viagens que gostaria de ter aprendido mais cedo</h2></a>
                         <a href="http://meumestre.eu/estilo-de-vida/6-licoes-para-aprender-com-o-leao"><img alt="6 lições para aprender com o Leão, o rei da selva" src="http://meumestre.eu/wp-content/uploads/2018/02/jonatan-pie-194138-350x170.jpg" class="img-fluid"><h2>6 lições para aprender com o Leão, o rei da selva</h2></a>
         </div>
     </div>

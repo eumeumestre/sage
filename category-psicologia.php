@@ -32,9 +32,9 @@
   </div><hr>
 
     <div class="row">
-        <div class="col-md-4 featured-small"><a href="/psicologia/importancia-de-dizer-nao"><img alt="A importância de dizer ‘não’"> src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-psicologia-3.jpg" class="img-fluid"><h2>A importância de dizer ‘não’</h2></a></div>
-        <div class="col-md-4 featured-small"><a href="/psicologia/pare-de-se-comparar-com-outras-pessoas"><img alt="Pare de se comparar com outras pessoas"> src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-psicologia-4.jpg" class="img-fluid"><h2>Pare de se comparar com outras pessoas</h2></a></div>
-        <div class="col-md-4 featured-small"><a href="/psicologia/como-superar-o-medo"><img alt="Como superar o medo"> src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-psicologia-5.jpg" class="img-fluid"><h2>Como superar o medo</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="/psicologia/importancia-de-dizer-nao"><img alt="A importância de dizer ‘não’" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-psicologia-3.jpg" class="img-fluid"><h2>A importância de dizer ‘não’</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="/psicologia/pare-de-se-comparar-com-outras-pessoas"><img alt="Pare de se comparar com outras pessoas" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-psicologia-4.jpg" class="img-fluid"><h2>Pare de se comparar com outras pessoas</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="/psicologia/como-superar-o-medo"><img alt="Como superar o medo" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-psicologia-5.jpg" class="img-fluid"><h2>Como superar o medo</h2></a></div>
     </div>
 
 <!-- END Artigos Escolha Editor -->
