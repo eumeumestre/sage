@@ -8,9 +8,8 @@
             <h2>Os pilares de um relacionamento saudável</h2></a>
             <p>Todos nós desejamos um relacionamento que envolva alegria, cumplicidade e afeto mútuo. Mas já dizia William Shakespeare, famoso escritor inglês: o percurso do amor verdadeiro nunca foi tranquilo.</p>
         </div>
-        <div class="col-md-4 featured-small d-none">
-            <a href="#"><img class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
+        <div class="col-md-4 featured-small">
+            <a href="http://meumestre.eu/relacionamentos/4-passos-para-elevar-seu-carisma/" style="margin-bottom: 2rem;"><img class="img-fluid" src="http://www.meumestre.eu/wp-content/uploads/2018/02/carismático-350x170.jpg"><h2>4 passos para elevar seu carisma</h2></a>
         </div>
     </div>
 

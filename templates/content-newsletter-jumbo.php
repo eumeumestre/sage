@@ -3,7 +3,10 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div><small>Publicidade</small></div>
-				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Category Page -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:970px;height:250px"
@@ -12,6 +15,9 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+
+
 			</div>
 		</div>
 	</div>
