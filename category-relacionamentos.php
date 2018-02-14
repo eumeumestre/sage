@@ -39,4 +39,3 @@
 <!-- END Artigos Escolha Editor -->
 
 
-<?php the_posts_navigation(); ?>
