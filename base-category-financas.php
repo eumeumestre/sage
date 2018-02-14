@@ -44,9 +44,16 @@ use Roots\Sage\Wrapper;
 
   <div class="ultimos-top-artigos">
 
+  <div class="row">
+    <div class="col-md-8">
+      <h3>Mais em Finanças</h3>
+    </div>
+    <div class="col-md-4 mais-em">
+    </div>
+  </div><hr>   
+
     <div class="row">
       <div class="col-md-4 space">
-        <h3>Mais em Finanças</h3><hr>
             <ul>
             <?php $the_query = new WP_Query( array( 'category_name' => 'financas', 'posts_per_page' => 3 ) );  ?>
             <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
