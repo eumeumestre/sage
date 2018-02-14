@@ -8,7 +8,7 @@
   
 
 <div class="jumbotron"><div class="featured-label">Artigo em Destaque</div>
-  <h2 class="display-5"><a href="http://meumestre.eu/saude/11-beneficios-do-cha-preto/">11 Benefícios do chá preto que você não sabia</a></h2>
+  <h2 class="display-5"><a href="http://meumestre.eu/saude/11-beneficios-do-cha-preto/">11 benefícios do chá preto que você não sabia</a></h2>
   <p class="lead">Embora exagerar em qualquer coisa tenha consequências negativas, tomar uma xícara extra de chá preto pode não ser tão ruim quanto você pode ter imaginado.</p>
   <p><a class="btn btn-primary btn-lg" href="http://meumestre.eu/saude/11-beneficios-do-cha-preto/" role="button">Leia mais<i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a></p>
 </div>
@@ -16,11 +16,11 @@
 
 <div class="artigos-destaque-home">
   <div class="row">
-    <div class="col-md-4 featured-small"><a href="/estilo-de-vida/abracando-a-simplicidade"><img class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-2.jpg"><div class="featured-label">Destaque</div><h2>Abraçando a simplicidade</h2></a>
+    <div class="col-md-4 featured-small"><a href="/estilo-de-vida/abracando-a-simplicidade"><img class="img-fluid" alt="Abraçando a simplicidade" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-2.jpg"><div class="featured-label">Destaque</div><h2>Abraçando a simplicidade</h2></a>
     </div>
-    <div class="col-md-4 featured-small"><a href="/psicologia/pare-de-se-comparar-com-outras-pessoas"><img class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-1.jpg"><div class="featured-label">Destaque</div><h2>Pare de se comparar com outras pessoas</h2></a>
+    <div class="col-md-4 featured-small"><a href="/psicologia/pare-de-se-comparar-com-outras-pessoas"><img class="img-fluid" alt="Pare de se comparar com outras pessoas" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-1.jpg"><div class="featured-label">Destaque</div><h2>Pare de se comparar com outras pessoas</h2></a>
     </div>
-    <div class="col-md-4 featured-small"><a href="/financas/os-principios-basicos-do-dinheiro"><img class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-3.jpg"><div class="featured-label">Destaque</div><h2>Os princípios básicos do dinheiro</h2></a>
+    <div class="col-md-4 featured-small"><a href="/financas/os-principios-basicos-do-dinheiro"><img class="img-fluid" alt="Os princípios básicos do dinheiro" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-3.jpg"><div class="featured-label">Destaque</div><h2>Os princípios básicos do dinheiro</h2></a>
     </div>
   </div>
 </div>
@@ -40,13 +40,13 @@
 
   <div class="row">
     <div class="col-md-8 featured-big">
-      <a href="/psicologia/os-habitos-da-felicidade"><img src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-big-4.jpg" class="img-fluid"><h2>Os hábitos da felicidade</h2></a>
+      <a href="/psicologia/os-habitos-da-felicidade"><img alt="Os hábitos da felicidade" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-big-4.jpg" class="img-fluid"><h2>Os hábitos da felicidade</h2></a>
       <p>Manter o sentimento de felicidade não é fácil, mas investir nos hábitos certos é
 recompensador. Adotá-los fará uma grande diferença no seu humor e o
 aproximará de pessoas com a mesma mentalidade.</p>
     </div>
     <div class="col-md-4 featured-small">
-      <a href="/psicologia/inteligencia-emocional-o-verdadeiro-sucesso"><img class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-5.jpg"><h2>Inteligência Emocional: o verdadeiro sucesso</h2></a>
+      <a href="/psicologia/inteligencia-emocional-o-verdadeiro-sucesso"><img alt="Inteligência Emocional: o verdadeiro sucesso" class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-5.jpg"><h2>Inteligência Emocional: o verdadeiro sucesso</h2></a>
       <p>Durante anos, o teste de QI era o único instrumento de medição da inteligência com base em desempenho cognitivo. Entretanto, seria injusto se não considerássemos outras habilidades na balança final.</p>
     </div>
   </div>
@@ -63,11 +63,11 @@ aproximará de pessoas com a mesma mentalidade.</p>
 
   <div class="row">
     <div class="col-md-8 featured-big">
-      <a href="/saude/7-habitos-para-dias-mais-leves""><img src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-big-saude.jpg" class="img-fluid"><h2>7 hábitos para dias mais leves</h2></a>
+      <a href="/saude/7-habitos-para-dias-mais-leves""><img alt="7 hábitos para dias mais leves" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-big-saude.jpg" class="img-fluid"><h2>7 hábitos para dias mais leves</h2></a>
       <p>Você pode começar o dia apertando a soneca e arrastando-se para fora da cama ou então iniciá-lo com o pé direito.</p>
     </div>
     <div class="col-md-4 featured-small">
-      <a href="/saude/8-beneficios-inesperados-da-sauna/"><img class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-saude-2.jpg"><h2>8 benefícios inesperados da sauna</h2></a>
+      <a href="/saude/8-beneficios-inesperados-da-sauna/"><img alt="8 benefícios inesperados da sauna" class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-saude-2.jpg"><h2>8 benefícios inesperados da sauna</h2></a>
       <p>As saunas são basicamente pequenas salas aquecidas, que podem ser secas ou molhadas. Neste artigo, analisamos alguns dos benefícios inesperados da sauna.</p>
     </div>
   </div>
@@ -83,11 +83,11 @@ aproximará de pessoas com a mesma mentalidade.</p>
     </div><hr>
   <div class="row">
     <div class="col-md-8 featured-big">
-      <a href="/carreira/ser-produtivo-vs-ocupado"><img src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-big-6.jpg" class="img-fluid"><h2>Ser produtivo vs ocupado</h2></a>
+      <a href="/carreira/ser-produtivo-vs-ocupado"><img alt="Ser produtivo vs ocupado" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-big-6.jpg" class="img-fluid"><h2>Ser produtivo vs ocupado</h2></a>
       <p>Nunca foi tão evidente a mudança dos paradigmas em relação ao tempo de trabalho para as novas gerações. Afinal, quais as diferenças entre pessoas ocupadas e produtivas?</p>
     </div>
     <div class="col-md-4 featured-small">
-      <a href="/carreira/dicas-para-vencer-o-cansaco-no-trabalho"><img class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-7.jpg"><h2>Dicas para vencer o cansaço no trabalho</h2></a>
+      <a href="/carreira/dicas-para-vencer-o-cansaco-no-trabalho"><img class="img-fluid" alt="Dicas para vencer o cansaço no trabalho" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-7.jpg"><h2>Dicas para vencer o cansaço no trabalho</h2></a>
       <p>Muitas pessoas experimentam a fadiga ao longo do dia, e não importa o quão motivado ou envolvido você esteja, dormir determinadas horas por dia e fazer as pausas recomendadas podem não ser suficientes.</p>
     </div>
   </div>

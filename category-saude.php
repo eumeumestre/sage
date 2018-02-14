@@ -4,13 +4,13 @@
 
     <div class="row">
         <div class="col-md-8 featured-big">
-            <a href="/saude/7-habitos-para-dias-mais-leves"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-saude.jpg" class="img-fluid">
+            <a href="/saude/7-habitos-para-dias-mais-leves"><img alt="7 hábitos para dias mais leves"> src="<?= get_template_directory_uri(); ?>/dist/images/featured-big-saude.jpg" class="img-fluid">
             <h2>7 hábitos para dias mais leves</h2></a>
             <p>Você pode começar o dia apertando a soneca e arrastando-se para fora da cama ou então iniciá-lo com o pé direito.</p>
         </div>
         <div class="col-md-4 featured-small">
-            <a style="margin-bottom: 2rem;" href="/saude/8-beneficios-inesperados-da-sauna/"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-saude-2.jpg"><h2>8 benefícios inesperados da sauna</h2></a>
-            <a href="http://meumestre.eu/saude/11-beneficios-do-cha-preto/"><img src="http://meumestre.eu/wp-content/uploads/2018/02/neonbrand-335257-350x170.jpg" class="img-fluid"><h2>11 Benefícios do chá preto que você não sabia</h2></a>
+            <a style="margin-bottom: 2rem;" href="/saude/8-beneficios-inesperados-da-sauna/"><img alt="8 benefícios inesperados da sauna"> class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-saude-2.jpg"><h2>8 benefícios inesperados da sauna</h2></a>
+            <a href="http://meumestre.eu/saude/11-beneficios-do-cha-preto/"><img alt="11 Benefícios do chá preto que você não sabia" src="http://meumestre.eu/wp-content/uploads/2018/02/neonbrand-335257-350x170.jpg" class="img-fluid"><h2>11 Benefícios do chá preto que você não sabia</h2></a>
         </div>
     </div>
 
@@ -32,7 +32,7 @@
   </div><hr>
 
     <div class="row">
-        <div class="col-md-4 featured-small"><a href="http://meumestre.eu/saude/8-dicas-para-ser-mais-paciente-e-menos-estressado/"><img src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-saude-3.jpg" class="img-fluid"><h2>8 dicas para ser mais paciente e menos estressado</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="http://meumestre.eu/saude/8-dicas-para-ser-mais-paciente-e-menos-estressado/"><img alt="8 dicas para ser mais paciente e menos estressad"> src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-saude-3.jpg" class="img-fluid"><h2>8 dicas para ser mais paciente e menos estressado</h2></a></div>
         <div class="d-none col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
         <div class="d-none col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
     </div>
