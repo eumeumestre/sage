@@ -67,7 +67,6 @@ use Roots\Sage\Wrapper;
             </ul>
       </div>
       <div class="col-md-4 d-none">
-        <h3 class="d-none"></h3><hr>
             <?php
             $args = array(
                 'cat' => '6',
