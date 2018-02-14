@@ -8,19 +8,17 @@
   
 
 <div class="jumbotron"><div class="featured-label">Artigo em Destaque</div>
-  <h2 class="display-5"><a href="/carreira/o-que-fazer-quando-paixao-pelo-trabalho-nao-e-o-suficiente/">O que fazer quando a paixão pelo trabalho<br> não é o suficiente</a></h2>
-  <p class="lead">Se chama trabalho por um motivo, e mesmo que você tenha sorte, estará sujeito a
-dias ruins. Essas dicas são para você que anda desmotivado ou pensando se é
-hora de mudar de ares.</p>
-  <p><a class="btn btn-primary btn-lg" href="/carreira/o-que-fazer-quando-paixao-pelo-trabalho-nao-e-o-suficiente/" role="button">Leia mais<i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a></p>
+  <h2 class="display-5"><a href="http://meumestre.eu/saude/11-beneficios-do-cha-preto/">11 Benefícios do chá preto que você não sabia</a></h2>
+  <p class="lead">Embora exagerar em qualquer coisa tenha consequências negativas, tomar uma xícara extra de chá preto pode não ser tão ruim quanto você pode ter imaginado.</p>
+  <p><a class="btn btn-primary btn-lg" href="http://meumestre.eu/saude/11-beneficios-do-cha-preto/" role="button">Leia mais<i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a></p>
 </div>
 
 
 <div class="artigos-destaque-home">
   <div class="row">
-    <div class="col-md-4 featured-small"><a href="/psicologia/pare-de-se-comparar-com-outras-pessoas"><img class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-1.jpg"><div class="featured-label">Destaque</div><h2>Pare de se comparar com outras pessoas</h2></a>
-    </div>
     <div class="col-md-4 featured-small"><a href="/estilo-de-vida/abracando-a-simplicidade"><img class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-2.jpg"><div class="featured-label">Destaque</div><h2>Abraçando a simplicidade</h2></a>
+    </div>
+    <div class="col-md-4 featured-small"><a href="/psicologia/pare-de-se-comparar-com-outras-pessoas"><img class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-1.jpg"><div class="featured-label">Destaque</div><h2>Pare de se comparar com outras pessoas</h2></a>
     </div>
     <div class="col-md-4 featured-small"><a href="/financas/os-principios-basicos-do-dinheiro"><img class="img-fluid" src="http://www.meumestre.eu/wp-content/themes/sage/dist/images/featured-small-3.jpg"><div class="featured-label">Destaque</div><h2>Os princípios básicos do dinheiro</h2></a>
     </div>

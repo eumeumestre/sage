@@ -9,8 +9,8 @@
             <p>Você pode começar o dia apertando a soneca e arrastando-se para fora da cama ou então iniciá-lo com o pé direito.</p>
         </div>
         <div class="col-md-4 featured-small">
-            <a href="/saude/8-beneficios-inesperados-da-sauna/"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-saude-2.jpg"><h2>8 benefícios inesperados da sauna</h2></a>
-            <a href="http://meumestre.eu/financas/truques-financeiros-para-economizar-para-o-seu-sonho/"><img src="http://meumestre.eu/wp-content/uploads/2018/02/neonbrand-335257-350x170.jpg" class="img-fluid"><h2>11 Benefícios do chá preto que você não sabia</h2></a>
+            <a style="margin-bottom: 2rem;" href="/saude/8-beneficios-inesperados-da-sauna/"><img class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-saude-2.jpg"><h2>8 benefícios inesperados da sauna</h2></a>
+            <a href="http://meumestre.eu/saude/11-beneficios-do-cha-preto/"><img src="http://meumestre.eu/wp-content/uploads/2018/02/neonbrand-335257-350x170.jpg" class="img-fluid"><h2>11 Benefícios do chá preto que você não sabia</h2></a>
         </div>
     </div>
 
