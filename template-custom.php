@@ -54,7 +54,7 @@ aproximará de pessoas com a mesma mentalidade.</p>
 <div class="mais-em-cat">
     <div class="row">
       <div class="col-md-8">
-        <h3>Destaque em Saúde</h3> <small></small>
+        <h3>Destaque em Saúde</h3> <small>Faça os hábitos saudáveis se tornarem permanentes em sua vida.</small>
       </div>
       <div class="col-md-4 mais-em">
         <a href="/saude">Mais em Saúde <i aria-hidden="true" class="fa fa-long-arrow-right"></i></a>
