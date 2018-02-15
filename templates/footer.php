@@ -38,15 +38,15 @@
 					<div class="emm-footer-links">
 						<div class="mb-2">
 							<a href="/sobre-nos">Sobre nós</a>
-							<span class="d-none">·</span>
-							<a class="d-none" href="/autores">Autores</a>
-							<span class="d-none">·</span>
+							<span>·</span>
 							<a class="d-none" href="/torne-se-um-autor">Torne-se um autor</a>
 							<span class="d-none">·</span>
 							<a class="d-none" href="/premium">Premium</a>
 						</div>
 						<div>
 							<a href="/anuncie">Anuncie</a>
+							<span>·</span>
+							<a href="/escrever">Escrever</a>
 							<span>·</span>
 							<a href="/politica-de-privacidade">Privacidade</a>
 						</div>
