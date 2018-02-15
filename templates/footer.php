@@ -38,7 +38,6 @@
 					<div class="emm-footer-links">
 						<div class="mb-2">
 							<a href="/sobre-nos">Sobre nós</a>
-							<span>·</span>
 							<a class="d-none" href="/torne-se-um-autor">Torne-se um autor</a>
 							<span class="d-none">·</span>
 							<a class="d-none" href="/premium">Premium</a>
