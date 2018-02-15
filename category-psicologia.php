@@ -9,7 +9,7 @@
             <p>Durante anos, o teste de QI era o único instrumento de medição da inteligência com base em desempenho cognitivo. Entretanto, seria injusto se não considerássemos outras habilidades na balança final.</p>
         </div>
         <div class="col-md-4 featured-small">
-            <a style="margin-bottom: 2rem;" href="/psicologia/os-habitos-da-felicidade"><img alt="Os hábitos da felicidade"> class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-psicologia-2.jpg"><h2>Os hábitos da felicidade</h2></a>
+            <a style="margin-bottom: 2rem;" href="/psicologia/os-habitos-da-felicidade"><img alt="Os hábitos da felicidade" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-psicologia-2.jpg"><h2>Os hábitos da felicidade</h2></a>
             <a href="/psicologia/10-dicas-basicas-para-automotivacao/"><img alt="10 dicas básicas para automotivação" width="350" height="170" src="http://www.meumestre.eu/wp-content/uploads/2018/02/japheth-mast-329255-350x170.jpg" class="img-fluid wp-post-image" alt=""><h2>10 dicas básicas para automotivação</h2></a>
         </div>
     </div>
