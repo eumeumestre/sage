@@ -33,7 +33,7 @@
 
     <div class="row">
         <div class="col-md-4 featured-small"><a href="http://meumestre.eu/saude/8-dicas-para-ser-mais-paciente-e-menos-estressado/"><img alt="8 dicas para ser mais paciente e menos estressado" src="<?= get_template_directory_uri(); ?>/dist/images/featured-small-saude-3.jpg" class="img-fluid"><h2>8 dicas para ser mais paciente e menos estressado</h2></a></div>
-        <div class="d-none col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
+        <div class="col-md-4 featured-small"><a href="http://meumestre.eu/saude/40-coisas-todo-dia-mais-saudavel/"><img src="http://meumestre.eu/wp-content/uploads/2018/02/lauren-mancke-63448-350x170.jpg" alt="40 coisas simples que você pode fazer todo dia para se manter mais saudável" class="img-fluid"><h2>40 coisas simples que você pode fazer todo dia para se manter mais saudável</h2></a></div>
         <div class="d-none col-md-4 featured-small"><a href="#"><img src="http://via.placeholder.com/350x170" class="img-fluid"><h2>Ut enim ad minima veniam, quis nostrum exercitationem</h2></a></div>
     </div>
 
