@@ -84,7 +84,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div><small>Publicidade</small></div>
+              
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Top Responsive -->
 <ins class="adsbygoogle"
