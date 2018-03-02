@@ -33,7 +33,7 @@
     <div class="col-md-4">
       <div class="featured-card-item-small">
       <a href="/estilo-de-vida/3-licoes-de-vida-que-aprendi-viajando-pela-antartida/"><img class="img-fluid" alt="3 lições de vida que aprendi viajando pela Antártida
-" src="<?= get_template_directory_uri(); ?>/dist/images/featured/831.jpg"><h2>3 lições de vida que aprendi viajando pela Antártida
+" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/831.jpg"><h2>3 lições de vida que aprendi viajando pela Antártida
 </h2></a>
       </div>
     </div>

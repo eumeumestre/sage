@@ -10,7 +10,7 @@
     <div class="col-md-4">
       <div class="featured-card-item-small">
       <a href="/relacionamentos/4-passos-para-elevar-seu-carisma/"><img alt="4 passos para elevar seu carisma
-" class="img-fluid" src="604"><h2>4 passos para elevar seu carisma
+" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/604.jpg"><h2>4 passos para elevar seu carisma
 </h2></a>
       </div>
       <div class="featured-card-item-small">

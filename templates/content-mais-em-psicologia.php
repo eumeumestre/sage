@@ -27,7 +27,7 @@
         <a href="/psicologia/magica-de-medir-seu-humor-todos-os-dias/"><img alt="A mágica de medir seu humor todos os dias" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/476.jpg"><h2>A mágica de medir seu humor todos os dias</h2></a>
         </div>
         <div class="featured-card-item-small">
-        <a href="/psicologia/7-licoes-cruciais-que-as-pessoas-aprendem-tarde-na-vida/"><img alt="7 lições cruciais que as pessoas aprendem tarde na vida" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/small/284.jpg"><h2>7 lições cruciais que as pessoas aprendem tarde na vida</h2></a>
+        <a href="/psicologia/7-licoes-cruciais-que-as-pessoas-aprendem-tarde-na-vida/"><img alt="7 lições cruciais que as pessoas aprendem tarde na vida" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/284.jpg"><h2>7 lições cruciais que as pessoas aprendem tarde na vida</h2></a>
         </div>
       </div>
 
