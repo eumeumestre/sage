@@ -55,5 +55,5 @@
 
 
 <!--START PAGE HEADER-->
-<div class="header-fluid-financas"><h1>Financas</h1></div>
+<div class="header-fluid-financas"><h1>Finanças</h1></div>
 <!--END PAGE HEADER-->

@@ -3,7 +3,7 @@
 <div class="featured-card-group">
   <div class="row mais-em">
     <div class="col-md-12">
-      <h3>Mais em Estilo de Vida</h3> <small>small aqui.</small>
+      <h3>Mais em Estilo de Vida</h3> <small class="d-none">small aqui.</small>
     </div>
   </div><hr>   
     <div class="row">
