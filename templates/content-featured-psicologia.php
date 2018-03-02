@@ -24,7 +24,7 @@
 <div class="featured-card-group">
   <div class="row mais-em">
     <div class="col-md-12">
-      <h3>Ultimos artigos em Psicologia</h3> <small class="d-none">small aqui.</small>
+      <h3>Últimos artigos em Psicologia</h3> <small class="d-none">small aqui.</small>
     </div>
   </div><hr>   
   <div class="row">
