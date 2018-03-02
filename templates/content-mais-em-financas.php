@@ -1,5 +1,5 @@
 <!-- START FEATURED MAIS EM -->
-<div class="container">
+<div class="container d-none">
 <div class="featured-card-group">
   <div class="row mais-em">
     <div class="col-md-12">

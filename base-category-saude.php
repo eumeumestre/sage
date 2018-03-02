@@ -33,7 +33,7 @@ use Roots\Sage\Wrapper;
 
 
 <!-- START NEWSLETTER JUMBO -->
-<?php get_template_part('templates/content', 'newsletter-jumbo'); ?>
+<div class="d-none"><?php get_template_part('templates/content', 'newsletter-jumbo'); ?></div>
 <!-- END NEWSLETTER JUMBO -->
 
 
