@@ -86,7 +86,7 @@
   <div class="row">
     <div class="col-md-8">
       <div class="featured-card-item-big">
-      <a href="/saude/7-habitos-para-dias-mais-leves/"><img alt="7 hábitos para dias mais leves" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/119.jpg" class="img-fluid"><h2>7 hábitos para dias mais leves</h2></a><p>Você pode começar o dia apertando a soneca e arrastando-se para fora da cama ou então iniciá-lo com o pé direito.</p>
+      <a href="/saude/7-habitos-para-dias-mais-leves/"><img alt="7 hábitos para dias mais leves" src="<?= get_template_directory_uri(); ?>/dist/images/featured/big/119.jpg" class="img-fluid"><h2>7 hábitos para dias mais leves</h2></a><p>Você pode começar o dia apertando a soneca e arrastando-se para fora da cama ou então iniciá-lo com o pé direito.</p>
       </div>
     </div>
 
@@ -118,7 +118,7 @@
   <div class="row">
     <div class="col-md-8">
       <div class="featured-card-item-big">
-      <a href="/carreira/ser-produtivo-vs-ocupado"><img alt="Ser produtivo vs ocupado" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/143.jpg" class="img-fluid"><h2>Ser produtivo vs ocupado</h2></a><p>Nunca foi tão evidente a mudança dos paradigmas em relação ao tempo de trabalho para as novas gerações. Afinal, quais as diferenças entre pessoas ocupadas e produtivas?</p>
+      <a href="/carreira/ser-produtivo-vs-ocupado"><img alt="Ser produtivo vs ocupado" src="<?= get_template_directory_uri(); ?>/dist/images/featured/big/143.jpg" class="img-fluid"><h2>Ser produtivo vs ocupado</h2></a><p>Nunca foi tão evidente a mudança dos paradigmas em relação ao tempo de trabalho para as novas gerações. Afinal, quais as diferenças entre pessoas ocupadas e produtivas?</p>
       </div>
     </div>
 
