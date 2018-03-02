@@ -1,68 +1,53 @@
-<div class="emm-bottom-ad"><div><small>Publicidade</small></div></div>
+<footer>
+		<div class="container">
 
-
-<footer class="content-info">
-
- 	<div class="container-fluid">
-
-		<div class="container emm-footer">
-
-			<div class="row">
-
+			<!-- START Row 1 -->
+			<div class="row mb-5 mt-4">
+					
 				<!-- START Footer Col 1 -->
-
-				<div class="col-xl-5 col-lg-5 col-md-12 emm-footer-col1">
+				<div class="col-md-8 footer-col-left">
 					<div>
-						<img class="emm-footer-logo" src="<?= get_template_directory_uri(); ?>/dist/images/logo-footer.png">
-						<p class="emm-p-footer"><strong>Eu, meu mestre</strong></p>
-						<p class="emm-p-footer-slogan">O ponto de partida para o seu desenvolvimento pessoal.</p>
-					</div>
-					<div class="madeby">
-						<i class="fa fa-wordpress" aria-hidden="true"></i><small>Feito orgulhosamente com Wordpress.</small>
+						<img src="<?= get_template_directory_uri(); ?>/dist/images/logo-footer.png">
+						<span class="footer-slogan">O ponto de partida para o seu desenvolvimento pessoal</span>
 					</div>
 				</div>
-
-				<!-- START Footer Col 1 -->
-
+				<!-- END Footer Col 1 -->
 
 				<!-- START Footer Col 2 -->
-				<div class="col-xl-7 col-lg-7 col-md-12 emm-footer-col2"> 
+				<div class="col-md-4 footer-col-right"> 
 
-					<div class="emm-social-bottom">
-						<a href="https://www.youtube.com/channel/UCQhv8p10VABcpHkkpnSZYyg" target="_blank" class="d-none"><i class="fa fa-youtube"></i></a>
+					<div class="footer-social-icons">
 						<a href="https://www.instagram.com/meumestre.eu/" target="_blank"><i class="fa fa-instagram"></i></a>
 						<a href="https://www.facebook.com/eumeumestre/" target="_blank"><i class="fa fa-facebook-official"></i></a>
 						<a href="https://twitter.com/eumeumestre" target="_blank"><i class="fa fa-twitter"></i></a>
 					</div>
 
-					<div class="emm-footer-links">
-						<div class="mb-2">
-							<a href="/sobre-nos">Sobre nós</a>
-							<a class="d-none" href="/torne-se-um-autor">Torne-se um autor</a>
-							<span class="d-none">·</span>
-							<a class="d-none" href="/premium">Premium</a>
-						</div>
-						<div>
+						<div class="footer-links">
 							<a href="/anuncie">Anuncie</a>
 							<span>·</span>
 							<a href="/escrever">Escrever</a>
 							<span>·</span>
 							<a href="/politica-de-privacidade">Privacidade</a>
+							<span>·</span>
+							<a href="/sobre-nos">Sobre nós</a>
 						</div>
-					</div>
-
-					<div class="emm-copyright">
-						<p>© 2018 Eu, meu mestre <span>·</span> Todos os direitos reservados.</p>
-					</div>
 
 				</div>
-
 				<!-- END Footer Col 2 -->
 
 			</div>
+			<!-- END Row 1 -->
+
+				<!-- START Row 2 -->
+				<div class="row">
+					<div class="col-md-6">
+						<p class="footer-madeby"><i class="fa fa-wordpress" aria-hidden="true"></i>Feito orgulhosamente com Wordpress</p>
+					</div>
+					<div class="col-md-6 footer-copyright">
+						<p class="footer-copyright">© 2018 Eu, meu mestre <span>·</span> Todos os direitos reservados.</p>
+					</div>
+				</div>
+				<!-- END Row 2 -->
 
 		</div>
-
-	</div>
-
 </footer>

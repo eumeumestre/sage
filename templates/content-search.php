@@ -1,28 +1,14 @@
-<article <?php post_class(); ?>>
-  <header>
-    <h2 class="entry-title"><a href="<?php the_permalink(); ?>">
-    <span style="margin-right: 15px; margin-top: 5px; float: left;">
-                    <?php
-                    if ( has_post_thumbnail() ) { // check if the post Thumbnail
-                        the_post_thumbnail('search-thumbnail');
-                    } else {
-                        //your default img here
-                    }
-                    ?>
-                  </span>
-      <?php the_title(); ?></a></h2>
-    <span class="search-label d-none">
-  <?php
-    foreach((get_the_category()) as $category) { 
-    echo $category->cat_name . ' '; 
-    } 
-  ?>
-</span>
-    <?php if (get_post_type() === 'post') { get_template_part('templates/entry-meta-search'); } ?>
-  </header>
 
-  <div class="entry-summary">
-    <?php the_excerpt(); ?>
-  </div>
+
+<article class="search-card">
+
+<header class="clearfix">
+	<?php the_post_thumbnail('search-thumbnail'); ?>
+	<div></div>
+	<h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
+	<?php if (get_post_type() === 'post') { get_template_part('templates/entry-meta-search'); } ?>
+</header>
+
+<div class="excerpt-content"><?php the_excerpt(); ?></div>
+
 </article>
-<hr>

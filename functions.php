@@ -27,7 +27,12 @@ foreach ($sage_includes as $file) {
 }
 unset($file, $filepath);
 
-//Exclude pages from WordPress Search
+
+////////////////////////////////////////////////////////////////
+
+
+
+// Exclude pages from WordPress Search
 if (!is_admin()) {
 function wpb_search_filter($query) {
 if ($query->is_search) {
@@ -38,10 +43,18 @@ return $query;
 add_filter('pre_get_posts','wpb_search_filter');
 }
 
-add_image_size( 'search-thumbnail', 100, 50, false); // 220 pixels wide by 180 pixels tall, hard
-add_image_size ('search-thumbnail-2', 200, 200, array( 'center', 'top' ));
+// Remove Category: das pagina archive
+add_filter( 'get_the_archive_title', function ( $title ) {
+    if( is_category() ) {
+        $title = single_cat_title( '', false );
+    }
+    return $title;
+});
 
 
+// Register Image Sizes
+add_image_size( 'featured-small', 350, 170, true ); //
+add_image_size ('search-thumbnail', 120, 120, array( 'center', 'top' ));
 
 // Add other useful image sizes for use through Add Media modal
 add_image_size( 'medium-width', 480 );

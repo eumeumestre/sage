@@ -1,9 +1,8 @@
 <?php
-
 use Roots\Sage\Setup;
 use Roots\Sage\Wrapper;
-
 ?>
+
 
 <!doctype html>
 <html <?php language_attributes(); ?>>
@@ -19,7 +18,7 @@ use Roots\Sage\Wrapper;
       get_template_part('templates/header');  
     ?>
 
-    <div class="wrap-main container rounded-right rounded-left" role="document">
+    <div class="wrap-default container rounded-right rounded-left" role="document">
       <div class="content row"">
         <main class="main">
           <?php include Wrapper\template_path(); ?>
@@ -31,12 +30,14 @@ use Roots\Sage\Wrapper;
         <?php endif; ?>
       </div><!-- /.content -->
     </div><!-- /.wrap -->
+    
+
+<?php
+do_action('get_footer');
+get_template_part('templates/footer');
+wp_footer();
+?>
 
 
-    <?php
-      do_action('get_footer');
-      get_template_part('templates/footer');
-      wp_footer();
-    ?>
   </body>
 </html>

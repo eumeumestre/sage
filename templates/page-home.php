@@ -1,4 +1,4 @@
-<div class="jumbotron"><div class="featured-label">Escolha do Editor</div>
+<div class="jumbotron">
   <h2 class="display-5"><a href="/carreira/o-que-fazer-quando-paixao-pelo-trabalho-nao-e-o-suficiente/">11 Benefícios do chá preto que você não sabia<br></a></h2>
   <p class="lead">Se chama trabalho por um motivo, e mesmo que você tenha sorte, estará sujeito a
 dias ruins. Essas dicas são para você que anda desmotivado ou pensando se é

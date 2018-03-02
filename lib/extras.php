@@ -31,15 +31,3 @@ function excerpt_more() {
   return ' &hellip; <a href="' . get_permalink() . '">' . __('Continuar', 'sage') . '</a>';
 }
 add_filter('excerpt_more', __NAMESPACE__ . '\\excerpt_more');
-
-/**
- * Remove Category: das pagina archive
- */
-add_filter( 'get_the_archive_title', function ( $title ) {
-    if( is_category() ) {
-        $title = single_cat_title( '', false );
-    }
-    return $title;
-});
-
-

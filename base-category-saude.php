@@ -3,6 +3,7 @@ use Roots\Sage\Setup;
 use Roots\Sage\Wrapper;
 ?>
 
+
 <!doctype html>
 <html <?php language_attributes(); ?>>
   <?php get_template_part('templates/head'); ?>
@@ -31,101 +32,27 @@ use Roots\Sage\Wrapper;
     </div><!-- /.wrap -->
 
 
-<!-- START Newsletter Box -->
-
+<!-- START NEWSLETTER JUMBO -->
 <?php get_template_part('templates/content', 'newsletter-jumbo'); ?>
-
-<!-- END Newsletter Box -->
-
-
-<!-- START Ultimos Top Artigos -->
-
-<div class="container">
-
-  <div class="ultimos-top-artigos">
-
-  <div class="row">
-    <div class="col-md-8">
-      <h3>Mais em Saúde</h3>
-    </div>
-    <div class="col-md-4 mais-em">
-    </div>
-  </div><hr>
-
-    <div class="row">
-      <div class="col-md-4 space">
-            <ul>
-            <?php $the_query = new WP_Query( array( 'category_name' => 'saude', 'posts_per_page' => 3 ) );  ?>
-            <?php while ($the_query -> have_posts()) : $the_query -> the_post(); ?>
-            <li>
-              <a href="<?php the_permalink() ?>"><?php the_post_thumbnail( 'custom-size-1',array( 'class' => 'img-fluid' ));  ?><p style="margin-top: 5px;"><?php the_title(); ?></p></a>
-            </li>
-              <?php 
-              endwhile;
-              wp_reset_postdata();
-              ?>
-            </ul>
-      </div>
-      <div class="col-md-4 d-none">
-            <?php
-            $args = array(
-                'cat' => '5',
-                'post_html' => '<li><i class="fa fa-circle-o" aria-hidden="true"></i><a href="{url}">{text_title}</a></li>'
-            );
-            wpp_get_mostpopular( $args );
-            ?>
-      </div>
-            <div class="col-md-4 d-none">
-            <?php
-            $args = array(
-                'cat' => '7',
-                'post_html' => '<li><i class="fa fa-circle-o" aria-hidden="true"></i><a href="{url}">{text_title}</a></li>'
-            );
-            wpp_get_mostpopular( $args );
-            ?>
-      </div>
-    </div>
-
-  </div>
-
-</div>
+<!-- END NEWSLETTER JUMBO -->
 
 
-
-<!-- AD BOTTOM START -->
-
-<div class="newsletter-horizontal-box-bottom">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div><small>Publicidade</small></div>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Bottom Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3870151252326045"
-     data-ad-slot="8593836740"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- END BOTTOM END -->
+<!-- START MAIS EM -->
+<?php get_template_part('templates/content', 'mais-em-saude'); ?>
+<!-- END MAIS EM -->
 
 
-<!-- END Ultimos Top Artigos -->
+<!-- START NEWSLETTER JUMBO BOTTOM -->
+<?php get_template_part('templates/content', 'newsletter-jumbo-bottom'); ?>
+<!-- END NEWSLETTER JUMBO -->
 
 
+<?php
+do_action('get_footer');
+get_template_part('templates/footer');
+wp_footer();
+?>
 
 
-              <?php
-                do_action('get_footer');
-                get_template_part('templates/footer');
-                wp_footer();
-              ?>
   </body>
 </html>
