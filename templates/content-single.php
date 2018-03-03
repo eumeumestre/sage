@@ -7,7 +7,10 @@
 	<?php get_template_part('templates/entry-meta'); ?>
 </header>
 
-<div class="post-content"><?php the_content(); ?></div>
+<div class="post-content">
+	<p><?php the_post_thumbnail('featured-content-single', array('class' => 'img-fluid')); ?></p>
+	<?php the_content(); ?>
+</div>
 
 </article>
 

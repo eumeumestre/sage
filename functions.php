@@ -53,7 +53,7 @@ add_filter( 'get_the_archive_title', function ( $title ) {
 
 
 // Register Image Sizes
-add_image_size( 'featured-small', 350, 170, true ); //
+add_image_size( 'featured-content-single', 730, 411, true ); //
 add_image_size ('search-thumbnail', 120, 120, array( 'center', 'top' ));
 
 // Add other useful image sizes for use through Add Media modal
