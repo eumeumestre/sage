@@ -28,27 +28,22 @@
     <div class="col-md-12">
       <h3>Últimos artigos em Estilo de Vida</h3> <small class="d-none">small aqui.</small>
     </div>
-  </div><hr>   
+  </div><hr>
   <div class="row">
+  <?php query_posts( array(
+     'category_name' => 'estilo-de-vida',
+     'posts_per_page' => 3,
+  )); ?>
+  <?php if( have_posts() ): while ( have_posts() ) : the_post(); ?>
     <div class="col-md-4">
       <div class="featured-card-item-small">
-      <a href="/estilo-de-vida/3-licoes-de-vida-que-aprendi-viajando-pela-antartida/"><img class="img-fluid" alt="3 lições de vida que aprendi viajando pela Antártida
-" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/831.jpg"><h2>3 lições de vida que aprendi viajando pela Antártida
-</h2></a>
+      <a href="<?php the_permalink() ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
     </div>
-    <div class="col-md-4">
-      <div class="featured-card-item-small">
-      <a href="/estilo-de-vida/nao-ter-o-dinheiro-e-apenas-uma-desculpa/"><img class="img-fluid" alt="Não ter o dinheiro é apenas uma desculpa
-" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/734.jpg"><h2>Não ter o dinheiro é apenas uma desculpa
-</h2></a>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="featured-card-item-small d-none">
-      <a href="#"><img class="img-fluid" alt="" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
-      </div>
-    </div>
+    <?php endwhile; ?>
+    <?php else : ?>
+    <p><?php __('Nada a mostrar'); ?></p>
+    <?php endif; ?>
   </div>
 </div>
 <!-- END FEATURED PART 2 -->

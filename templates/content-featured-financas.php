@@ -26,23 +26,22 @@
     <div class="col-md-12">
       <h3>Últimos artigos em Finanças</h3> <small class="d-none">small aqui.</small>
     </div>
-  </div><hr>   
+  </div><hr>
   <div class="row">
+  <?php query_posts( array(
+     'category_name' => 'financas',
+     'posts_per_page' => 3,
+  )); ?>
+  <?php if( have_posts() ): while ( have_posts() ) : the_post(); ?>
     <div class="col-md-4">
       <div class="featured-card-item-small">
-      <a href="/financas/financas/4-licoes-para-aprender-com-sam-walton-fundador-do-walmart"><img class="img-fluid" alt="4 lições para aprender com Sam Walton, fundador do Walmart" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/467.jpg"><h2>4 lições para aprender com Sam Walton, fundador do Walmart</h2></a>
+      <a href="<?php the_permalink() ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
     </div>
-    <div class="col-md-4 d-none">
-      <div class="featured-card-item-small">
-      <a href="#"><img class="img-fluid" alt="" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
-      </div>
-    </div>
-    <div class="col-md-4 d-none">
-      <div class="featured-card-item-small">
-      <a href="#"><img class="img-fluid" alt="" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
-      </div>
-    </div>
+    <?php endwhile; ?>
+    <?php else : ?>
+    <p><?php __('Nada a mostrar'); ?></p>
+    <?php endif; ?>
   </div>
 </div>
 <!-- END FEATURED PART 2 -->

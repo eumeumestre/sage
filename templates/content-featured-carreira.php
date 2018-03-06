@@ -26,23 +26,22 @@
     <div class="col-md-12">
       <h3>Últimos artigos em Carreira</h3> <small class="d-none">small aqui.</small>
     </div>
-  </div><hr>   
+  </div><hr>
   <div class="row">
+  <?php query_posts( array(
+     'category_name' => 'carreira',
+     'posts_per_page' => 3,
+  )); ?>
+  <?php if( have_posts() ): while ( have_posts() ) : the_post(); ?>
     <div class="col-md-4">
       <div class="featured-card-item-small">
-      <a href="/carreira/dicas-para-vencer-o-cansaco-no-trabalho"><img class="img-fluid" alt="Dicas para vencer o cansaço no trabalho" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/133.jpg"><h2>Dicas para vencer o cansaço no trabalho</h2></a>
+      <a href="<?php the_permalink() ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
     </div>
-    <div class="col-md-4">
-      <div class="featured-card-item-small">
-      <a href="/carreira/8-razoes-pelas-quais-voce-nunca-deve-ter-um-emprego"><img class="img-fluid" alt="8 razões pelas quais você nunca deve ter um emprego" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/277.jpg"><h2>8 razões pelas quais você nunca deve ter um emprego</h2></a>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="featured-card-item-small">
-      <a href="/carreira/a-todos-os-criticos-amo-voces/"><img class="img-fluid" alt="A todos os críticos: amo vocês!" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/444.jpg"><h2>A todos os críticos: amo vocês!</h2></a>
-      </div>
-    </div>
+    <?php endwhile; ?>
+    <?php else : ?>
+    <p><?php __('Nada a mostrar'); ?></p>
+    <?php endif; ?>
   </div>
 </div>
 <!-- END FEATURED PART 2 -->

@@ -26,25 +26,22 @@
     <div class="col-md-12">
       <h3>Últimos artigos em Saúde</h3> <small class="d-none">small aqui.</small>
     </div>
-  </div><hr>   
+  </div><hr>
   <div class="row">
+  <?php query_posts( array(
+     'category_name' => 'saude',
+     'posts_per_page' => 3,
+  )); ?>
+  <?php if( have_posts() ): while ( have_posts() ) : the_post(); ?>
     <div class="col-md-4">
       <div class="featured-card-item-small">
-      <a href="/saude/8-dicas-para-ser-mais-paciente-e-menos-estressado/"><img class="img-fluid" alt="8 dicas para ser mais paciente e menos estressado
-" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/340.jpg"><h2>8 dicas para ser mais paciente e menos estressado
-</h2></a>
+      <a href="<?php the_permalink() ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
     </div>
-    <div class="col-md-4">
-      <div class="featured-card-item-small">
-      <a href="/saude/40-coisas-todo-dia-mais-saudavel/"><img class="img-fluid" alt="40 coisas simples que você pode fazer todo dia para se manter mais saudável" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/750.jpg"><h2>40 coisas simples que você pode fazer todo dia para se manter mais saudável</h2></a>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="featured-card-item-small">
-      <a href="/saude/entenda-os-beneficios-do-abacate-e-voce-nunca-mais-ira-culpar-geracao-y/"><img class="img-fluid" alt="Entenda os benefícios do abacate e você nunca mais irá culpar a Geração Y" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/754.jpg"><h2>Entenda os benefícios do abacate e você nunca mais irá culpar a Geração Y</h2></a>
-      </div>
-    </div>
+    <?php endwhile; ?>
+    <?php else : ?>
+    <p><?php __('Nada a mostrar'); ?></p>
+    <?php endif; ?>
   </div>
 </div>
 <!-- END FEATURED PART 2 -->

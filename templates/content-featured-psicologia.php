@@ -26,24 +26,22 @@
     <div class="col-md-12">
       <h3>Últimos artigos em Psicologia</h3> <small class="d-none">small aqui.</small>
     </div>
-  </div><hr>   
+  </div><hr>
   <div class="row">
+  <?php query_posts( array(
+     'category_name' => 'psicologia',
+     'posts_per_page' => 3,
+  )); ?>
+  <?php if( have_posts() ): while ( have_posts() ) : the_post(); ?>
     <div class="col-md-4">
       <div class="featured-card-item-small">
-      <a href="/psicologia/importancia-de-dizer-nao"><img class="img-fluid" alt="A importância de dizer ‘não’" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/139.jpg"><h2>A importância de dizer ‘não’</h2></a>
+      <a href="<?php the_permalink() ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
     </div>
-    <div class="col-md-4">
-      <div class="featured-card-item-small">
-      <a href="/psicologia/pare-de-se-comparar-com-outras-pessoas"><img class="img-fluid" alt="Pare de se comparar com outras pessoas" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/146.jpg"><h2>Pare de se comparar com outras pessoas</h2></a>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="featured-card-item-small">
-      <a href="/psicologia/como-superar-o-medo"><img class="img-fluid" alt="Como superar o medo" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/148.jpg"><h2>Como superar o medo
-</h2></a>
-      </div>
-    </div>
+    <?php endwhile; ?>
+    <?php else : ?>
+    <p><?php __('Nada a mostrar'); ?></p>
+    <?php endif; ?>
   </div>
 </div>
 <!-- END FEATURED PART 2 -->
