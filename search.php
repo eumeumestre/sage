@@ -1,5 +1,5 @@
 <h1>Resultado da Pesquisa</h1>
-<div><p class="text-info"><?php echo('Pesquisa feita em '.timer_stop( 0 ).' segundos'); ?></p></div>
+<div><p class="text-success"><?php echo('Pesquisa feita em '.timer_stop( 0 ).' segundos'); ?></p></div>
 
 
 <?php if (!have_posts()) : ?>
