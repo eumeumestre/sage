@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-md-8">
       <div class="featured-card-item-big">
-      <a href="/estilo-de-vida/abracando-a-simplicidade/"><img alt="Abraçando a simplicidade" src="<?= get_template_directory_uri(); ?>/dist/images/featured/big/128.jpg" class="img-fluid"><h2>Abraçando a simplicidade</h2></a><p>Definição de simplicidade no dicionário: a ausência de complicação. Como ter uma vida reduzida direcionada em busca de qualidade e não quantidade.</p>
+      <a href="<?php the_permalink($post = 128) ?>"><?php the_post_thumbnail('featured-big', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a><p><?php the_excerpt(); ?></p>
       </div>
     </div>
 

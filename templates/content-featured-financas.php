@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-md-8">
       <div class="featured-card-item-big">
-      <a href="/financas/os-principios-basicos-do-dinheiro"><img alt="Os princípios básicos do dinheiro" src="<?= get_template_directory_uri(); ?>/dist/images/featured/big/141.jpg" class="img-fluid"><h2>Os princípios básicos do dinheiro</h2></a><p>Manter o sentimento de felicidade não é fácil, mas investir nos hábitos certos é recompensador. Adotá-los fará uma grande diferença no seu humor e o aproximará de pessoas com a mesma mentalidade.</p>
+      <a href="<?php the_permalink($post = 141) ?>"><?php the_post_thumbnail('featured-big', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a><p><?php the_excerpt(); ?></p>
       </div>
     </div>
 
