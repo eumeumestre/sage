@@ -9,12 +9,10 @@
 
     <div class="col-md-4">
       <div class="featured-card-item-small">
-      <a href="/relacionamentos/4-passos-para-elevar-seu-carisma/"><img alt="4 passos para elevar seu carisma
-" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/604.jpg"><h2>4 passos para elevar seu carisma
-</h2></a>
+      <a href="<?php the_permalink($post = 604) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
       <div class="featured-card-item-small">
-      <a href="/relacionamentos/como-detectar-um-narcisista-no-primeiro-encontro/"><img alt="Como detectar um narcisista no primeiro encontro" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/825.jpg"><h2>Como detectar um narcisista no primeiro encontro</h2></a>
+      <a href="<?php the_permalink($post = 805) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
     </div>
   </div>

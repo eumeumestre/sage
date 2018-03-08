@@ -9,10 +9,10 @@
 
     <div class="col-md-4">
       <div class="featured-card-item-small">
-      <a href="/financas/licoes-para-aprender-com-warren-buffett/"><img alt="5 lições para aprender com Warren Buffett" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/455.jpg"><h2>5 lições para aprender com Warren Buffett</h2></a>
+      <a href="<?php the_permalink($post = 455) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
       <div class="featured-card-item-small">
-      <a href="/financas/truques-financeiros-para-economizar-para-o-seu-sonho"><img alt="Truques financeiros para economizar para o seu sonho" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/525.jpg"><h2>Truques financeiros para economizar para o seu sonho</h2></a>
+      <a href="<?php the_permalink($post = 525) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
     </div>
   </div>

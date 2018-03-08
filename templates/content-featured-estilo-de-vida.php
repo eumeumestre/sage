@@ -9,12 +9,10 @@
 
     <div class="col-md-4">
       <div class="featured-card-item-small">
-      <a href="/estilo-de-vida/coisas-sobre-viagens-que-gostaria-de-ter-aprendido-mais-cedo"><img alt="Coisas sobre viagens que gostaria de ter aprendido mais cedo" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/280.jpg"><h2>Coisas sobre viagens que gostaria de ter aprendido mais cedo</h2></a>
+      <a href="<?php the_permalink($post = 280) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
       <div class="featured-card-item-small">
-      <a href="/estilo-de-vida/6-licoes-para-aprender-com-o-leao"><img alt="6 lições para aprender com o Leão, o rei da selva
-" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/656.jpg"><h2>6 lições para aprender com o Leão, o rei da selva
-</h2></a>
+      <a href="<?php the_permalink($post = 656) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
     </div>
   </div>

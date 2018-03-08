@@ -9,10 +9,10 @@
 
     <div class="col-md-4">
       <div class="featured-card-item-small">
-      <a href="/carreira/o-que-fazer-quando-paixao-pelo-trabalho-nao-e-o-suficiente"><img alt="O que fazer quando a paixão pelo trabalho não é o suficiente" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/109.jpg"><h2>O que fazer quando a paixão pelo trabalho não é o suficiente</h2></a>
+      <a href="<?php the_permalink($post = 109) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
       <div class="featured-card-item-small">
-      <a href="/carreira/5-mitos-comuns-ao-iniciar-um-negocio"><img alt="5 mitos comuns ao iniciar um negócio" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/645.jpg"><h2>5 mitos comuns ao iniciar um negócio</h2></a>
+      <a href="<?php the_permalink($post = 645) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
     </div>
   </div>

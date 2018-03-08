@@ -9,10 +9,10 @@
 
     <div class="col-md-4">
       <div class="featured-card-item-small">
-      <a href="/saude/8-beneficios-inesperados-da-sauna/"><img alt="8 benefícios inesperados da sauna" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/343.jpg"><h2>8 benefícios inesperados da sauna</h2></a>
+      <a href="<?php the_permalink($post = 343) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
       <div class="featured-card-item-small">
-      <a href="/saude/11-beneficios-do-cha-preto/"><img alt="11 Benefícios do chá preto que você não sabia" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/615.jpg"><h2>11 Benefícios do chá preto que você não sabia</h2></a>
+      <a href="<?php the_permalink($post = 615) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
     </div>
   </div>
