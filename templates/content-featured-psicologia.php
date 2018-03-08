@@ -9,10 +9,10 @@
 
     <div class="col-md-4">
       <div class="featured-card-item-small">
-      <a href="/psicologia/os-habitos-da-felicidade"><img alt="Os hábitos da felicidade" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/135.jpg"><h2>Os hábitos da felicidade</h2></a>
+      <a href="<?php the_permalink($post = 135) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
       <div class="featured-card-item-small">
-      <a href="/psicologia/10-dicas-basicas-para-automotivacao/"><img alt="10 dicas básicas para automotivação" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/609.jpg"><h2>10 dicas básicas para automotivação</h2></a>
+      <a href="<?php the_permalink($post = 609) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
     </div>
   </div>
