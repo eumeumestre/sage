@@ -9,37 +9,37 @@
     <div class="row">
       <div class="col-md-4">
         <div class="featured-card-item-small">  
-        <a href="/carreira/4-maneiras-de-superar-imprevistos-desastrosos-na-sua-empresa/"><img alt="4 maneiras de superar imprevistos desastrosos na sua empresa" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/798.jpg"><h2>4 maneiras de superar imprevistos desastrosos na sua empresa</h2></a>
+        <a href="<?php the_permalink($post = 623) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
         <div class="featured-card-item-small">
-        <a href="/carreira/5-qualidades-necessarias-para-ter-sucesso-como-freelancer/"><img alt="5 qualidades necessárias para ter sucesso como freelancer" class="img-fluid" src="<?= get_template_directory_uri(); ?>/dist/images/featured/small/674.jpg"><h2>5 qualidades necessárias para ter sucesso como freelancer</h2></a>
+        <a href="<?php the_permalink($post = 444) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
+        </div>
+        <div class="featured-card-item-small">
+        <a href="<?php the_permalink($post = 277) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="featured-card-item-small">  
+        <a href="<?php the_permalink($post = 133) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
         <div class="featured-card-item-small d-none">
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
+        </div>
+        <div class="featured-card-item-small d-none">
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
       </div>
 
       <div class="col-md-4">
         <div class="featured-card-item-small d-none">  
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
         <div class="featured-card-item-small d-none">
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
         <div class="featured-card-item-small d-none">
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="featured-card-item-small d-none">  
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
-        </div>
-        <div class="featured-card-item-small d-none">
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
-        </div>
-        <div class="featured-card-item-small d-none">
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
       </div>
     </div>

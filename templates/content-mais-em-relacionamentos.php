@@ -8,38 +8,38 @@
   </div><hr>   
     <div class="row">
       <div class="col-md-4">
-        <div class="featured-card-item-small">  
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
+        <div class="featured-card-item-small d-none">  
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
-        <div class="featured-card-item-small">
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
+        <div class="featured-card-item-small d-none">
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
-        <div class="featured-card-item-small">
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
-        </div>
-      </div>
-
-      <div class="col-md-4">
-        <div class="featured-card-item-small">  
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
-        </div>
-        <div class="featured-card-item-small">
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
-        </div>
-        <div class="featured-card-item-small">
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
+        <div class="featured-card-item-small d-none">
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
       </div>
 
       <div class="col-md-4">
-        <div class="featured-card-item-small">  
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
+        <div class="featured-card-item-small d-none">  
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
-        <div class="featured-card-item-small">
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
+        <div class="featured-card-item-small d-none">
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
-        <div class="featured-card-item-small">
-        <a href="#"><img alt="" class="img-fluid" src="http://via.placeholder.com/350x170"><h2>Lorem ipsum</h2></a>
+        <div class="featured-card-item-small d-none">
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="featured-card-item-small d-none">  
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
+        </div>
+        <div class="featured-card-item-small d-none">
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
+        </div>
+        <div class="featured-card-item-small d-none">
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
       </div>
     </div>
