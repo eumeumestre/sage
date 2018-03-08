@@ -15,7 +15,7 @@
         <a href="<?php the_permalink($post = 284) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
         <div class="featured-card-item-small">
-        <a href="<?php the_permalink($post = 139) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
+        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
       </div>
 
@@ -24,7 +24,7 @@
         <a href="<?php the_permalink($post = 146) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
         <div class="featured-card-item-small">
-        <a href="<?php the_permalink($post = 148) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
+        <a href="<?php the_permalink($post = 139) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
         </div>
         <div class="featured-card-item-small">
          <a href="<?php the_permalink($post = 499) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
