@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-md-8">
       <div class="featured-card-item-big">
-      <a href="<?php the_permalink($post = 124) ?>"><?php the_post_thumbnail('featured-big', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a><p><?php the_excerpt(); ?></p>
+      <a href="<?php the_permalink($post = 124) ?>"><?php the_post_thumbnail('featured-big', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a><?php the_excerpt(); ?>
       </div>
     </div>
 
