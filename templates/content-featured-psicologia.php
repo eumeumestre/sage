@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-md-8">
       <div class="featured-card-item-big">
-      <a href="/psicologia/inteligencia-emocional-o-verdadeiro-sucesso"><img alt="Inteligência Emocional: o verdadeiro sucesso" src="<?= get_template_directory_uri(); ?>/dist/images/featured/big/124.jpg" class="img-fluid"><h2>Inteligência Emocional: o verdadeiro sucesso</h2></a><p>Manter o sentimento de felicidade não é fácil, mas investir nos hábitos certos é recompensador. Adotá-los fará uma grande diferença no seu humor e o aproximará de pessoas com a mesma mentalidade.</p>
+      <a href="<?php the_permalink($post = 124) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_excerpt(); ?></p>
       </div>
     </div>
 
