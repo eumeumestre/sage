@@ -26,7 +26,7 @@
     </div>
     <div class="col-md-4">
       <div class="featured-card-item-small">
-        <a href="<?php the_permalink($post = 754) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
+        <a href="<?php the_permalink($post = 137) ?>"><?php the_post_thumbnail('featured-small', array('class' => 'img-fluid')); ?><h2><?php the_title(); ?></h2></a>
       </div>
     </div>
     <div class="col-md-4">
